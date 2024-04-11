@@ -1,0 +1,21 @@
+# Character Creation Checklist
+
+- Build a Concept
+  - We reccomend these questions be answered but so long as you have an idea
+    - What do people notice about you first?
+    - What item do you always have on hand?
+    - Where do you want to go?
+    - Where would you never go again?
+    - Does anyone miss you?
+    - Is anyone looking for you?
+- Choose a Homeland
+  - Here refer to our list of homelands
+- Select 4 Traits
+- Select an Archetype and Starting Talent
+- Assign Equipment
+  - 1 Tier 3 item
+  - 2 Tier 2 items
+  - 3 Tier 1 items
+- Final Details
+  - Determine how your Character behaves and acts within their company.
+- Do the intro RP with your fellow Actors or Director!
