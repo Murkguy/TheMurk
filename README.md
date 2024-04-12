@@ -1,6 +1,6 @@
-- [What is The Murk | The Murk](#what-is-the-murk--the-murk)
-- [Introduction | The Murk SRD](#introduction--the-murk-srd)
-- [The Game | The Murk SRD](#the-game--the-murk-srd)
+- [What is The Murk](#what-is-the-murk)
+- [Introduction](#introduction)
+- [The Game](#the-game)
   - [Before We Start](#before-we-start)
   - [Playing The Game](#playing-the-game)
 - [3DX System](#3dx-system)
@@ -55,7 +55,7 @@
 - [Character Creation Checklist](#character-creation-checklist)
 - [The World of The Murk](#the-world-of-the-murk)
   - [Why Include Setting in an SRD?](#why-include-setting-in-an-srd)
-  - [Introduction](#introduction)
+  - [Introduction](#introduction-1)
 - [Lands of Tellus](#lands-of-tellus)
   - [Doria: The Legacy of Varranthal](#doria-the-legacy-of-varranthal)
     - [Dorians at a Glance](#dorians-at-a-glance)
@@ -131,7 +131,7 @@
   - [Exploring Novemgrod](#exploring-novemgrod)
   - [Exploring the Murk](#exploring-the-murk)
 
-# What is The Murk | The Murk
+# What is The Murk 
 
 > _"I remember that day, that damned fog rushed forward across no man's land. I remember getting my mask on just in time. Even then, you could still hear the whispers admist the muffled cries of those around you. Who will forgive us? Who can forgive us?"_
 
@@ -140,13 +140,13 @@
 Players take on the roles of heroes and villains cast into a web of mysteries, plots, exploration and cosmic horror as they carve their own place out of a society on the brink. It is the story of heroism, sacrifice, destruction and redemption that drives humanity to find it’s new normal after the end of the world.
 You will find all Breathless related resources like the game's official SRD which contains all the rules and design guidelines for you to make your own Breathless game, extra rules, and more.
 
-# Introduction | The Murk SRD
+# Introduction 
 
 ![The Murk SRD](https://gyazo.com/fc802122e934a8c058f228e83492187b.png)
 
 This is the The Murk SRD. A free and open licensed version of The Murk that contains all the rules, information and design guidelines for you to make your own game in The Murk.
 
-# The Game | The Murk SRD
+# The Game 
 
 ## Before We Start
 
