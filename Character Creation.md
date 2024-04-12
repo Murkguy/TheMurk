@@ -62,9 +62,9 @@ For humans.
 
 Attributes are a set of secondary scores that define the character’s potential to do and take physical damage, how quickly they move, and the amount of magical energy available to the character. The character’s characteristic scores determine the value of their attributes.
 
-- __Damage Modifier (DM):__ The Damage Modifier applies whenever the character uses a melee or thrown weapon. It’s calculated by adding the character’s Strength and Size together and referring to the table below. The modifier gets more significant when the sum of Strength and Size are higher –bigger, stronger, characters deal out more damage than smaller, weaker, characters.
+- __Damage/Health Modifier (DM):__ The Damage Modifier applies whenever the character uses a melee or thrown weapon. It’s calculated by adding the character’s Strength and Size together and referring to the table below. The modifier gets more significant when the sum of Strength and Size are higher –bigger, stronger, characters deal out more damage than smaller, weaker, characters.
 
-Damage Modifier
+Damage/Health Modifier
 
 | Total of STR and SIZ | Damage Modifier |
 | -------------------- | --------------- |
@@ -106,7 +106,9 @@ Social Modifier
 
 __*If after you have taken away the rolled modifier and the result is under 0, increase it to 1.__
 
-- __Hit points (HP):__ These determine how much damage the character can sustain before reaching unconsciousness or death.
+- __Health (HE):__ These determine how much damage the character can sustain before reaching unconsciousness or death.
+- 
+- __Strain (ST):__ These determine how much mental anguisbh the character can sustain before reaching madness or death.
 
 - __Magic points (MP):__ A measure of the character’s magical energy. Used to activate any spells the character knows.
 
@@ -116,7 +118,9 @@ __*If after you have taken away the rolled modifier and the result is under 0, i
 
 To work out your character’s damage modifier, add Strength and Size together and look at the Damage Modifier table.
 
-- Hit points equal 40+ Size plus Constitution.
+- Health equals 40+ Size + Constitution + the max of the character's Damage Modifier.
+
+- Strain equals 40+ Intelligence and Power 
 
 - The character’s starting magic points will be equal to the character’s POW.
 
@@ -128,257 +132,114 @@ Skills are things that the character can do. They represent particular areas of 
 
 For example.
 
-Ethelred has a Dodge of 52%, which means that in combat he has to roll 52 or under on D100 to avoid the incoming blows of his opponent.
+> Ethelred has a Dodge of 52%, which means that in combat he has to roll 52 or under on D100 to avoid the incoming blows of his opponent.
 
 What do the Numbers Mean?
 
 The following table translates the skill percentage into a ‘real world’ description of the level of expertise.
 
-Skill Expertise
+| Skill Level   | Expertise | Description |
+| :-------  | :----: | ----:    |
+| 0-25% |   Novice  |   No experience with the skill and is relying on raw talent and beginner’s luck. |
+| 26-50%    | Apprentice    | This level of expertise represents someone actively learning the skill.   |
+| 51-75%    | Veteran   | The character is competent with the basic uses of the skill, which they use in everyday life. |
+| 76-99%    | Expert    | This character is a local expert at the skill, who can perform it under most conditions with ease and elegance. |
+| +100%      | Master    | They are acknowledged as best at that skill, and regularly perform the impossible in challenging conditions. |
 
-Skill
+100% is not the upper limit for skills, though it is a soft cap. Characters with skills at or above 100% are Masters of their skills, and nearly always succeed, and can impact the skills of others when in competition with them.
 
-Expertise
-
-Description
-
-0-25%
-
-Novice
-
-No experience with the skill and is relying on raw talent and beginner’s luck.
-
-26-50%
-
-Apprentice
-
-This level of expertise represents someone actively learning the skill.
-
-51-75%
-
-Veteran
-
-The character is competent with the basic uses of the skill, which they use in everyday life.
-
-76-99%
-
-Expert
-
-This character is a local expert at the skill, who can perform it under most conditions with ease and elegance.
-
-100%
-
-Master
-
-They are acknowledged as best at that skill, and regularly perform the impossible in challenging conditions.
-
-100% is the upper limit for skills, either through improvement or by being modified before a skill roll. Characters with skills at 100% are Masters of their skills, and always automatically succeed with a critical effect.
-
-Skill Lists
+### Skill Lists
 Skills categorised for easy reference.
 
-Resistances are skills that get the character out of harm’s way.
+- Combat skills measure the character’s skills in physical violence.
 
-Combat skills measure the character’s skills in physical violence.
+- Knowledge skills measure the intellectual abilities of the character.
 
-Knowledge skills measure the intellectual abilities of the character.
+- Practical skills measure the character’s ability to perform a variety of everyday and specialist tasks.
 
-Practical skills measure the character’s ability to perform a variety of everyday and specialist tasks.
+- Magic skills cover either casting magic or knowledge of religious practices.
 
-Magic skills cover either casting magic or knowledge of religious practices.
+*A note about skills with descriptors in brackets. Lore (Type), Religion (Other Religion) and Culture (Other) all have a descriptor in brackets after the main skill name*
 
-A note about skills with descriptors in brackets. Lore (Type), Religion (Other Religion) and Culture (Other) all have a descriptor in brackets after the main skill name
+### Skill Bases
 
-Skill Bases
-Resistances
 
-Skill
+#### Combat Skills
 
-Base
+| Skill           | Base    |
+|-----------------|---------|
+| Dodge           | DEX+10   |
+| Close Combat    | DEX+STR |
+| Ranged Combat   | DEX+INT |
+| Unarmed Combat  | DEX+STR |
 
-Dodge
 
-DEX+10
+#### Knowledge Skills
 
-Persistence
+| Skill           | Base   |
+|-----------------|--------|
+| Culture (Own)   | INT+10 |
+| Language (Own)  | INT+50 |
+| Natural Lore    | INT+10 |
+| Culture (Other) | INT    |
+| Language (Other)| INT    |
+| Lore (Type)     | INT    |
 
-POW+10
+#### Practical Skills
 
-Resilience
+| Skill        | Base    |
+|--------------|---------|
+| Athletics    | DEX+STR |
+| Craft        | INT+10  |
+| Deception    | DEX+INT |
+| Driving      | DEX+INT |
+| Engineering  | INT+10  |
+| Healing      | INT+10  |
+| Influence    | CHA +10 |
+| Mechanisms   | DEX+INT |
+| Perception   | INT+POW |
+| Performance  | CHA+10  |
+| Riding       | DEX+POW |
+| Sailing      | DEX+INT |
+| Streetwise   | CHA+POW |
+| Trade        | INT+10  |
+| Wealth       | INT+CHA |
 
-CON+POW
+#### Powers Skills
 
-Combat Skills
+| Skill                   | Base     |
+|-------------------------|----------|
+| Personal Magix Casting  | POW X 3  |
+| Esoteria Casting        | INT      |
+| Religion (Own Religion)| INT+10   |
+| Religion (Other Religion)| INT    |
 
-Skill
-
-Base
-
-Close Combat
-
-DEX+STR
-
-Ranged Combat
-
-DEX+INT
-
-Unarmed Combat
-
-DEX+STR
-
-Knowledge Skills
-
-Skill
-
-Base
-
-Culture (Own)
-
-INT+10
-
-Language (Own)
-
-INT+50
-
-Natural Lore
-
-INT+10
-
-Culture (Other)
-
-INT
-
-Language (Other)
-
-INT
-
-Lore (Type)
-
-INT
-
-Practical Skills
-
-Skill
-
-Base
-
-Athletics
-
-DEX+STR
-
-Craft
-
-INT+10
-
-Deception
-
-DEX+INT
-
-Driving
-
-DEX+INT
-
-Engineering
-
-INT+10
-
-Healing
-
-INT+10
-
-Influence
-
-CHA +10
-
-Mechanisms
-
-DEX+INT
-
-Perception
-
-INT+POW
-
-Performance
-
-CHA+10
-
-Riding
-
-DEX+POW
-
-Sailing
-
-DEX+INT
-
-Streetwise
-
-CHA+POW
-
-Trade
-
-INT+10
-
-Wealth
-
-INT+CHA
-
-Magic Skills
-
-Skill
-
-Base
-
-Personal Magic Casting
-
-POW X 3
-
-Sorcery Casting
-
-INT
-
-Religion (Own Religion)
-
-INT+10
-
-Religion (Other Religion)
-
-INT
-
-Step 4: Calculate Skills
+### Step 4: Calculate Skills
 
 For each skill, calculate the starting skill value, also known as the base score, from the calculation provided. Then write it down on the character sheet next to the skill.
 
 During character generation, the player gets a pool of points to spend on each group of skills. Distribute points between the skills, with a limit of no more than 30 to be allocated to any one skill.
 
-Resistances: Spend 50 points between the three skills.
+- Combat: Spend 30 points between the four skills.
 
-Combat: Spend 50 points between the three skills.
+- Knowledge: Spend 20 points between the skills.
 
-Knowledge: Spend 50 points between the skills.
+- Practical: Spend 45 points between skills.
+  
+__Intelligence Bonus :__ Multiply your INT score by 10 and apply these points to any section you see fit. *Note: this new total still cannot exceed the 30 points per skill.*
 
-Practical: Spend 75 points between skills.
+*Magic: is special, refer to Generating a Character Step 5 below.*
 
-Magic: is special, refer to Generating a Character Step 5 below.
+### Magic
 
-Magic
-
-Step 5: Magic Spells
+#### Step 5: Magic Spells
 
 Look at the spells in the Personal Magic chapter and pick six points of magnitude worth. Also work out Personal Magic Casting Skill, which starts at POW X 3.
 
-Equipment
+## Equipment
 
 Each character typically starts with some money and the tools of their trade.
 
-Step 6: Cash and Equipment
-
-Starting cash is 4D6 x 10 in silver pieces unless you are using the optional rules to abstract resources using the Wealth skill.
-Each character starts with one of the two arms and armour packages below:
-Leather armour, ranged weapon, close combat 2H weapon and dagger.
-Leather armour, a medium or small shield, ranged weapon, close combat 1H weapon and dagger.
-Also, each character starts with the following equipment:
-A backpack, rope, two weeks’ worth of travelling provisions, flint and tinder, and a waterskin.
-Your Referee may allow you to buy additional equipment before the game starts from the character’s starting cash.
 
 Finishing Off the Character
 
@@ -435,54 +296,6 @@ Create at a Saga Motive for the character
 If you want to include a background narrative, then do this now.
 
 Finally, if you haven’t done so already, write the character’s name on the character sheet.
-
-Non-human adventurers (Optional)
-
-With the Referee’s permission, your character may be one of the creatures found in the Creatures chapter.
-
-Use the random method to determine characteristics and roll the dice.
-
-or
-
-Take the value in brackets as the starting point and add ten points amongst them. Characteristics cannot be increased above the maximum value permitted by the random method (i.e. the maximum rollable plus three).
-
-Make a note of the special abilities, traits, movement rates, natural armour and the natural weapons of the creature; damage base is as given, and skills start at Base Value.
-
-Then determine skills and magic as normal, perhaps using the weapons and skills on the creature description which depict an average member of the species as a guide.
-
-Ready-Made Concepts
-
-Ready-made concepts give quick ideas for players who are struggling to decide which skills and magic to choose.
-
-Follow the character generation process up to the section on spending points on skills and choosing magic (steps 4 & 5). Instead of step 4 and 5, use the skill points and magic spells allocation as listed for the concept. Roll for money as normal but write down all the suggested equipment on the character sheet instead of the normal default adventuring starting equipment.
-
-Each concept has the following components:
-
-A name. A one-sentence summary of the concept.
-
-• Skills. A ready-made points allocation for each of the skills groups.
-
-• Personal Magic. Non-variable spells have the magic point cost in square brackets.
-
-• Equipment.
-
-So here we go here’s an example of a ready-made concept for players who are stuck for ideas.
-
-Adventurous and Knowledge-Hungry Scholar
-
-Skills:
-
-Resistances: Dodge +30, Persistence +10, Resilience +10.
-
-Combat: Close Combat+20, Ranged Combat+10, Unarmed Combat +20.
-
-Knowledge: Language (Other) +20, Lore (Ancient Dead Civilisations) +30.
-
-Practical: Athletics + 25, Influence +20, Perception +30.
-
-Personal Magic: Coordination 2, Protection 2, Second Sight [2].
-
-Equipment: Scholar’s robes over leather armour, staff or dagger, and sling & stones.
 
 Character Growth
 
