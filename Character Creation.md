@@ -48,83 +48,81 @@ If you prefer a more traditional method of rolling dice to create characteristic
 For humans.
 
 | Attribute | Dice  |
-| ------- | ------- |
-| STR   | 3d6   |
-| DEX   | 3d6   |
-| CON   | 3d6   |
-| SIZ   | 2d6+6 |
-| INT   | 2d6+6 |
-| POW   | 3d6   |
-| CHA   | 3d6   |
+| --------- | ----- |
+| STR       | 3d6   |
+| DEX       | 3d6   |
+| CON       | 3d6   |
+| SIZ       | 2d6+6 |
+| INT       | 2d6+6 |
+| POW       | 3d6   |
+| CHA       | 3d6   |
 
 
 ### Attributes
 
 Attributes are a set of secondary scores that define the character’s potential to do and take physical damage, how quickly they move, and the amount of magical energy available to the character. The character’s characteristic scores determine the value of their attributes.
 
-Damage Modifier (DM): The Damage Modifier applies whenever the character uses a melee or thrown weapon. It’s calculated by adding the character’s Strength and Size together and referring to the table below. The modifier gets more significant when the sum of Strength and Size are higher –bigger, stronger, characters deal out more damage than smaller, weaker, characters.
+- __Damage Modifier (DM):__ The Damage Modifier applies whenever the character uses a melee or thrown weapon. It’s calculated by adding the character’s Strength and Size together and referring to the table below. The modifier gets more significant when the sum of Strength and Size are higher –bigger, stronger, characters deal out more damage than smaller, weaker, characters.
 
 Damage Modifier
 
-Total of STR and SIZ
+| Total of STR and SIZ | Damage Modifier |
+| -------------------- | --------------- |
+| 1-10                 | -2d6 *          |
+| 11-15                | -1d6 *          |
+| 16-25                | +0              |
+| 26-30                | +1d6            |
+| 31-45                | +2d6            |
+| 46-60                | +4d6            |
+| Every addtional 15   | +2d6            |
 
-Damage Modifier
+- __Initiative Modifier (IM):__ The Initative Modifier applies whenever the character rolls for initative during or at the beginning of combat. It’s calculated by adding the character’s Dexterity and Intelligence together and referring to the table below. The modifier gets more significant when the sum of Dexterity and Intelligence are higher –sharper, faster, characters act sooner that slower, less intelligent ones.
 
-1–10
+Initative Modifier
 
-–1D6 *
+| Total of DEX and INT | Initiative Modifier |
+| -------------------- | --------------- |
+| 1-10                 | -2d6 *          |
+| 11-15                | -1d6 *          |
+| 16-25                | +0              |
+| 26-30                | +1d6            |
+| 31-45                | +2d6            |
+| 46-60                | +4d6            |
+| Every addtional 15   | +2d6            |
 
-11–15
+- __Social Modifier (SM):__ The Social Modifier applies whenever the character rolls to apply strain to another character during a social conflict. It’s calculated by adding the character’s Charisma and Power together and referring to the table below. The modifier gets more significant when the sum of Charisma and Powerful are higher –forceful, empowered, characters tend to bend others to their will more easily.
 
-–1D4 *
+Social Modifier
 
-16–25
+| Total of CHA and POW | Social Modifier |
+| -------------------- | --------------- |
+| 1-10                 | -2d6 *          |
+| 11-15                | -1d6 *          |
+| 16-25                | +0              |
+| 26-30                | +1d6            |
+| 31-45                | +2d6            |
+| 46-60                | +4d6            |
+| Every addtional 15   | +2d6            |
 
-+0
+__*If after you have taken away the rolled modifier and the result is under 0, increase it to 1.__
 
-26–30
+- __Hit points (HP):__ These determine how much damage the character can sustain before reaching unconsciousness or death.
 
-+1D4
+- __Magic points (MP):__ A measure of the character’s magical energy. Used to activate any spells the character knows.
 
-31–45
+- __Movement rate (MR):__ This is the amount in metres that a character can move in a five-second Combat Round.
 
-+1D6
-
-46–60
-
-+2D6
-
-61-75
-
-+3D6
-
-76-90
-
-+4D6
-
-Every additional + 15
-
-+1D6
-
-*If after you have taken away the rolled damage modifier and the damage is under 0, increase it to 1.
-
-Hit points (HP): These determine how much damage the character can sustain before reaching unconsciousness or death.
-
-Magic points (MP): A measure of the character’s magical energy. Used to activate any spells the character knows.
-
-Movement rate (MR): This is the amount in metres that a character can move in a five-second Combat Round.
-
-Step 3: Determine Attributes
+#### Step 3: Determine Attributes
 
 To work out your character’s damage modifier, add Strength and Size together and look at the Damage Modifier table.
 
-Hit points equal Size plus Constitution divided by 2, rounded up.
+- Hit points equal 40+ Size plus Constitution.
 
-The character’s starting magic points will be equal to the character’s POW.
+- The character’s starting magic points will be equal to the character’s POW.
 
-Human characters have a Movement rate of 15 metres.
+- Human characters have a Movement rate of 15 metres.
 
-Skills
+## Skills
 
 Skills are things that the character can do. They represent particular areas of expertise. In-game, the percentage value of the skill is rolled against, using a D100, to work out if a character completes a task in the game. A roll equal to or less than the skill percentage indicates a success.
 
