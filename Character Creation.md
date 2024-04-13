@@ -1,14 +1,14 @@
-# Character Creation Checklist
-FILL IN
+
+
 ## Character Concept
 
 A character concept is a one-sentence summing up of what the character is all about.
 
 ### Step 1: Determine Concept and Homeland
 
-In a couple sentence, sum up what your character is all about. Use the guidelines above to give yourself ideas. Ask the other players what their character concepts are to make sure the group has an exciting selection of characters.
+In a couple sentence, sum up what your character is all about. Use the guidelines above to give yourself ideas. Ask the other actors what their character concepts are to make sure the group has an exciting selection of characters.
 
-It's reccomended to that these questions be answered, but feel free to add other information as well
+It's reccomended to that these storyions be answered, but feel free to add other information as well
     - What do people notice about you first?
     - What item do you always have on hand?
     - Where do you want to go?
@@ -39,7 +39,7 @@ The characteristics are:
 
 - Charisma (CHA): This quantifies a character’s attractiveness and leadership qualities.
 
-#### Step 2: Generate Characteristics
+### Step 2: Generate Characteristics
 
 Random Generation of Characteristics
 
@@ -114,7 +114,7 @@ __*If after you have taken away the rolled modifier and the result is under 0, i
 
 - __Movement rate (MR):__ This is the amount in metres that a character can move in a five-second Combat Round.
 
-#### Step 3: Determine Attributes
+### Step 3: Determine Attributes
 
 To work out your character’s damage modifier, add Strength and Size together and look at the Damage Modifier table.
 
@@ -218,7 +218,7 @@ Skills categorised for easy reference.
 
 For each skill, calculate the starting skill value, also known as the base score, from the calculation provided. Then write it down on the character sheet next to the skill.
 
-During character generation, the player gets a pool of points to spend on each group of skills. Distribute points between the skills, with a limit of no more than 30 to be allocated to any one skill.
+During character generation, the actor gets a pool of points to spend on each group of skills. Distribute points between the skills, with a limit of no more than 30 to be allocated to any one skill.
 
 - Combat: Spend 30 points between the four skills.
 
@@ -230,243 +230,186 @@ __Intelligence Bonus :__ Multiply your INT score by 10 and apply these points to
 
 *Magic: is special, refer to Generating a Character Step 5 below.*
 
-### Magic
+## Magic
 
-#### Step 5: Magic Spells
+### Step 5: Magic Spells
 
-Look at the spells in the Personal Magic chapter and pick six points of magnitude worth. Also work out Personal Magic Casting Skill, which starts at POW X 3.
+Look at the spells in the Innate Magic chapter and pick six points of magnitude worth. Also work out Innate Magic Casting Skill, which starts at POW X 3.
 
 ## Equipment
 
 Each character typically starts with some money and the tools of their trade.
 
 
-Finishing Off the Character
+## Finishing Off the Character
 
-General Information
+### General Information
 
-Age: Human characters start at any age between 18 and 28. To randomly determine this, roll 2D6 and add 16.
+- Age: Human characters start at any age between 18 and 28. To randomly determine this, roll 2D6 and add 16.
 
-Fortune points: Every character starts with two fortune points.
+- Fortune points: Every character starts with two fortune points.
 
-What are Fortune Points?
+#### What are Fortune Points?
 
-Fortune points are what distinguishes the player character from the average stay at home type folk. They represent their good fortune and ability to escape life-threatening situations with ease.
+Fortune points are what distinguishes the actor character from the average stay at home type folk. They represent their good fortune and ability to escape life-threatening situations with ease.
 
-Fortune points allow the player character to do any of the following in game.
+Fortune points allow the actor character to do any of the following in game.
 
-Re-roll any failed dice roll.
-Flip the existing dice result for a failed test so that the units are now the tens and the tens are now the units, so that it is a success.
-Avoid character death. Instead of dying, the character, if reduced to zero or fewer hit points, is merely unconscious. The character remains in such a state until the combat is over, at which point they awaken with one hit point.
-If the character uses Divine Magic, they can spend fortune points invoke their deity and regain a cast spell of their choosing.
-Once spent, fortune points are gone. The Referee awards fortune at the end of the game session for moments of outstanding heroic play.
+- Re-roll any failed dice roll.
+- Flip the existing dice result for a failed test so that the units are now the tens and the tens are now the units, so that it is a success.
+- Avoid character death. Instead of dying, the character, if reduced to zero or fewer hit points, is merely unconscious. The character remains in such a state until the combat is over, at which point they awaken with one hit point.
+- If the character uses Faith Magic, they can spend fortune points invoke their deity and regain a cast spell of their choosing.
 
-In an average Quest, each character should also receive two fortune points. Modify this total if the character has performed particularly poorly or heroically, giving a range of between zero and four fortune points to be awarded.
+*Once spent, fortune points are gone. The Director awards fortune at the end of the game episode for moments of outstanding heroic play.*
 
-Background, Appearance and Personality
+In an average Story, each character should also receive two fortune points. Modify this total if the character has performed particularly poorly or heroically, giving a range of between zero and four fortune points to be awarded.
+
+## Background, Appearance and Personality
 
 Even if you do not create a fully written-up background, it is worth making a mental note of what the character is like as a person and roughly what their background is previous to play, as well as visualising what they look like.
 
-The Character’s Background
+### The Character’s Background
 
 The background is useful not only to give the character history before the game starts but also as a way of noting all the intangible elements of the character’s personality. Ethelred’s story later in this chapter is an example of a background.
 
 Writing down a background is optional and can be done either before or after character generation or can even emerge during play.
 
-Motives
+## Motives
 
 Motives are what drives the character’s actions. They are the character’s goals, both short and long-term.
 
-Saga Motives are life motives and are only achievable throughout a linked set of adventures, commonly known as a ‘campaign’ or Saga as OpenQuest calls it.
+Season Motives are life motives and are only achievable throughout a linked set of adventures, commonly known as a ‘campaign’ or Season as OpenStory calls it.
 
-Quest Motives are usually relevant to the adventure currently being played and are determined near the beginning of the session by the players.
+Story Motives are usually relevant to the adventure currently being played and are determined near the beginning of the episode by the actors.
 
-At the end of character generation, choose one Saga Motive for your character and at the beginning of the adventure, choose a suitable Quest Motive.
+At the end of character generation, choose one Season Motive for your character and at the beginning of the adventure, choose a suitable Story Motive.
 
-Step 7: Finish Off the Character
+### Step 6: Finish Off the Character
 
-Note down fortune points and age.
+- Note down fortune points and age.
 
-For humans, this is 18-28 (2D6+16) respectively for starter adventurers.
+> For humans, this is 18-28 (2D6+16) respectively for starter adventurers.
 
-Fortune points starts at 2.
+- Fortune points starts at 2.
 
-Create at a Saga Motive for the character
+##### Create a Season Motive for the character
 
 If you want to include a background narrative, then do this now.
 
 Finally, if you haven’t done so already, write the character’s name on the character sheet.
 
-Character Growth
+## Character Growth
 
-As characters go on Quests, they grow and improve. In the game, this can be one of the tangible goals for the players.
+As characters goes through Stories, they grow and improve. In the game, this can be one of the tangible goals for the actors.
 
-The main currency for achieving this and indicator of how well the character is doing in game terms are growth points or just simply growth. The Referee hands these out after a Quest.
+There are two methods of increasing capability for characters during a season.
+The main currency for achieving this and indicator of how well the character is doing in game terms are growth points or just simply __Growth__. The Director hands these out after a Story.  The second method is organic and driven from skill usage, which will increase skills directly through usage, this method is is called __Learning__.
 
-Growth can happen because of three situations.
+__Growth__ can happen because of four situations.
 
-Bringing motives into play, as determined by the player and approved by the Referee.
-Quest achievement awards. These are determined and handed out by the Referee.
-In game rewards for skill use. If the player fumbles or criticals during a skill test.
-Ad hoc growth awards. The Referee gives these out as a result of certain events occurring during the Quest.
-Awarding Growth for Motives
+- Bringing motives into play, as determined by the actor and approved by the Director.
+- Story achievement awards. These are determined and handed out by the Director.
+- In game rewards for skill use. If the actor fumbles or criticals during a skill test.
+- Ad hoc growth awards. The Director gives these out as a result of certain events occurring during the Story.
 
-The characters’ motives are the main way players get to drive play and grow their characters.
+__Learning__ occurs when a skill is used during a story.  That skill gets the Learning box check.  At the end of the story, the actors roll for each Learned skill.  In order to increase the skill, they must roll under the skill+their intelligence score.  
 
-If your character completes a motive, either short or long term, during a gaming session, cross it out.
+### Awarding Growth for Motives
 
-If you engage with a motive in a gaming session, bringing it in to play, but don’t complete it, put a * next to it. You can only mark growth once in this way per Quest.
+The characters’ motives are the main way actors get to drive play and grow their characters.
 
-Make sure you make these marks as soon as your character achieves them with your Referee’s permission.
+If your character completes a motive, either short or long term, during a gaming episode, cross it out.
 
-At the end of the Quest, look at your motives.
+If you engage with a motive in a gaming episode, bringing it in to play, but don’t complete it, put a * next to it. You can only mark growth once in this way per Story.
 
-+5 growth points if you complete your Saga motive.
+Make sure you make these marks as soon as your character achieves them with your Director’s permission.
 
-+2 growth points if you complete your Quest motive.
+At the end of the Story, look at your motives.
 
-+1 for every motive that is brought into play. You don’t get this award as well as the award for completing a motive.
+- +5 growth points if you complete your Season motive.
 
-As a result, you should have a total between 1 growth point (you engaged with your short-term Quest motive) and 7 growth points (you complete both your Quest motive and Saga motive).
+- +2 growth points if you complete your Story motive.
+
+- +1 for every motive that is brought into play. You don’t get this award as well as the award for completing a motive.
+
+As a result, you should have a total between 1 growth point (you engaged with your short-term Story motive) and 7 growth points (you complete both your Story motive and Season motive).
 
 At this point, rub out any asterisk markers and remove any short-term motives, whether completed or not. Leave the completed long-term motives on the character sheet.
 
-Motive Review
+### Motive Review
 
-At the end of each Quest, the player and the Referee can call for a Motive Review. During the review, the player can change Saga Motives that are no longer interesting to them or relevant to the character. They can also remove uncompleted Quest Motives or carry them over to the next Quest, in which case the Referee makes a note of them.
+At the end of each Story, the actor and the Director can call for a Motive Review. During the review, the actor can change Season Motives that are no longer interesting to them or relevant to the character. They can also remove uncompleted Story Motives or carry them over to the next Story, in which case the Director makes a note of them.
 
-Referee Growth Awards
+#### Director Growth Awards
 
-The Referee award character growth as a result of the following.
+The Director award character growth as a result of the following.
 
-Quest achievement award is directly linked to how long the quest was.
-In game rewards for skill use. If a character fumbles or criticals during a skill test, their player adds a growth point immediately.
-Ad Hoc awards that acknowledge growth that occurs due to achievements outside of the standard growth system.
-Quest Achievement Awards
+- Story achievement award is directly linked to how long the story was.
+- In game rewards for skill use. If a character fumbles or criticals during a skill test, their actor adds a growth point immediately.
+- Ad Hoc awards that acknowledge growth that occurs due to achievements outside of the standard growth system.
 
-At the end of a Quest, the Referee makes this award, a simple flat award of two growth points for each session of play of average length of two-three hours. Adjust for longer sessions.
+#### Story Achievement Awards
 
-For example, A self-contained one session one-shot game that took three hours should give two growth points, while a Quest that took four sessions, each two to three hours, to play out gives eight growth points to each player.
+At the end of a Story, the Director makes this award, a simple flat award of two growth points for each episode of play of average length of two-three hours. Adjust for longer episodes.
 
-Note: if you want to reward clever or entertaining play, use fortune points instead (see box below).
+For example, A self-contained one episode one-shot game that took three hours should give two growth points, while a Story that took four episodes, each two to three hours, to play out gives eight growth points to each actor.
 
-In Game Rewards for Skill Use
+*Note: if you want to reward clever or entertaining play, use fortune points instead (see box below).*
 
-If a character fumbles or criticals during a skill-test, they grow from the experience and the player immediately records a one-point growth award. The table should also cheer on the player. There is no limit to how many times this reward can be issued. The reward reflects this author’s belief that we grow from great success or great failure.
+#### In Game Rewards for Skill Use
 
-Ad Hoc Awards
+If a character fumbles or criticals during a skill-test, they grow from the experience and the actor immediately records a one-point growth award. The table should also cheer on the actor. There is no limit to how many times this reward can be issued. The reward reflects this author’s belief that we grow from great success or great failure.
+
+#### Ad Hoc Awards
 
 Ad hoc means when necessary or needed.
 
-The characters may grow as part of the Quest in ways that are immediate and hard to fit within the context of awarding growth points and the Referee wants to make a one off award of a character growth directly linked to the Quest.
+The characters may grow as part of the Story in ways that are immediate and hard to fit within the context of awarding growth points and the Director wants to make a one off award of a character growth directly linked to the Story.
 
 For example.
 
-A Wise may teach (for free) the spell of Detect Gold as a reward for completing a Quest on their behalf.
-Spending Growth Points
+> A Wise may teach (for free) the spell of Detect Gold as a reward for completing a Story on their behalf.
 
-Players may spend growth points in the downtime between Quests, even when their characters who are badly injured are healing. The default downtime period is three months, although it could drop to mere days if the flow of time in the series of Quests, known as a Saga, requires it.
+### Spending Growth Points
 
-Growing Skills
+Actors may spend growth points in the downtime between Storys, even when their characters who are badly injured are healing. The default downtime period is three months, although it could drop to mere days if the flow of time in the series of Storys, known as a Season, requires it.
 
-A player may improve any number of skills by spending growth points, but each skill can only go up by +5%, during the downtime between adventures.
 
-The cost of that growth depends on the expertise of the skill.
+#### Growing Characteristics
 
-Growth Costs by Expertise
+A actor can choose to spend five growth points to increase one characteristic by one point.
 
-Skill
-
-Expertise
-
-Growth cost Per +5%
-
-0-25%
-
-Novice
-
-1
-
-26-50%
-
-Apprentice
-
-2
-
-51-75%
-
-Veteran
-
-3
-
-76-99%
-
-Expert
-
-5
-
-100%
-
-Master
-
-10 to reach 100%
-
-Growing Characteristics
-
-A player can choose to spend five growth points to increase one characteristic by one point.
-
-SIZ never increases using growth points.
+*SIZ never increases using growth points.*
 
 The maximum a human character can increase a characteristic to is 21. For non-humans, the maximum for a characteristic is equal to the maximum possible starting score for the characteristic plus three.
 
 This type of growth allows the character to overcome the innate weaknesses they suffer due to low characteristic scores.
 
-Growing Magic
+#### Growing Magic
 
-How the character learns more magic is dealt with in the respective magic chapters (Personal Magic, Divine Magic, and Sorcery). But for convenience the costs are summarised in the following table.
+How the character learns more magic is dealt with in the respective magic chapters (Innate Magic, Faith Magic, and Esoteria). But for convenience the costs are summarised in the following table.
 
-Summary of Growth Costs
+#### Summary of Growth Costs
 
-Cost
+| Cost                                                     | Growth                                    |
+|----------------------------------------------------------|-------------------------------------------|
+| Five growth points                                       | +1 to any characteristic except SIZ       |
+| One growth point per magnitude                           | Learn a Innate Magic spell              |
+| Two growth points per magnitude                          | Learn a spell or an increase the magnitude of a Faith Magic spell |
+| Three growth points                                     | Learn a Esoteria Spell                     |
 
-Growth
 
-One growth point
+#### Improving Outside of Storys: Practice And Research
 
-+5% to Skill
+The characters may often experience long stretches of downtime between Storys. Group members may need to heal from wounds suffered during the last Story, the characters may engage in some activity that takes time, or life may return to normal until the next danger to face the actor characters appears.
 
-Five growth points
+During such downtime, the actors may improve their characters. The actors might use downtime between Storys to learn new skills, and it is up to the Director to determine if this is appropriate.  This most often will occur by the checking of the Learned box for a skill and a roleplay reason to justify it.
 
-+1 to any characteristic except SIZ
+*Example*
 
-One growth point per magnitude
+> Conrad wishes to improve his religion(own) skill.  He reads a prayer book of Le Vides that his companion has during their rest.  He now may check the __Learned__ box for religion(own)
 
-Learn a Personal Magic spell
 
-Two growth points per magnitude
+#### Improving in Magical Rank
 
-Learn a spell or an increase the magnitude of a Divine Magic spell
-
-Three growth points
-
-Learn a Sorcery Spell
-
-Improving Outside of Quests: Practice And Research
-
-The characters may often experience long stretches of downtime between Quests. Group members may need to heal from wounds suffered during the last Quest, the characters may engage in some activity that takes time, or life may return to normal until the next danger to face the player characters appears.
-
-During such downtime, the characters may improve their characters. The players might request downtime between Quests to learn new skills, and it is up to the Referee to determine if this is appropriate.
-
-For every three months of practice or research, a character may gain one growth point, which they can spend on growth. Note skills can only increase by +5% per downtime period.
-
-Improving in Magical Rank
-
-There are growth point costs when a character increases their rank in their religions and in sorcery, and when they become a specialist caster using Personal Magic—explained in more detail in the relevant chapters, along with the benefits.
-
-Unlearning Spells and Changing Magical Path
-
-Suppose characters change religions or even magic path. In that case, they may want to free up previously learnt magic spells, to learn a more powerful spell. For example, a character might change spells when they graduate from being Personal Magic users to users of Sorcery or Divine Magic, or learn the Divine Magic of their new religion if they change faith.
-
-Characters may do this during downtime between adventures. The player describes how their character is spending time unlearning the spell and then, as long as they have a teacher or source of the new spell, they can learn it. Also, extra growth points from the character’s current pool are added to the growth points freed up by unlearning the spell, to make up the total growth points needed to learn the new spell.
-
-Also, they may return the growth points they spent to become a specialist caster (such as Shaman, Wise, Priest or Adept). They can then spend this growth on spells, or more likely on becoming a specialist caster in their new magical path.
+There are growth point costs when a character increases their rank in their religions and in Esoteria, and when they become a specialist caster using Innate Magic—explained in more detail in the relevant chapters, along with the benefits.
