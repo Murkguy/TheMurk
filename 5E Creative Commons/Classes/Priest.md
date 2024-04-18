@@ -212,7 +212,7 @@ This deity represents death, fire, hatred, fear, and pain. Their followers seek 
 | 9th          | Flame Strike, Immolation |
 
 #### Bonus Cantrip
-When you choose this domain at 1st level, you gain the Firebolt cantrip if you don't already know it. This cantrip doesn’t count against the number of cleric cantrips you know.
+When you choose this religion at 1st level, you gain the Firebolt cantrip if you don't already know it. This cantrip doesn’t count against the number of cleric cantrips you know.
 
 #### Channel Divinity: Touch of Destruction
 Starting at 2nd level, you can use Channel Divinity to destroy another creature or object with flame. When you hit a creature with a melee attack, you can use Channel Divinity to deal extra fire damage to the target. The damage equals 10 + twice your cleric level.
@@ -255,7 +255,7 @@ At 2nd level, you can use your Channel Divinity to see and manipulate the strand
 At 6th level, when you deal cold damage to a Large or smaller creature, you can also push it up to 10 feet away from you and reduce it's movement speed by 10 for 1 minute.
 
 #### Potent Spellcasting
-At 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+Starting at 8th level, you add your Proficiency Bonus and Wisdom modifier to the damage you deal with any cleric cantrip.
 
 #### Visions of the Future
 At 17th level, your knowledge of the future allows you to guide an individual to achieve their greatest possible success. You can cast the Foresight spell once without expending a spell slot; when you cast the spell in this way, the spell’s duration is 1 minute for that casting. Once you cast the spell in this way, you can’t do so again until you finish a long rest.
@@ -273,7 +273,7 @@ At 17th level, your knowledge of the future allows you to guide an individual to
 | 9th          | Dominate Person, Creation |
 
 #### Bonus Proficiencies
-When you choose this domain at 1st level, you gain proficiency with heavy armor and smith's tools.
+When you choose this religion at 1st level, you gain proficiency with heavy armor and smith's tools.
 
 #### Voice of Command
 Starting at 1st level, you can invoke the power of law to embolden an ally to attack. If you cast a spell with a spell slot of 1st level or higher and target an ally with the spell, that ally can use their reaction immediately after the spell to make one weapon attack against a creature of your choice that you can see.
@@ -305,11 +305,26 @@ At 17th level, your blessed affinity with fire and metal becomes more powerful:
   #### Xelas Spell List
 | Priest Level | Spells                      |
 |--------------|-----------------------------|
-| 1st          | bless, cure wounds         |
-| 3rd          | lesser restoration, spiritual weapon |
-| 5th          | beacon of hope, revivify   |
-| 7th          | death ward, guardian of faith |
-| 9th          | mass cure wounds, raise dead |
+| 1st          | Identify, Detect Magic, (Any 1st level Wizard spell)        |
+| 3rd          | Magic Weapon, Augury, (Any 2nd level Wizard spell) |
+| 5th          | Speak with Dead, Dispel Magic, (Any 3rd level Wizard spell)   |
+| 7th          | Arcane Eye, Confusion, (Any 4th level Wizard spell) |
+| 9th          | Scrying, Teleportation Circle, (Any 5th level Wizard spell) |
+
+#### Gifts of the Arcanum
+At 1st level, and at every odd level through level 9, priests of Xelas may choose any Wizard spell as an additional Religion spell.  This is already included in the table above, and is treated as a Priest Spell when selected.
+
+#### Channel Divinity: Whispers of the EverScribe
+Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you have expertise with the chosen skill or tool.
+
+#### Spell Breaker
+Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell.
+
+#### Potent Spellcasting
+Starting at 8th level, you add your Proficiency Bonus and Wisdom modifier to the damage you deal with any cleric cantrip.
+
+#### The EverScribe's Chosen
+At 17th level, you choose four spells from the wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of religion spells. Like your other religion spells, they are always prepared and count as cleric spells for you.  You may exchange 1 spell for one of equal level during a long rest.
 
 ### Larantas:
  Known as the Great Tree, Larantas is associated with life, creation, light, earth, and death. The Annirad tribe considers it their living god, and the protectors of the Elder Forest safeguard it. Followers of Larantas undertake pilgrimages to be baptized in its nectar, and their faith is tied to the changing seasons.
@@ -317,11 +332,31 @@ At 17th level, your blessed affinity with fire and metal becomes more powerful:
   #### Larantas Spell List
 | Priest Level | Spells                      |
 |--------------|-----------------------------|
-| 1st          | bless, cure wounds         |
-| 3rd          | lesser restoration, spiritual weapon |
-| 5th          | beacon of hope, revivify   |
-| 7th          | death ward, guardian of faith |
-| 9th          | mass cure wounds, raise dead |
+| 1st          | Speak with Animals, Bless        |
+| 3rd          | 	Barkskin, Spike Growth |
+| 5th          | 	Plant Growth, Revivify   |
+| 7th          | 	Dominate Beast, Grasping Vine |
+| 9th          | Insect Plague, Tree Stride |
+
+#### Bonus Proficiency
+When you choose this religion at 1st level, you gain proficiency with heavy armor.
+
+#### Disciple of Life
+Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
+
+#### Channel Divinity: Charm Animals and Plants
+Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.
+
+As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.
+
+#### Dampen Elements
+Starting at 6th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage.
+
+#### Divine Strike
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d12 cold, fire, or lightning damage (your choice) to the target. When you reach 14th level, the extra damage increases to 2d12.
+
+#### Supreme Healing
+Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
 
 ### The Penitent Choir:
  Formed from the remnants of the Church of Le Vides after the The Black Day, the Penitent Choir focuses on life, unity, peace, law, and fate. They believe in atoning for mankind's sins through acts of love and suffering, championing the cause of the neglected and vulnerable.
@@ -329,11 +364,35 @@ At 17th level, your blessed affinity with fire and metal becomes more powerful:
   #### The Penitent Choir Spell List
 | Priest Level | Spells                      |
 |--------------|-----------------------------|
-| 1st          | bless, cure wounds         |
-| 3rd          | lesser restoration, spiritual weapon |
-| 5th          | beacon of hope, revivify   |
-| 7th          | death ward, guardian of faith |
-| 9th          | mass cure wounds, raise dead |
+| 1st          | False Life, Heroism        |
+| 3rd          | Aid, Gentle Repose |
+| 5th          | Beacon of Hope, Revivify   |
+| 7th          | Otiluke's Resilient Sphere, Death Ward |
+| 9th          | Greater Restoration, Raise Dead |
+
+#### Circle of Mortality
+At 1st level, you gain the ability to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.
+
+In addition, you learn the Spare the Dying cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
+
+#### Emboldening Song
+Starting at 1st level, you can forge an empowering bond between allies. As an action, you can choose two willing creatures you can see within 30 feet of you (this can include yourself) and create a magical bond between them. While either bonded creature is within 30 feet of the other, the creature can roll a d4 and add the number rolled to an attack roll, an ability check, or a saving throw it makes. Each creature can add the d4 no more than once per turn. The bond lasts for 1 hour or until you use this feature again.
+
+You can use this feature once, and you regain the ability to do so when you finish a long rest. You can also expend a spell slot to use the feature again.
+
+#### Channel Divinity: Song of Peace
+Starting at 2nd level, you can use your Channel Divinity to make your very presence a soothing balm. As an action, you can move up to your speed, without provoking opportunity attacks, and when you move within 5 feet of any other creature during this action, you can restore a number of hit points to that creature equal to 2d6 + your Wisdom modifier (minimum of 1 hit point). A creature can receive this healing only once whenever you take this action.
+
+#### Sentinel at Death's Door
+At 6th level, you gain the ability to impede death’s progress. As a reaction when you or an ally that you can see within 30 feet of you suffers a critical hit, you can turn that attack into a normal hit. Any effects triggered by a critical hit are canceled.
+
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
+
+#### Potent Spellcasting
+Starting at 8th level, you add your Proficiency Bonus and Wisdom modifier to the damage you deal with any cleric cantrip.
+
+#### Chanter of Souls
+At 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 30 feet of you, you or one ally of your choice that is within 30 feet of you regains hit points equal to the enemy’s number of Hit Dice. You can use this feature only if you aren't incapacitated. Once you use it, you can't do so again until the start of your next turn.
 
 ### Apatur:
  Embracing power, death, knowledge, hate, and law, Apatur's followers perceive war as essential for progress and growth. They revere conflict as a means of domination and advancement, dedicating themselves to fueling and perpetuating wars.
@@ -341,46 +400,32 @@ At 17th level, your blessed affinity with fire and metal becomes more powerful:
   #### Apatur Spell List
 | Priest Level | Spells                      |
 |--------------|-----------------------------|
-| 1st          | bless, cure wounds         |
-| 3rd          | lesser restoration, spiritual weapon |
-| 5th          | beacon of hope, revivify   |
-| 7th          | death ward, guardian of faith |
-| 9th          | mass cure wounds, raise dead |
+| 1st          | Disguise Self, Divine Favor         |
+| 3rd          | Mirror Image, Shatter |
+| 5th          | Haste, Spirit Guardians   |
+| 7th          | Stoneskin, 	Dimension Door |
+| 9th          | Modify Memory, Destructive Wave |
 
+#### Bonus Proficiency
+At 1st level, you gain proficiency with martial weapons and heavy armor.
 
+#### War Priest
+From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the Attack action, you can make one weapon attack as a bonus action.
 
-Life Domain Spells
+You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
-Bonus Proficiency
+#### Channel Divinity: Swallowed in Shadow
+Starting at 2nd level, you can use your Channel Divinity to harness sunlight, banishing darkness and dealing radiant damage to your foes.
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor.
+As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes necrotic damage equal to 5d6 + your priest level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.
 
-Disciple of Life
+#### Channel Divinity: Cloak of Shadows
+Starting at 6th level, you can use your Channel Divinity to vanish.
 
-Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell’s level.
+As an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.
 
-Channel Divinity: Preserve Life
+#### Divine Strike
+At 8th level, you gain the ability to infuse your weapon strikes with poison – a gift from your deity. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 poison damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
-Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
-As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level.
-Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can’t use this feature on an undead or a construct.
-
-Blessed Healer
-
-Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell’s level.
-
-Divine Strike
-
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
-
-Supreme Healing
-
-Starting at 17th level, when you would normally roll one or more dice to restore hit points with aspell, you instead use the highest number possible for
- 
-
-System Reference Document 5.1	17
- 
-each die. For example, instead of restoring 2d6 hit
-
-
-points to a creature, you restore 12.
+#### Avatar of Battle
+At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
