@@ -7,21 +7,19 @@ As a priest, you gain the following class features.
 
 ### Damage Tracks
 
+#### Shock Rating
+- __HP:__ 8+Constitution Score+Proficency
+- __SP:__ 10+Wisdom Score+Proficency
+
 #### Hit Points
+- Hit Dice: 1d8 per priest level
+- Hit Points at 1st Level:8+CON Modifier
+- Hit Points at Higher Levels:1d8+CON Modifier per priest level after 1st
 
-Hit Dice: 1d8 per priest level
-
-Hit Points at 1st Level:8 + your Constitution score
-
-Hit Points at Higher Levels:1d8 per priest level after 1st
-
-#### Strain
-
-Strain Dice: 1d10 per priest level
-
-Strain Points at 1st Level: 10 + you Wisdom score
-
-Strain Points at Higher Levels: 1d10 per priest level after first
+#### Strain Points
+- Strain Dice: 1d10 per priest level
+- Strain Points at first level: 10+WIS Modifier
+- Strain Points at Higher Levels: 1d10+WIS Modifier per brute level after first
 
 ### Proficiencies
 
@@ -199,4 +197,190 @@ Imploring your deity’s aid requires you to use your action. Describe the assis
 If your deity intervenes, you can’t use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
+## Religions of Tellus
 
+### The Charred One:
+This deity represents death, fire, hatred, fear, and pain. Their followers seek the destruction and unmaking of all creation, employing manipulation, intrigue, and acts of destruction to fulfill their goals. They find solace in the burned-out cities and ruins, spreading their mad god's will.
+
+#### Charred one Spell List
+| Priest Level | Spells                      |
+|--------------|-----------------------------|
+| 1st          | Burning Hands, Hellish Rebuke        |
+| 3rd          | Flaming Sphere, Scorching Ray |
+| 5th          | Fireball, Conjure Lesser Demon  |
+| 7th          | Wall of Fire, Summon Greater Demon|
+| 9th          | Flame Strike, Immolation |
+
+#### Bonus Cantrip
+When you choose this domain at 1st level, you gain the Firebolt cantrip if you don't already know it. This cantrip doesn’t count against the number of cleric cantrips you know.
+
+#### Channel Divinity: Touch of Destruction
+Starting at 2nd level, you can use Channel Divinity to destroy another creature or object with flame. When you hit a creature with a melee attack, you can use Channel Divinity to deal extra fire damage to the target. The damage equals 10 + twice your cleric level.
+
+#### Inescapable Destruction
+Starting at 6th level, your ability to channel destructive energy becomes more potent. Fire damage dealt by your cleric spells and Channel Divinity options ignores resistance to fire damage.
+
+#### Divine Strike
+At 8th level, you gain the ability to infuse your weapon strikes with fire energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an a 1d12 necrotic damage to the target. When you reach 14th level, the extra damage increases to 2d12.
+
+#### Destructive Form
+
+Starting at 17th level, you may use Channel Divinity to deal your Touch of Destruction to everyone within 30 feet.  The save for this is equal to your spell save for priest.
+
+
+### The High Nine:
+ Focused on fate, power, cold, life, and death, the High Nine emphasize embracing the currents of life and the wisdom offered by their gods. Listeners, their followers, reach beyond the present moment to connect with ancient chants and words, becoming vessels of fate.
+
+ #### The High Nine Spell List
+| Priest Level | Spells                      |
+|--------------|-----------------------------|
+| 1st          | 	Dissonant Whispers, Heroism        |
+| 3rd          | See Invisibility, Warding Bond|
+| 5th          | Beacon of Hope, Clairvoyance   |
+| 7th          | Ice Storm, Divination |
+| 9th          | 	Destructive Wave, Geas |
+
+#### Bonus Proficiencies
+At 1st level, you gain proficiency with martial weapons and heavy armor.
+
+#### Wrath of the Giants
+Also at 1st level, you can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Constitution saving throw. The creature takes 1d12 cold and 1d12 bludgeoning on a failed saving throw, and half as much damage on a successful one.
+
+You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+
+#### Channel Divinity: Strands of Fate
+At 2nd level, you can use your Channel Divinity to see and manipulate the strands of fate that weave around other individuals. As a bonus action, you can enter this state for up to 1 minute or until you lose your concentration (as if you were concentrating on a spell). For the duration, whenever another creature you can see makes an attack roll or an ability check, you can use a reaction to give the roll advantage or disadvantage (your choice).
+
+#### Frozen Embrace
+At 6th level, when you deal cold damage to a Large or smaller creature, you can also push it up to 10 feet away from you and reduce it's movement speed by 10 for 1 minute.
+
+#### Potent Spellcasting
+At 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+
+#### Visions of the Future
+At 17th level, your knowledge of the future allows you to guide an individual to achieve their greatest possible success. You can cast the Foresight spell once without expending a spell slot; when you cast the spell in this way, the spell’s duration is 1 minute for that casting. Once you cast the spell in this way, you can’t do so again until you finish a long rest.
+
+### Makru:
+ Revered as the patron deity in many cities, Makru embodies power, life, law, creation, and unity. The followers of Makru are diligent, community-focused individuals who value justice and unification. They are staunch opponents of the Charred One, seeking to protect and preserve Makru's great works.
+
+#### Makru Spell List
+| Priest Level | Spells                      |
+|--------------|-----------------------------|
+| 1st          | Command, Searing Smite        |
+| 3rd          | Heat Metal, Zone of Truth |
+| 5th          | Mass Healing Word, Elemental Weapon   |
+| 7th          | Compulsion, Wall of Fire |
+| 9th          | Dominate Person, Creation |
+
+#### Bonus Proficiencies
+When you choose this domain at 1st level, you gain proficiency with heavy armor and smith's tools.
+
+#### Voice of Command
+Starting at 1st level, you can invoke the power of law to embolden an ally to attack. If you cast a spell with a spell slot of 1st level or higher and target an ally with the spell, that ally can use their reaction immediately after the spell to make one weapon attack against a creature of your choice that you can see.
+
+If the spell targets more than one ally, you choose the ally who can make the attack.
+
+#### Channel Divinity: Commanding Aura
+Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.
+
+As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be charmed by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they fail the saving throw.
+
+#### Forge Soul
+Starting at 6th level, your mastery of the forge grants you special abilities:
+- You gain resistance to fire damage.
+- While wearing heavy armor, you gain a +1 bonus to AC.
+
+#### Divine Strike
+At 8th level, you gain the ability to infuse your weapon strikes with the fiery power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d12 fire damage to the target. When you reach 14th level, the extra damage increases to 2d12.
+
+#### Flame Saint
+At 17th level, your blessed affinity with fire and metal becomes more powerful:
+
+- You gain immunity to fire damage.
+- While wearing heavy armor, you have resistance to bludgeoning, piercing and slashing damage from nonmagical attacks.
+
+### Xelas:
+ Representing knowledge, power, creation, light, and unity, Xelas is the younger sibling of Makru. Xelas's followers are characterized by their pursuit of knowledge and inspiration, welcomed in most cities as wise men and advisors. They hold sacred rituals and engage in the accumulation of knowledge, guided by their god.
+
+  #### Xelas Spell List
+| Priest Level | Spells                      |
+|--------------|-----------------------------|
+| 1st          | bless, cure wounds         |
+| 3rd          | lesser restoration, spiritual weapon |
+| 5th          | beacon of hope, revivify   |
+| 7th          | death ward, guardian of faith |
+| 9th          | mass cure wounds, raise dead |
+
+### Larantas:
+ Known as the Great Tree, Larantas is associated with life, creation, light, earth, and death. The Annirad tribe considers it their living god, and the protectors of the Elder Forest safeguard it. Followers of Larantas undertake pilgrimages to be baptized in its nectar, and their faith is tied to the changing seasons.
+
+  #### Larantas Spell List
+| Priest Level | Spells                      |
+|--------------|-----------------------------|
+| 1st          | bless, cure wounds         |
+| 3rd          | lesser restoration, spiritual weapon |
+| 5th          | beacon of hope, revivify   |
+| 7th          | death ward, guardian of faith |
+| 9th          | mass cure wounds, raise dead |
+
+### The Penitent Choir:
+ Formed from the remnants of the Church of Le Vides after the The Black Day, the Penitent Choir focuses on life, unity, peace, law, and fate. They believe in atoning for mankind's sins through acts of love and suffering, championing the cause of the neglected and vulnerable.
+
+  #### The Penitent Choir Spell List
+| Priest Level | Spells                      |
+|--------------|-----------------------------|
+| 1st          | bless, cure wounds         |
+| 3rd          | lesser restoration, spiritual weapon |
+| 5th          | beacon of hope, revivify   |
+| 7th          | death ward, guardian of faith |
+| 9th          | mass cure wounds, raise dead |
+
+### Apatur:
+ Embracing power, death, knowledge, hate, and law, Apatur's followers perceive war as essential for progress and growth. They revere conflict as a means of domination and advancement, dedicating themselves to fueling and perpetuating wars.
+
+  #### Apatur Spell List
+| Priest Level | Spells                      |
+|--------------|-----------------------------|
+| 1st          | bless, cure wounds         |
+| 3rd          | lesser restoration, spiritual weapon |
+| 5th          | beacon of hope, revivify   |
+| 7th          | death ward, guardian of faith |
+| 9th          | mass cure wounds, raise dead |
+
+
+
+Life Domain Spells
+
+Bonus Proficiency
+
+When you choose this domain at 1st level, you gain proficiency with heavy armor.
+
+Disciple of Life
+
+Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell’s level.
+
+Channel Divinity: Preserve Life
+
+Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
+As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level.
+Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can’t use this feature on an undead or a construct.
+
+Blessed Healer
+
+Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell’s level.
+
+Divine Strike
+
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+
+Supreme Healing
+
+Starting at 17th level, when you would normally roll one or more dice to restore hit points with aspell, you instead use the highest number possible for
+ 
+
+System Reference Document 5.1	17
+ 
+each die. For example, instead of restoring 2d6 hit
+
+
+points to a creature, you restore 12.

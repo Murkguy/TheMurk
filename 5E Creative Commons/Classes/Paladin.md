@@ -1,21 +1,30 @@
-Paladin
+# Paladin
 
-Class Features
+## Class Features
 
 As a paladin, you gain the following class features.
 
-Hit Points
+### Damage Tracks
 
-Hit Dice: 1d10 per paladin level
+#### Shock Check
+- __HP:__ Constitution Score+Proficency
+- __SP:__ Wisdom Score+Proficency
 
-Hit Points at 1st Level:10 + your Constitution modifier
+#### Hit Points
+- Hit Dice: 1d10 per paladin level
+- Hit Points at 1st Level:10+CON Modifier
+- Hit Points at Higher Levels:1d10+CON Modifier per paladin level after 1st
 
-Hit Points at Higher Levels:1d10 (or 6) + your Constitution modifier per paladin level after 1st
-Proficiencies
+#### Strain Points
+- Strain Dice: 1d8 per paladin level
+- Strain Points at first level: 8+WIS Modifier
+- Strain Points at Higher Levels: 1d8+WIS Modifier per paladin level after first
 
-Armor: All armor, shields
+### Proficiencies
+
+- Armor: All armor, shields
  
-Weapons: Simple weapons, martial weapons
+- Weapons: Simple weapons, martial weapons
 
 
 Tools: None

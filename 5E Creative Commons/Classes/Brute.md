@@ -6,16 +6,19 @@ As a Brute, you gain the following class features.
 
 ### Damage Tracks
 
+#### Shock Check
+- __HP:__ 12+Constitution Score+Proficency
+- __SP:__ 8+Wisdom Score+Proficency
+
 #### Hit Points
 - Hit Dice: 1d12 per brute level
-- Hit Points at 1st Level:12 + your Constitution
-score
-- Hit Points at Higher Levels:1d12 per brute level after 1st
+- Hit Points at 1st Level:12+CON Modifier
+- Hit Points at Higher Levels:1d12+CON Modifier per brute level after 1st
 
 #### Strain Points
 - Strain Dice: 1d8 per brute level
-- Strain Points at first level: 8+Wisdom score
-- Strain Points at Higher Levels: 1d8 per brute level after first
+- Strain Points at first level: 8+WIS Modifier
+- Strain Points at Higher Levels: 1d8+WIS Modifier per brute level after first
 
 
 ### Proficiencies
@@ -66,7 +69,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 #### Wrath
 
-In battle, you fight with primal ferocity. On your turn, you can enter a wrath as a bonus action.
+In battle, you fight with primal ferocity. On your turn, you can enter a state of wrath as a bonus action.
 
 While in wrath, you gain the following benefits if you aren’t wearing heavy armor:
 
@@ -78,18 +81,18 @@ If you are able to cast spells, you can’t cast them or concentrate on them whi
 
 Your wrath lasts for 1 minute. It ends early if you are knocked unconscious or if yourturn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your wrath on your turn as a bonus action.
 
-Once you have wrathd the number of times shown for your brute level in the Wrath column of the Brute table, you must finish a long rest before you can wrath again.
+Once you have been in wrath the number of times shown for your brute level in the Wrath column of the Brute table, you must finish a long rest before you can wrath again.
 
 #### Unarmored Defense
 
-While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
+While you are not wearing any armor, your Armor Class equals 8 + Proficiency + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
 
  
 #### Reckless Attack
 
 Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls or ranged attack rolls within 30ft during this turn, but attack rolls against you have advantage until your next turn.
 
-Danger Sense
+#### Danger Sense
 
 At 2nd level, you gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away fromdanger.
 
