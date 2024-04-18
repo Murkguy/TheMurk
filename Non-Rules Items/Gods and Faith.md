@@ -111,7 +111,7 @@ It's important to note that forgiveness within the cult of the Charred One is no
 
 ---
 
-## The Tursakkaanen
+## The High Nine
 
 **Creeds**
 
