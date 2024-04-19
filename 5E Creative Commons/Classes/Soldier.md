@@ -74,7 +74,7 @@ Whenever you gain a level in this class, you can switch your Fighting Style for 
 - **Archery**
   - You gain a +2 bonus to attack rolls with ranged weapons.
 - **Brawler**
-  - Your unarmed strikes deal bludgeoning damage equal to 1d6 + your Strength modifier on hit. If you have two free hands and use your action to make only unarmed strikes you can make a single unarmed strike as a bonus action on that turn.
+  - Your unarmed strikes deal bludgeoning damage equal to 1d10 + your Strength modifier on hit. If you have two free hands and use your action to make only unarmed strikes you can make a single unarmed strike as a bonus action on that turn.
 - **Classical Swordplay**
   - While wielding a finesse weapon and no other weapons, you gain a +2 bonus to your attack rolls and a +1 to your Armor Class so long as you are not using heavy armor or a shield.
 - **Defensive Fighting**
@@ -92,7 +92,7 @@ Whenever you gain a level in this class, you can switch your Fighting Style for 
     - When you do so, the object used to make the improvised attack is destroyed and can not be used for further attacks. You can't use this feature to destroy magical objects.
 - **Melee Marksman**
   - Having a hostile creature within 5 feet of you doesn't impose disadvantage on your ranged weapon attacks, so long as you are attacking a creature within 5 feet.
-    - When you make a ranged weapon attack against a creature within 5 feet, you can use your bonus action to make a melee attack against it with your ranged weapon. On hit, you deal bludgeoning damage equal to 1d4 + your Strength modifier.
+    - When you make a ranged weapon attack against a creature within 5 feet, you can use your bonus action to make a melee attack against it with your ranged weapon. On hit, you deal bludgeoning damage equal to 1d8 + your Strength modifier.
 - **Protector**
   - When a creature you can see hits you, or a target within 5 feet, with a melee attack, you can use a reaction to add your proficiency bonus to the target's Armor Class against that attack. You must be wielding a shield or a melee weapon.
 - **Strongbow**
@@ -113,7 +113,7 @@ At 2nd level, you begin to learn techniques that enhance your martial skill in a
 #### Exploit Dice
 The Soldier table shows the number of Exploit Dice you have to perform any Exploits you know. Most Exploits require you to expend these Dice in order to use them. You can only use one Exploit per attack, ability check, or saving throw, and you regain all Exploit Dice when you finish a short or long rest.
 
-Your Exploit Dice begin as d6s and increase in size as you gain levels in this class, as indicated in the Soldier table.
+Your Exploit Dice begin as d10s and increase in size as you gain levels in this class, as indicated in the Soldier table.
 
 #### Exploits Known
 You know two Exploits of your choice from the list at the end of this class. The Exploits Known column of the Soldier table shows when you learn more Exploits of your choice. To learn an Exploit you must meet any prerequisites it may have, like a minimum Ability Score or a minimum Soldier level.
@@ -386,7 +386,7 @@ Also, you can benefit from two of the Fighting Styles you know, but you can only
 
 18th-level Master at Arms Archetype feature
 
-Your mastery of the weapons of war is near-supernatural. Once per turn when you use an Exploit in combat, you can roll a d6 in place of expending an Exploit Die.
+Your mastery of the weapons of war is near-supernatural. Once per turn when you use an Exploit in combat, you can roll a d10 in place of expending an Exploit Die.
 
 Also, over the course of 1 hour, which can be during a short or long rest, you can practice your techniques to replace one Exploit you know with a Martial Exploit of the same degree.
 
