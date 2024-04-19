@@ -159,3 +159,20 @@ By 13th level, you have learned enough about the workings of magic that you can 
 When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature when you are surprised.
 
 ### Charlatan
+
+#### Deceptive Charm
+Starting at 3rd level, you gain expertise in Deception and Persuasion skills if you don't already have them. Additionally, you can use your Sneak Attack feature against a creature that you have successfully deceived or persuaded during the current encounter, provided that creature is within 5 feet of you and you don't have disadvantage on the attack roll.
+
+#### Misdirection
+Also at 3rd level, you can use your cunning to create distractions and mislead others. As a bonus action, you can choose a creature you can see within 30 feet of you. That creature must make a Wisdom saving throw against your Knave spell save DC. On a failed save, the target is distracted, granting advantage to your allies' attack rolls against it until the start of your next turn.
+
+#### Silver Tongue
+Starting at 9th level, you have advantage on Charisma (Persuasion) and Charisma (Deception) checks made during social interactions. Additionally, when you make a Charisma check you can add half your proficiency bonus (rounded down) to the check if you are not already proficient.
+
+#### Social Ambusher
+At 13th level, you excel at ambushing foes during social engagements. When you roll initiative and are not surprised, you can choose to take a bonus action to Hide if you are in a situation where stealth is possible (such as a crowded room, dim light, or similar conditions). If you succeed on the Hide check, you gain advantage on your first attack roll against a creature that hasn't acted yet in the combat, as long as the attack is made within the next minute, if this attack hits, it is an automatic critical hit.
+
+#### Master of Deception
+Starting at 17th level, your mastery of deception knows no bounds. You can use your action to adopt a new persona for 1 hour, during which time you gain advantage on all Charisma checks made to deceive, persuade, or intimidate creatures that you interact with while in this persona. Additionally, once during this duration, you can automatically succeed on a Charisma (Deception) or Charisma (Persuasion) check against a creature that isn't hostile toward you.
+
+This archetype focuses on using social skills to gain advantages in combat and deception, making the Charlatan Knave a master manipulator in both social and combat situations. 
