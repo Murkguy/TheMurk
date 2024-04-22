@@ -115,15 +115,59 @@ If you gain the Extra Attack class feature from more than one class, the feature
 
 If you already have the Unarmored Defense feature, you can’t gain it again from another class.
 
-# Spellcasting
+## Spellcasting
 
 Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, you follow the rules as described in that class.
 
-## Spells Known and Prepared
+### Spells Known and Prepared
 
 You determine what spells you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a ranger 4/wizard 3, for example, you know three 1st-level ranger spells based on your levels in the ranger class. As a 3rd-level wizard, you know three wizard cantrips, and your spellbook contains ten wizard spells, two of which (the two you gained when you reached 3rd level as a wizard) can be 2nd-level spells. If your Intelligence is 16, you can prepare six wizard spells from your spellbook.
 
 Each spell you know and prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell. Similarly, a spellcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.
+
+### SpellPoints
+Instead of gaining a number of spell slots to cast your spells from the Spellcasting feature, you gain a pool of spell points instead. You expend a number of spell points to create a spell slot of a given level, and then use that slot to cast a spell. You can't reduce your spell points total to less than 0, and you regain all spent spell points when you finish a long rest.
+
+The number of spell points you have to spend is based on your level as a spellcaster, as shown in the Spell Points by Level table. Your level also determines the maximum-level spell slot you can create. Even though you might have enough points to create a slot above this maximum, you can't do so.
+
+This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking spell point expenditures for a monster can be a hassle.
+
+#### Spell Point Cost
+| Spell Level | Point Cost |
+|-------------|------------|
+| 1st         | 2          |
+| 2nd         | 3          |
+| 3rd         | 5          |
+| 4th         | 6          |
+| 5th         | 7          |
+| 6th         | 9          |
+| 7th         | 10         |
+| 8th         | 11         |
+| 9th         | 13         |
+
+Spell Points by Level
+| Class Level | Spell Points | Max Spell Level* |
+|-------------|--------------|-----------------|
+| 1st         | 4            | 1st             |
+| 2nd         | 6            | 1st             |
+| 3rd         | 14           | 2nd             |
+| 4th         | 17           | 2nd             |
+| 5th         | 27           | 3rd             |
+| 6th         | 32           | 3rd             |
+| 7th         | 38           | 4th             |
+| 8th         | 44           | 4th             |
+| 9th         | 57           | 5th             |
+| 10th        | 64           | 5th             |
+| 11th        | 73           | 6th             |
+| 12th        | 73           | 6th             |
+| 13th        | 83           | 7th             |
+| 14th        | 83           | 7th             |
+| 15th        | 94           | 8th             |
+| 16th        | 94           | 8th             |
+| 17th        | 107          | 9th             |
+| 18th        | 114          | 9th             |
+| 19th        | 123          | 9th             |
+| 20th        | 133          | 9th             |
 
 # Alignment
 
