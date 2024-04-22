@@ -4281,12 +4281,7 @@ If you already have the Unarmored Defense feature, you can’t gain it again fro
 
 Spellcasting
 
-Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass
- 
-
-System Reference Document 5.1	57
- 
-but have the Spellcasting feature from only one class, you follow the rules as described in that class.
+Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, you follow the rules as described in that class.
 
 Spells Known and Prepared. You determine what spells you know and can prepare for each class individually, as if you were a single-­‐‑classed member of that class. If you are a ranger 4/wizard 3, for example, you know three 1st-­‐‑level ranger spells based on your levels in the ranger class. As 3rd-­‐‑level wizard, you know three wizard cantrips, and your spellbook contains ten wizard spells, two of which (the two you gained when you reached 3rd level as a wizard) can be 2nd-­‐‑level spells. If your Intelligence is 16, you can prepare six wizard spells from your spellbook.
 
@@ -4342,11 +4337,6 @@ Lawful good (LG) creatures can be counted on to do the right thing as expected b
 Neutral good (NG) folk do the best they can to help others according to their needs. Many celestials, some cloud giants, and most gnomes are neutral good.
 
 Chaotic good (CG) creatures act as their conscience directs, with little regard for what others expect. Copper dragons, many elves, and unicorns are chaotic good.
- 
-
-
-
-System Reference Document 5.1	58
  
 Lawful neutral (LN) individuals act in accordance with law, tradition, or personal codes. Many monks and some wizards are lawful neutral.
 Neutral (N) is the alignment of those who prefer to steer clear of moral questions and don’t take sides, doing what seems best at the time. Lizardfolk, most druids, and many humans are neutral.
@@ -4406,13 +4396,6 @@ Undercommon	Underworld traders	Elvish
 Inspiration
 
 Inspiration is a rule the game master can use to reward you for playing your character in a way that’s true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a spell that has been laid on you.
- 
-
-
-
-System Reference Document 5.1	59
- 
-
 
 Gaining Inspiration
 
@@ -4456,104 +4439,6 @@ A background contains suggested personal characteristics based on your backgroun
 Customizing a Background
 
 You might want to tweak some of the features of a background so it better fits your characteror the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in the equipment section. (If you spend coin, you can’t also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can’t find a feature that matches your desired background, work with your GM to create one.
-
-Acolyte
-
-You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric—performing sacred rites is not the same thing as channeling divine power.
-
- 
-
-
-System Reference Document 5.1	60
- 
-Choose a god, a pantheon of gods, or some other quasi-­‐‑divine being from among those listed in "Fantasy-­‐‑Historical Pantheons" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.
-
-Skill Proficiencies: Insight, Religion
-
-Languages: Two of your choice
-
-Equipment: A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments,a set of common clothes, and a pouch containing 15 gp
-
-Feature: Shelter of the Faithful
-
-As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.
-
-You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
-
-Suggested Characteristics
-
-Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
-
-d8	Personality Trait
-
-1	I idolize a particular hero of my faith, and constantly refer to that person’s deeds and example.
-
-2	I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.
- 
-
-
-3	I see omens in every event and action. The gods try to speak to us, we just need to listen
-
-4	Nothing can shake my optimistic attitude.
-
-5	I quote (or misquote) sacred texts and proverbs in almost every situation.
-6	I am tolerant (or intolerant) of other faiths and
-respect (or condemn) the worship of other gods.
-
-7	I’ve enjoyed fine food, drink, and high society among my temple’s elite. Rough living grates on me.
-
-8	I’ve spent so long in the temple that I have little practical experience dealing with people in the outside world.
-
-d6	Ideal
-
-1	Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful)
-2	Charity. I always try to help those in need, no matter what the personal cost. (Good)
-
-3	Change. We must help bring about the changes the gods are constantly working in the world. (Chaotic)
-4	Power. I hope to one day rise to the top of my faith’s religious hierarchy. (Lawful)
-
-5	Faith. I trust that my deity will guide my actions. I
-have faith that if I work hard, things will go well.
-
-(Lawful)
-
-6	Aspiration. I seek to prove myself worthy of my god’s favor by matching my actions against his or her teachings. (Any)
-
-d6	Bond
-
-1	I would die to recover an ancient relic of my faith that was lost long ago.
-2	I will someday get revenge on the corrupt temple hierarchy who branded me a heretic.
-
-3	I owe my life to the priest who took me in when my parents died.
-
-4	Everything I do is for the common people.
-
-5	I will do anything to protect the temple where I
-served.
-6	I seek to preserve a sacred text that my enemies consider heretical and seek to destroy.
-
-d6	Flaw
-
-1	I judge others harshly, and myself even more severely.
-
-2	I put too much trust in those who wield power within my temple’s hierarchy.
-
-3	My piety sometimes leads me to blindly trust those
-that profess faith in my god.
-4	I am inflexible in my thinking.
-
-5	I am suspicious of strangers and expect the worst of
-them.
-
-6	Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
- 
-
-
-
-
-System Reference Document 5.1	61
- 
-
 
 Equipment
 
@@ -4600,10 +4485,6 @@ The Armor table shows the cost, weight, and other properties of the common types
 Armor Proficiency. Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor’s use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
 
 Armor Class (AC). Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
- 
-
-
-System Reference Document 5.1	62
  
 Heavy Armor. Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If the Armor table shows “Str 13” or “Str 15” in the Strength column for an armor type, the armor reduces the wearer’s speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
@@ -4657,13 +4538,6 @@ Armor	Cost	Armor Class (AC)	Strength	Stealth	Weight
 
 Light Armor     
 Padded	5 gp	11 + Dex modifier	—	Disadvantage	8 lb.
- 
-
-
-
-
-System Reference Document 5.1	63
- 
 Leather	10 gp	11	+ Dex modifier	—	—	10 lb.
 Studded leather	45 gp	12	+ Dex modifier	—	—	13 lb.
 Medium Armor						
@@ -4724,10 +4598,6 @@ If you use a weapon that has the ammunition property to make a melee attack, you
 
 Finesse. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
  
-
-
-System Reference Document 5.1	64
- 
 Heavy. Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively.
 
 Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
@@ -4774,14 +4644,6 @@ Weapons
 Name	Cost	Damage	Weight	Properties
 
 Simple Melee Weapons
- 
-
-
-
-
-
-System Reference Document 5.1	65
- 
 Club	1 sp	1d4 bludgeoning	2 lb.	Light
 Dagger	2 gp	1d4 piercing	1 lb.	Finesse, light, thrown (range 20/60)
 Greatclub	2 sp	1d8 bludgeoning	10 lb.	Two-­‐handed
@@ -4874,12 +4736,8 @@ Holy Water. As an action, you can splash the contents of this flask onto a creat
 A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-­‐‑level spell slot.
 
 Hunting Trap. When you use your action to set it, this trap forms a saw-­‐‑toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
- 
 
-
-System Reference Document 5.1	67
- 
-Lamp. A lamp casts bright light in a 15-­‐‑foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+ Lamp. A lamp casts bright light in a 15-­‐‑foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
 Lantern, Bullseye. A bullseye lantern casts bright light in a 60-­‐‑foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
 
 Lantern, Hooded. A hooded lantern casts bright light in a 30-­‐‑foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-­‐‑foot radius.
@@ -4980,10 +4838,6 @@ Amulet	5 gp	1 lb.
 Emblem	5 gp	—
 Reliquary	5 gp	2 lb.
 Holy water (flask)	25 gp	1 lb.
-
- 
-
-
 Hourglass	25 gp	1 lb.
 Hunting trap	5 gp	25 lb.
 Ink (1 ounce bottle)	10 gp	—
@@ -5046,15 +4900,6 @@ Bottle	1½ pints liquid
 
 Bucket	3 gallons liquid, 1/2 cubic foot solid
 Chest	12 cubic feet/300 pounds of gear
- 
-
-
-
-
-System Reference Document 5.1	69
- 
-
-
 Flask or tankard	1 pint liquid
 
 Jug or pitcher	1 gallon liquid
@@ -5386,12 +5231,6 @@ People who are able to cast spells don’t fall into the category of ordinary hi
 Hiring someone to cast a relatively common spell of 1st or 2nd level, such ascure wounds or identify, is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-­‐‑level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-­‐‑infested wilderness to deliver something important to a distant settlement.
  
 
-
-
-
-System Reference Document 5.1	74
- 
-
 Feats
 
 A feat represents a talent or an area of expertisethat
@@ -5536,13 +5375,7 @@ If multiple situations affect a roll and each one grants advantage or imposes di
 
 If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.
 When you have advantage or disadvantage and something in the game, such as the halfling’s Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one. For example, if a halfling has advantage or disadvantage on an ability check and rolls a 1 and a 13, the halfling could use the Lucky trait to reroll the 1.
-You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The
- 
-
-
-System Reference Document 5.1	76
- 
-GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
+You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
 
 Proficiency Bonus
 
