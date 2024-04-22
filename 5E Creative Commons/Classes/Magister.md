@@ -165,6 +165,10 @@ When you reach 2nd level, you choose an arcane tradition, shaping your practice 
 
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
+#### Esoteric Knowledge
+
+When you reach 3rd level, and every odd level to 17th, you may select 1 additional spell from any spell list that is 1 level lower than your maximum spell level.  These spells count as Magister spells for the purpose of your casting them.
+
 #### Ability Score Improvement
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.

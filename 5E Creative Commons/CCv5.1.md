@@ -4839,9 +4839,6 @@ ranged attack against a creature or object, treating the alchemist's fire as an 
 Antitoxin. A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.
 Arcane Focus. An arcane focus is a special item— an orb, a crystal, a rod, a specially constructed staff, a wand-­‐‑like length of wood, or some similar item— designed to channel the power of arcane spells. A
  
-
-
-System Reference Document 5.1	66
  
 sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 
@@ -4925,10 +4922,6 @@ Torch. A torch burns for 1 hour, providing bright light in a 20-­‐‑foot rad
 
 Adventuring Gear
  
-
-
-
-System Reference Document 5.1	68
  
 Item	Cost	Weight
 Abacus	2 gp	2 lb.
@@ -5150,10 +5143,6 @@ Vehicles (land or water)	*	*
 
 Artisan’s Tools. These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.
  
-
-
-System Reference Document 5.1	70
- 
 Disguise Kit. This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.
 
 Forgery Kit. This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.
@@ -5194,14 +5183,6 @@ Item	Cost	Speed	Capacity
 Camel	50 gp	50 ft.	480 lb.
 Donkey or mule	8 gp	40 ft.	420 lb.
 Elephant	200 gp	40 ft.	1,320 lb.
-
- 
-
-
-
-System Reference Document 5.1	71
- 
-
 Horse, draft	50 gp	40 ft.	540 lb.
 Horse, riding	75 gp	60 ft.	480 lb.
 Mastiff	25 gp	40 ft.	195 lb.
@@ -5291,16 +5272,6 @@ Lifestyle Expenses
 Lifestyle	Price/Day
 Wretched	—
 Squalid	1 sp
-
- 
-
-
-
-
-System Reference Document 5.1	72
- 
-
-
 Poor	2 sp
 Modest	1 gp
 Comfortable	2 gp
@@ -5341,13 +5312,6 @@ Ale
 Gallon	2 sp
 
 Mug	4 cp
- 
-
-
-
-System Reference Document 5.1	73
- 
-
 Banquet (per person)	10 gp
 
 Bread, loaf   2 cp

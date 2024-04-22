@@ -28,6 +28,22 @@ The Mist Cliffs hold an eerie allure, a place where the boundary between the mor
 
 The Mist Cliffs serve as a constant reminder of the profound tragedy that befell Novemgrod on the Black Day. Yet, they also beckon to the adventurous souls who are willing to risk their lives in search of lost relics and fragments of history. The mist-clad expanse conceals untold secrets, waiting to be unearthed by the courageous Divers who dare to descend into the depths. As they embark on their perilous journeys, the Mist Cliffs remain a testament to the city's enduring spirit and the enigmatic mysteries that lie within the ever-present embrace of the Murk.
 
+### The Umbralith Halls
+
+In the dark and foreboding depths beneath the towering cliffs of Novemgrod lies a sinister network of mines, infamous for their association with the dreaded umbraliths. These mines, once ordinary passages of rock and earth, have been transformed into treacherous domains of raw magical energy, giving birth to the malevolent substance known as umbralite.
+
+For generations, the rulers of Novemgrod have exploited these cursed mines to harvest umbralite, a resource of immense power but also unspeakable danger. The demand for umbralite in arcane experiments, dark rituals, and the crafting of powerful artifacts has driven the city's leaders to desperate measures, including the forced labor of prisoners.
+
+Convicts deemed unworthy of redemption or those who dared defy the city's harsh laws are condemned to toil in the umbralite mines. Shackled and stripped of their freedoms, these prisoners descend into the depths of darkness, where the very essence of magic permeates the air with an ominous aura.
+
+The horrors that await the prisoners in the umbralite mines are beyond description. The unnatural energies emanating from the umbralith formations warp reality itself, twisting the minds and bodies of those unfortunate enough to be exposed. Many prisoners succumb to madness or physical deformities, their screams echoing through the labyrinthine tunnels as they are consumed by the dark forces at play.
+
+The work is ceaseless and grueling, with prisoners forced to extract umbralite shards from the heart of the umbraliths using crude tools and minimal protection. The unstable nature of umbralite makes each strike of the pickaxe a gamble with death, as volatile reactions and magical surges can claim lives in an instant.
+
+Those who survive the mines often emerge as hollow shells of their former selves, their bodies scarred by the harsh conditions and their souls tainted by the corrupting influence of umbralite. Yet, even in their broken state, they are driven by the desperate hope of earning a meager reprieve or fleeting moments of respite from their nightmarish existence.
+
+The umbralite mines of Novemgrod stand as a grim reminder of the depths to which humanity can sink in pursuit of power and wealth, a haunting testament to the sacrifices made in the name of dark ambitions.
+
 ### St. Vikal's Cathedrals
 
 The St. Vikals Cathedral, once a revered symbol of worship and spirituality in Novemgrod, now stands as a solemn reminder of a bygone era. In the days before the Black Day, Le Vides reigned as a primary deity, his presence deeply woven into the fabric of the city's religious and cultural identity. The grand Cathedral, with its towering spires and intricate carvings, served as a sacred haven where devoted followers sought solace and guidance.
