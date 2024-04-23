@@ -6769,13 +6769,6 @@ Casting in Armor
 
 Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
 
- 
-
-
-System Reference Document 5.1	100
- 
-
-
 Cantrips
 
 A cantrip is a spell that can be cast at will, without using a spell slot and without being prepared in advance. Repeated practice has fixed the spell in the caster’s mind and infused the caster with the magic needed to produce the effect over and over. A cantrip’s spell level is 0.
@@ -6887,12 +6880,7 @@ Areas of Effect
 
 Spells such as burning hands and cone of cold cover an area, allowing them to affect multiple creatures at once.
 
-A spell’s description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a point of origin, a location from which the spell’s energy erupts. The rules for each shape
- 
-
-System Reference Document 5.1	102
- 
-specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object. A spell’s effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area
+A spell’s description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a point of origin, a location from which the spell’s energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object. A spell’s effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area
 
 of effect, that location isn’t included in the spell’s area. To block one of these imaginary lines, an obstruction must provide total cover.
 Cone
@@ -6956,10 +6944,6 @@ Enchantment spells affect the minds of others, influencing or controlling their 
 Evocation spells manipulate magical energy to produce a desired effect. Some call up blasts of fire or lightning. Others channel positive energy to heal wounds.
 
 Illusion spells deceive the senses or minds of others. They cause people to see things that are not there, to miss things that are there, to hear phantom noises, or to remember things that never happened. Some illusions create phantom
-
- 
-
-System Reference Document 5.1	103
  
 images that any creature can see, but the most insidious
 
@@ -7009,47 +6993,6 @@ For example, if two clerics castbless on the same
 target, that character gains the spell’s benefit only
 
 once; he or she doesn’t get to roll two bonus dice.
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-System Reference Document 5.1	104
  
 Spell Lists	See Invisibility
 Bard Spells	Shatter
