@@ -6,7 +6,7 @@ When your character gains a level, his or her class often grants additional feat
 
 Each time you gain a level, you gain 1 additional Hit Die. Roll that Hit Die, add your Constitution modifier to the roll, and add the total to your hit point maximum. Alternatively, you can use the fixed value shown in your class entry, which is the average result of the die roll (rounded up).
 
-When your Constitution modifier increases by 1, your hit point maximum increases by 1 for each level you have attained. For example, if your 7th-level fighter has a Constitution score of 17, when he reaches 8th level, he increases his Constitution score from 17 to 18, thus increasing his Constitution modifier from +3 to +4. His hit point maximum then increases by 8.
+When your Constitution modifier increases by 1, your hit point maximum increases by 1 for each level you have attained. For example, if your 7th-level soldier has a Constitution score of 17, when he reaches 8th level, he increases his Constitution score from 17 to 18, thus increasing his Constitution modifier from +3 to +4. His hit point maximum then increases by 8.
 
 The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character’s class description to see what other improvements you gain at each level.
 
@@ -39,44 +39,42 @@ The Character Advancement table summarizes the XP you need to advance in levels 
 
 # Multiclassing
 
-Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options. With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in wizard and two in fighter, you’re a 5th-level character.
+Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options. With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in magister and two in soldier, you’re a 5th-level character.
 
 As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely, never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-class character of the same level, you’ll sacrifice some focus in exchange for versatility.
 
 ## Prerequisites
 
-To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-than-average ability scores.
+To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a brute who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-than-average ability scores.
 
 ### Multiclassing Prerequisites
 
 | Class     | Ability Score Minimum |
 |-----------|-----------------------|
-| Barbarian | Strength 13           |
-| Bard      | Charisma 13           |
-| Cleric    | Wisdom 13             |
+| Brute | Strength 13           |
+| Priest    | Wisdom 13             |
 | Druid     | Wisdom 13             |
-| Fighter   | Strength 13 or Dexterity 13 |
+| Soldier   | Strength 13 or Dexterity 13 |
 | Monk      | Dexterity 13 and Wisdom 13 |
-| Paladin   | Strength 13 and Charisma 13 |
-| Ranger    | Dexterity 13 and Wisdom 13 |
-| Rogue     | Dexterity 13          |
+| Oathbound   | Strength 13 and Charisma 13 |
+| Pathfiner    | Dexterity 13 and Wisdom 13 |
+| Knave     | Dexterity 13          |
 | Sorcerer  | Charisma 13           |
-| Warlock   | Charisma 13           |
-| Wizard    | Intelligence 13       |
+| Magister    | Intelligence 13       |
 
 # Experience Points
 
-The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class. So, if you are a cleric 6/fighter 1, you must gain enough XP to reach 8th level before you can take your second level as a fighter or your seventh level as a cleric.
+The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class. So, if you are a priest 6/soldier 1, you must gain enough XP to reach 8th level before you can take your second level as a soldier or your seventh level as a priest.
 
 ## Hit Points and Hit Dice
 
 You gain the hit points from your new class as described for levels after 1st. You gain the 1st-level hit points for a class only when you are a 1st-level character.
 
-You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If the Hit Dice are the same die type, you can simply pool them together. For example, both the fighter and the paladin have a d10, so if you are a paladin 5/fighter 5, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a paladin 5/cleric 5, for example, you have five d10 Hit Dice and five d8 Hit Dice.
+You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If the Hit Dice are the same die type, you can simply pool them together. For example, both the soldier and the oathbound have a d10, so if you are a oathbound 5/soldier 5, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a oathbound 5/priest 5, for example, you have five d10 Hit Dice and five d8 Hit Dice.
 
 ## Proficiency Bonus
 
-Your proficiency bonus is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class. For example, if you are a fighter 3/rogue 2, you have the proficiency bonus of a 5th-level character, which is +3.
+Your proficiency bonus is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class. For example, if you are a soldier 3/knave 2, you have the proficiency bonus of a 5th-level character, which is +3.
 
 ## Proficiencies
 
@@ -86,18 +84,16 @@ When you gain your first level in a class other than your initial class, you gai
 
 | Class      | Proficiencies Gained                                            |
 |------------|-----------------------------------------------------------------|
-| Barbarian  | Shields, simple weapons, martial weapons                        |
-| Bard       | Light armor, one skill of your choice, one musical instrument    |
-| Cleric     | Light armor, medium armor, shields                               |
+| Brute  | Shields, simple weapons, martial weapons                        |
+| Priest     | Light armor, medium armor, shields                               |
 | Druid      | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) |
-| Fighter    | Light armor, medium armor, shields, simple weapons, martial weapons |
+| Soldier    | Light armor, medium armor, shields, simple weapons, martial weapons |
 | Monk       | Simple weapons, shortswords                                      |
-| Paladin    | Light armor, medium armor, shields, simple weapons, martial weapons |
-| Ranger     | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class’s skill list |
-| Rogue      | Light armor, one skill from the class’s skill list, thieves’ tools |
+| Oathbound    | Light armor, medium armor, shields, simple weapons, martial weapons |
+| Pathfiner     | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class’s skill list |
+| Knave      | Light armor, one skill from the class’s skill list, thieves’ tools |
 | Sorcerer   | —                                                               |
-| Warlock    | Light armor, simple weapons                                      |
-| Wizard     | —                                                               |
+| Magister     | —                                                               |
 
 ## Class Features
 
@@ -105,11 +101,11 @@ When you gain a new level in a class, you get its features for that level. You d
 
 ### Channel Divinity
 
-If you already have the Channel Divinity feature and gain a level in a class that also grants the feature, you gain the Channel Divinity effects granted by that class, but getting the feature again doesn’t give you an additional use of it. You gain additional uses only when you reach a class level that explicitly grants them to you. For example, if you are a cleric 6/paladin 4, you can use Channel Divinity twice between rests because you are high enough level in the cleric class to have more uses. Whenever you use the feature, you can choose any of the Channel Divinity effects available to you from your two classes.
+If you already have the Channel Divinity feature and gain a level in a class that also grants the feature, you gain the Channel Divinity effects granted by that class, but getting the feature again doesn’t give you an additional use of it. You gain additional uses only when you reach a class level that explicitly grants them to you. For example, if you are a priest 6/oathbound 4, you can use Channel Divinity twice between rests because you are high enough level in the priest class to have more uses. Whenever you use the feature, you can choose any of the Channel Divinity effects available to you from your two classes.
 
 ### Extra Attack
 
-If you gain the Extra Attack class feature from more than one class, the features don’t add together. You can’t make more than two attacks with this feature unless it says you do (as the fighter’s version of Extra Attack does). Similarly, the warlock’s eldritch invocation Thirsting Blade doesn’t give you additional attacks if you also have Extra Attack.
+If you gain the Extra Attack class feature from more than one class, the features don’t add together. You can’t make more than two attacks with this feature unless it says you do (as the soldier’s version of Extra Attack does). 
 
 ### Unarmored Defense
 
@@ -121,7 +117,7 @@ Your capacity for spellcasting depends partly on your combined levels in all you
 
 ### Spells Known and Prepared
 
-You determine what spells you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a ranger 4/wizard 3, for example, you know three 1st-level ranger spells based on your levels in the ranger class. As a 3rd-level wizard, you know three wizard cantrips, and your spellbook contains ten wizard spells, two of which (the two you gained when you reached 3rd level as a wizard) can be 2nd-level spells. If your Intelligence is 16, you can prepare six wizard spells from your spellbook.
+You determine what spells you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a pathfiner 4/magister 3, for example, you know three 1st-level pathfiner spells based on your levels in the pathfiner class. As a 3rd-level magister, you know three magister cantrips, and your spellbook contains ten magister spells, two of which (the two you gained when you reached 3rd level as a magister) can be 2nd-level spells. If your Intelligence is 16, you can prepare six magister spells from your spellbook.
 
 Each spell you know and prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell. Similarly, a spellcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.
 
@@ -175,17 +171,17 @@ A typical creature in the game world has an alignment, which broadly describes i
 
 These brief summaries of the nine alignments describe the typical behavior of a creature with that alignment. Individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment.
 
-- **Lawful Good (LG):** Creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good.
+- **Lawful Good (LG):** Creatures can be counted on to do the right thing as expected by society. Gold dragons, oathbounds, and most dwarves are lawful good.
 
 - **Neutral Good (NG):** Folks do the best they can to help others according to their needs. Many celestials, some cloud giants, and most gnomes are neutral good.
 
 - **Chaotic Good (CG):** Creatures act as their conscience directs, with little regard for what others expect. Copper dragons, many elves, and unicorns are chaotic good.
 
-- **Lawful Neutral (LN):** Individuals act in accordance with law, tradition, or personal codes. Many monks and some wizards are lawful neutral.
+- **Lawful Neutral (LN):** Individuals act in accordance with law, tradition, or personal codes. Many monks and some magisters are lawful neutral.
 
 - **Neutral (N):** The alignment of those who prefer to steer clear of moral questions and don’t take sides, doing what seems best at the time. Lizardfolk, most druids, and many humans are neutral.
 
-- **Chaotic Neutral (CN):** Creatures follow their whims, holding their personal freedom above all else. Many barbarians and rogues, and some bards, are chaotic neutral.
+- **Chaotic Neutral (CN):** Creatures follow their whims, holding their personal freedom above all else. Many brutes and knaves are chaotic neutral.
 
 - **Lawful Evil (LE):** Creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order. Devils, blue dragons, and hobgoblins are lawful evil.
 
@@ -271,7 +267,7 @@ Additionally, if you have inspiration, you can reward another player for good ro
 
 # Backgrounds
 
-Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your fighter might have been a courageous knight or a grizzled soldier. Your wizard could have been a sage or an artisan. Your rogue might have gotten by as a guild thief or commanded audiences as a jester.
+Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your soldier might have been a courageous knight or a grizzled soldier. Your magister could have been a sage or an artisan. Your knave might have gotten by as a guild thief or commanded audiences as a jester.
 
 Choosing a background provides you with important story cues about your character’s identity. The most important question to ask about your background is what changed? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have more money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
 
