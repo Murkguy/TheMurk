@@ -3588,7 +3588,7 @@ The target’s gear melds into the new form. The creature can’t activate, use,
 - **Components:** V
 - **Duration:** Instantaneous
 
-You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.
+You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 200 hit points or fewer, it dies. Otherwise, the spell has no effect.
 
 ---
 
