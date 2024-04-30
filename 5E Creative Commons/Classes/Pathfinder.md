@@ -12,12 +12,12 @@ As a pathfinder, you gain the following class features.
 
 #### Hit Points
 - Hit Dice: 1d12 per pathfinder level
-- Hit Points at 1st Level:10+CON Modifier
+- Hit Points at 1st Level:10+CON
 - Hit Points at Higher Levels:1d10+CON Modifier per pathfinder level after 1st
 
 #### Strain Points
 - Strain Dice: 1d8 per pathfinder level
-- Strain Points at first level: 8+WIS Modifier
+- Strain Points at first level: 8+WIS
 - Strain Points at Higher Levels: 1d8+WIS Modifier per pathfinder level after first
 
 ### Proficiencies

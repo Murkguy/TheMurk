@@ -12,12 +12,12 @@ As a magister, you gain the following class features.
 
 #### Hit Points
 - **Hit Dice:** 1d6 per priest level
-- **Hit Points at 1st Level:** 6+CON Modifier
+- **Hit Points at 1st Level:** 6+CON
 - **Hit Points at Higher Levels:** 1d6+CON Modifier per priest level after 1st
 
 #### Strain Points
 - **Strain Dice:** 1d12 per priest level
-- **Strain Points at first level:** 12+WIS Modifier
+- **Strain Points at first level:** 12+WIS
 - **Strain Points at Higher Levels:** 1d12+WIS Modifier per brute level after first
 
 ### Proficiencies

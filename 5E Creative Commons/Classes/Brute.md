@@ -12,12 +12,12 @@ As a Brute, you gain the following class features.
 
 #### Hit Points
 - Hit Dice: 1d12 per brute level
-- Hit Points at 1st Level:12+CON Modifier
+- Hit Points at 1st Level:12+CON
 - Hit Points at Higher Levels:1d12+CON Modifier per brute level after 1st
 
 #### Strain Points
 - Strain Dice: 1d8 per brute level
-- Strain Points at first level: 8+WIS Modifier
+- Strain Points at first level: 8+WIS
 - Strain Points at Higher Levels: 1d8+WIS Modifier per brute level after first
 
 

@@ -12,12 +12,12 @@ As a knave, you have thefollowing class features.
 
 #### Hit Points
 - Hit Dice: 1d8 per knave level
-- Hit Points at 1st Level:8+CON Modifier
+- Hit Points at 1st Level:8+CON
 - Hit Points at Higher Levels:1d8+CON Modifier per knave level after 1st
 
 #### Strain Points
 - Strain Dice: 1d8 per knave level
-- Strain Points at first level: 10+WIS Modifier
+- Strain Points at first level: 10+WIS
 - Strain Points at Higher Levels: 1d10+WIS Modifier per knave level after first
 
 ### Proficencies
