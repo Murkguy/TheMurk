@@ -68,22 +68,43 @@ If the Armor table shows “Disadvantage” in the Stealth column, the wearer ha
 
 A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
 
+**Umbralite Energy Shield**
+
+The Umbralite Energy Shield is a remarkable technological marvel infused with magical energies. It manifests as a shimmering barrier of dark energy that envelops the wearer, providing temporary protection against incoming attacks. 
+Functionality: When activated, the Umbralite Energy Shield generates a protective barrier around the wearer, granting temporary hit points that absorb damage before affecting the wearer's actual health. The shield replenishes these temporary hit points at the start of each round, providing ongoing defense during combat situations.
+
+*Stats and Features:*
+
+- Activation: Bonus Action
+- Duration: 1 minute (10 rounds)
+- Temporary Hit Points: 5 + Constitution modifier (minimum of 1) at the start of each of the wearer's turns
+- Weight: 5 lbs.
+- Requires Attunement: Yes
+
+Additional Properties:
+
+- Absorption Field: The shield has a limited capacity to absorb energy-based attacks. It grants resistance to one type of energy damage (fire, cold, acid, lightning, etc.) for the duration of the shield's activation. This resistance can be changed each time the shield is activated.
+- Adaptive Defense: The Umbralite Energy Shield adapts to the wearer's combat style. While active, it grants advantage on Dexterity saving throws against effects that would restrict movement, such as grapples or restraining spells.
+- Overload Release: In dire situations, the wearer can release an overload of energy from the shield, causing a burst of dark energy in a 10-foot radius around them. This burst deals necrotic damage equal to the wearer's Constitution modifier to all creatures in the area. After using this feature, the shield deactivates and cannot be used again until the wearer completes a long rest.
+
+Each activaion of the shield requires the expenditure of an Umbralite Crystal.
+
 **Light Armor**
 
 Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
 
 - **Padded:** Padded armor consists of quilted layers of cloth and batting.
-- **Leather:** The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.
-- **Studded Leather:** Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
+- **Tanned Leather:** The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.
+- **Studded Hide:** Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
 
 **Medium Armor**
 
 Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
 
-- **Hide:** This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.
-- **Chain Shirt:** Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer’s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
+- **Beastmaster's Hide:** This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.
+- **Chain Vest:** Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer’s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
 - **Scale Mail:** This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.
-- **Breastplate:** This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered.
+- **Umbralite Breastplate:** This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer’s vital organs while leaving the wearer relatively unencumbered.
 - **Half Plate:** Half plate consists of shaped metal plates that cover most of the wearer’s body. It does not include leg protection beyond simple greaves that are attached with leather straps.
 
 **Heavy Armor**
@@ -92,32 +113,35 @@ Of all the armor categories, heavy armor offers the best protection. These suits
 
 Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, but it also doesn’t penalize you if your Dexterity modifier is negative.
 
-- **Ring Mail:** This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can’t afford better armor.
-- **Chain Mail:** Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
-- **Splint:** This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.
-- **Plate:** Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
+- **Umbralite Rings:** This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can’t afford better armor.
+- **Chain Hauberk:** Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
+- **Splint Armor:** This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.
+- **Umbralite Plate:** Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
 # Armor
 
-| Armor             | Cost     | Armor Class (AC)       | Strength | Stealth      | Weight |
-| ----------------- | -------- | ---------------------- | -------- | ------------ | ------ |
-| **Light Armor**   |          |                        |          |              |        |
-| Padded            | 5 gp     | 11 + Dex modifier      | —        | Disadvantage | 8 lb.  |
-| Leather           | 10 gp    | 11 + Dex modifier      | —        | —            | 10 lb. |
-| Studded leather   | 45 gp    | 12 + Dex modifier      | —        | —            | 13 lb. |
-| **Medium Armor**  |          |                        |          |              |        |
-| Hide              | 10 gp    | 12 + Dex modifier (max 2) | —    | —            | 12 lb. |
-| Chain shirt       | 50 gp    | 13 + Dex modifier (max 2) | —    | —            | 20 lb. |
-| Scale mail        | 50 gp    | 14 + Dex modifier (max 2) | —    | Disadvantage | 45 lb. |
-| Breastplate       | 400 gp   | 14 + Dex modifier (max 2) | —    | —            | 20 lb. |
-| Half plate        | 750 gp   | 15 + Dex modifier (max 2) | —    | Disadvantage | 40 lb. |
-| **Heavy Armor**   |          |                        |          |              |        |
-| Ring mail         | 30 gp    | 14                      | —        | Disadvantage | 40 lb. |
-| Chain mail        | 75 gp    | 16                      | Str 13   | Disadvantage | 55 lb. |
-| Splint            | 200 gp   | 17                      | Str 15   | Disadvantage | 60 lb. |
-| Plate             | 1,500 gp | 18                      | Str 15   | Disadvantage | 65 lb. |
-| **Shield**        |          |                        |          |              |        |
-| Shield            | 10 gp    | +2                      | —        | —            | 6 lb.  |
+| Armor               | Cost     | Armor Class (AC)       | Strength | Stealth      | Weight | Acquire DC |
+| ------------------- | -------- | ---------------------- | -------- | ------------ | ------ | ---------- |
+| **Light Armor**     |          |                        |          |              |        |            |
+| Padded              | 5 gp     | 11 + Dex modifier      | —        | Disadvantage | 8 lb.  | 10         |
+| Tanned Leather      | 10 gp    | 11 + Dex modifier      | —        | —            | 10 lb. | 12         |
+| Studded Hide        | 45 gp    | 12 + Dex modifier      | —        | —            | 13 lb. | 15         |
+| **Medium Armor**    |          |                        |          |              |        |            |
+| Beastmaster's Hide  | 10 gp    | 12 + Dex modifier (max 2) | —    | —            | 12 lb. | 12         |
+| Chain Vest          | 50 gp    | 13 + Dex modifier (max 2) | —    | —            | 20 lb. | 15         |
+| Scale Mail          | 50 gp    | 14 + Dex modifier (max 2) | —    | Disadvantage | 45 lb. | 18         |
+| Umbralite Breastplate | 400 gp | 14 + Dex modifier (max 2) | —    | —            | 20 lb. | 20         |
+| Half-Plate          | 750 gp   | 15 + Dex modifier (max 2) | —    | Disadvantage | 40 lb. | 22         |
+| **Heavy Armor**     |          |                        |          |              |        |            |
+| Umbralite Rings     | 30 gp    | 14                      | —        | Disadvantage | 40 lb. | 18         |
+| Chain Hauberk       | 75 gp    | 16                      | Str 13   | Disadvantage | 55 lb. | 20         |
+| Splint Armor        | 200 gp   | 17                      | Str 15   | Disadvantage | 60 lb. | 22         |
+| Umbralite Plate     | 1,500 gp | 18                      | Str 15   | Disadvantage | 65 lb. | 25         |
+| **Shield**          |          |                        |          |              |        |            |
+| Umbralite Shield    | 10 gp    | +2                      | —        | —            | 6 lb.  | 12         |
+| Umbralite Energy Shield | 3000 gp | —                    | —        | —            | 5 lb.  | 32         |
+
+
 
 ## Getting Into and Out of Armor
 
@@ -183,49 +207,58 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 
 # Weapons
 
-| Name                | Cost    | Damage          | Weight | Properties                                |
-| ------------------- | ------- | --------------- | ------ | ----------------------------------------- |
-| **Simple Melee Weapons** |         |                 |        |                                           |
-| Club                | 1 sp    | 1d8 bludgeoning | 2 lb.  | Light                                     |
-| Dagger              | 2 gp    | 1d8 piercing    | 1 lb.  | Finesse, light, thrown (range 20/60)      |
-| Greatclub           | 2 sp    | 1d12 bludgeoning | 10 lb. | Two-handed                                |
-| Handaxe             | 5 gp    | 1d10 slashing    | 2 lb.  | Light, thrown (range 20/60)               |
-| Javelin             | 5 sp    | 1d10 piercing    | 2 lb.  | Thrown (range 30/120)                     |
-| Light hammer        | 2 gp    | 1d8 bludgeoning | 2 lb.  | Light, thrown (range 20/60)               |
-| Mace                | 5 gp    | 1d10 bludgeoning | 4 lb.  | —                                         |
-| Quarterstaff        | 2 sp    | 1d10 bludgeoning | 4 lb.  | Versatile (1d12)                           |
-| Sickle              | 1 gp    | 1d8 slashing    | 2 lb.  | Light                                     |
-| Spear               | 1 gp    | 1d10 piercing    | 3 lb.  | Thrown (range 20/60), versatile (1d12)     |
-| **Simple Ranged Weapons** |         |                 |        |                                           |
-| Crossbow, light     | 25 gp   | 1d12 piercing    | 5 lb.  | Ammunition (range 80/320), loading, two-handed |
-| Dart                | 5 cp    | 1d8 piercing    | 1/4 lb.| Finesse, thrown (range 20/60)             |
-| Shortbow            | 25 gp   | 1d10 piercing    | 2 lb.  | Ammunition (range 80/320), two-handed     |
-| Sling               | 1 sp    | 1d8 bludgeoning | —      | Ammunition (range 30/120)                  |
-| **Martial Melee Weapons** |         |                 |        |                                           |
-| Battleaxe           | 10 gp   | 1d12 slashing    | 4 lb.  | Versatile (2d8)                          |
-| Flail               | 10 gp   | 1d12 bludgeoning | 2 lb.  | —                                         |
-| Glaive              | 20 gp   | 2d8 slashing   | 6 lb.  | Heavy, reach, two-handed                   |
-| Greataxe            | 30 gp   | 2d10 slashing   | 7 lb.  | Heavy, two-handed                         |
-| Greatsword          | 50 gp   | 2d6 slashing    | 6 lb.  | Heavy, two-handed                         |
-| Halberd             | 20 gp   | 2d8 slashing   | 6 lb.  | Heavy, reach, two-handed                   |
-| Lance               | 10 gp   | 2d10 piercing   | 6 lb.  | Reach, special                            |
-| Longsword           | 15 gp   | 1d12 slashing    | 3 lb.  | Versatile (2d8)                          |
-| Maul                | 10 gp   | 2d6 bludgeoning | 10 lb. | Heavy, two-handed                         |
-| Morningstar         | 15 gp   | 1d12 piercing    | 4 lb.  | —                                         |
-| Pike                | 5 gp    | 2d8 piercing   | 18 lb. | Heavy, reach, two-handed                   |
-| Rapier              | 25 gp   | 1d12 piercing    | 2 lb.  | Finesse                                   |
-| Scimitar            | 25 gp   | 1d10 slashing    | 3 lb.  | Finesse, light                            |
-| Shortsword          | 10 gp   | 1d10 piercing    | 2 lb.  | Finesse, light                            |
-| Trident             | 5 gp    | 1d10 piercing    | 4 lb.  | Thrown (range 20/60), versatile (1d12)     |
-| War pick            | 5 gp    | 1d12 piercing    | 2 lb.  | —                                         |
-| Warhammer           | 15 gp   | 1d12 bludgeoning | 2 lb.  | Versatile (2d8)                          |
-| Whip                | 2 gp    | 1d8 slashing    | 3 lb.  | Finesse, reach                            |
-| **Martial Ranged Weapons** |         |                 |        |                                           |
-| Blowgun             | 10 gp   | 1d4 piercing      | 1 lb.  | Ammunition (range 25/100), loading        |
-| Crossbow, hand      | 75 gp   | 1d10 piercing    | 3 lb.  | Ammunition (range 30/120), light, loading |
-| Crossbow, heavy     | 50 gp   | 2d8 piercing   | 18 lb. | Ammunition (range 100/400), heavy, loading, two-handed |
-| Longbow             | 50 gp   | 1d12 piercing    | 2 lb.  | Ammunition (range 150/600), heavy, two-handed |
-| Net                 | 1 gp    | —               | 3 lb.  | Special, thrown (range 5/15)              |
+| Name                | Cost    | Damage          | Weight | Properties                                | Acquire DC |
+| ------------------- | ------- | --------------- | ------ | ----------------------------------------- | ---------- |
+| **Simple Melee Weapons** |         |                 |        |                                           |             |
+| Umbralite Club                | 1 sp    | 1d8 bludgeoning | 2 lb.  | Light                                     | 10         |
+| Shadow Dagger              | 2 gp    | 1d8 piercing    | 1 lb.  | Finesse, light, thrown (range 20/60)      | 12         |
+| Greatclub           | 2 sp    | 1d12 bludgeoning | 10 lb. | Two-handed                                | 10         |
+| Handaxe             | 5 gp    | 1d10 slashing    | 2 lb.  | Light, thrown (range 20/60)               | 12         |
+| Javelin             | 5 sp    | 1d10 piercing    | 2 lb.  | Thrown (range 30/120)                     | 12         |
+| Light hammer        | 2 gp    | 1d8 bludgeoning | 2 lb.  | Light, thrown (range 20/60)               | 12         |
+| Mace                | 5 gp    | 1d10 bludgeoning | 4 lb.  | —                                         | 12         |
+| Quarterstaff        | 2 sp    | 1d10 bludgeoning | 4 lb.  | Versatile (1d12)                          | 12         |
+| Sickle              | 1 gp    | 1d8 slashing    | 2 lb.  | Light                                     | 12         |
+| Spear               | 1 gp    | 1d10 piercing    | 3 lb.  | Thrown (range 20/60), versatile (1d12)     | 12         |
+| **Simple Ranged Weapons** |         |                 |        |                                           |             |
+| Crossbow, Light     | 25 gp   | 1d12 piercing    | 5 lb.  | Ammunition (range 80/320), loading, two-handed | 15      |
+| Dart                | 5 cp    | 1d8 piercing    | 1/4 lb.| Finesse, thrown (range 20/60)             | 12         |
+| Hunter's Rifle                 | 250 gp  | 2d8 piercing   | 8 lb.  | Ammunition (range 80/320), heavy, loading, two-handed | DC 22      |
+| Shortbow            | 25 gp   | 1d10 piercing    | 2 lb.  | Ammunition (range 80/320), two-handed     | 15      |
+| Shotgun                 | 250 gp  | 2d10 piercing   | 8 lb.  | Ammunition (range 15/30), heavy, loading, two-handed | DC 20      |
+| Sling               | 1 sp    | 1d8 bludgeoning | —      | Ammunition (range 30/120)                  | 10         |
+| **Martial Melee Weapons** |         |                 |        |                                           |             |
+| Battleaxe           | 10 gp   | 1d12 slashing    | 4 lb.  | Versatile (2d8)                          | 15      |
+| Flail               | 10 gp   | 1d12 bludgeoning | 2 lb.  | —                                         | 15      |
+| Glaive              | 20 gp   | 2d8 slashing   | 6 lb.  | Heavy, reach, two-handed                   | 18      |
+| Greataxe            | 30 gp   | 2d10 slashing   | 7 lb.  | Heavy, two-handed                         | 20      |
+| Greatsword          | 50 gp   | 2d6 slashing    | 6 lb.  | Heavy, two-handed                         | 20      |
+| Halberd             | 20 gp   | 2d8 slashing   | 6 lb.  | Heavy, reach, two-handed                   | 18      |
+| Lance               | 10 gp   | 2d10 piercing   | 6 lb.  | Reach, special                            | 20      |
+| Longsword           | 15 gp   | 1d12 slashing    | 3 lb.  | Versatile (2d8)                          | 15      |
+| Maul                | 10 gp   | 2d6 bludgeoning | 10 lb. | Heavy, two-handed                         | 20      |
+| Morningstar         | 15 gp   | 1d12 piercing    | 4 lb.  | —                                         | 15      |
+| Pike                | 5 gp    | 2d8 piercing   | 18 lb. | Heavy, reach, two-handed                   | 18      |
+| Umbralite Power Axe             | 1200 gp | 1d12 slashing  | 6 lb.  | Versatile (2d8), heavy, two-handed, umbralite imbued | DC 25      |
+| Umbralite Power Hammer          | 1500 gp | 2d6 bludgeoning | 8 lb. | Versatile (2d8), heavy, two-handed, umbralite imbued | DC 28      |
+| Umbralite Power Sword           | 1000 gp | 2d6 slashing   | 4 lb.  | Versatile (2d8), finesse, light, umbralite imbued | DC 22      |
+| Rapier              | 25 gp   | 1d12 piercing    | 2 lb.  | Finesse                                   | 15      |
+| Scimitar            | 25 gp   | 1d10 slashing    | 3 lb.  | Finesse, light                            | 15      |
+| Shortsword          | 10 gp   | 1d10 piercing    | 2 lb.  | Finesse, light                            | 15      |
+| Trident             | 5 gp    | 1d10 piercing    | 4 lb.  | Thrown (range 20/60), versatile (1d12)     | 15      |
+| War pick            | 5 gp    | 1d12 piercing    | 2 lb.  | —                                         | 15      |
+| Warhammer           | 15 gp   | 1d12 bludgeoning | 2 lb.  | Versatile (2d8)                          | 15      |
+| Whip                | 2 gp    | 1d8 slashing    | 3 lb.  | Finesse, reach                            | 12         |
+| **Martial Ranged Weapons** |         |                 |        |                                           |             |
+| Blowgun             | 10 gp   | 1d4 piercing      | 1 lb.  | Ammunition (range 25/100), loading        | 15      |
+| Crossbow, Hand      | 75 gp   | 1d10 piercing    | 3 lb.  | Ammunition (range 30/120), light, loading | 18      |
+| Crossbow, Heavy     | 50 gp   | 2d8 piercing   | 18 lb. | Ammunition (range 100/400), heavy, loading, two-handed | 20      |
+| Longbow             | 50 gp   | 1d12 piercing    | 2 lb.  | Ammunition (range 150/600), heavy, two-handed | 20      |
+| Net                 | 1 gp    | —               | 3 lb.  | Special, thrown (range 5/15)              | 12         |
+| Umbralite Pistol      | 2500 gp  | 2d8 force   | 8 lb.  | Ammunition (range 30/90), light, loading, umbralite powered | DC 30      |
+| Umbralite Rifle     | 5000 gp  | 2d10 force   | 8 lb.  | Ammunition (range 80/320), heavy, loading, two-handed, umbralite powered | DC 30      |
+
+
 
 
 # Adventuring Gear
@@ -278,110 +311,117 @@ This section describes items that have special rules or require further explanat
 | **Torch**             | A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage. |
 
 
-| Item                           | Cost  | Weight |
-| ------------------------------ | ----- | ------ |
-| Abacus                         | 2 gp  | 2 lb.  |
-| Acid (vial)                    | 25 gp | 1 lb.  |
-| Alchemist’s fire (flask)       | 50 gp | 1 lb.  |
-| Ammunition                     |       |        |
-| Arrows (20)                    | 1 gp  | 1 lb.  |
-| Blowgun needles (50)           | 1 gp  | 1 lb.  |
-| Crossbow bolts (20)            | 1 gp  | 1½ lb. |
-| Sling bullets (20)             | 4 cp  | 1½ lb. |
-| Antitoxin (vial)               | 50 gp | —      |
-| Arcane focus                   |       |        |
-| Crystal                        | 10 gp | 1 lb.  |
-| Orb                            | 20 gp | 3 lb.  |
-| Rod                            | 10 gp | 2 lb.  |
-| Staff                          | 5 gp  | 4 lb.  |
-| Wand                           | 10 gp | 1 lb.  |
-| Backpack                       | 2 gp  | 5 lb.  |
-| Ball bearings (bag of 1,000)   | 1 gp  | 2 lb.  |
-| Barrel                         | 2 gp  | 70 lb. |
-| Basket                         | 4 sp  | 2 lb.  |
-| Bedroll                        | 1 gp  | 7 lb.  |
-| Bell                           | 1 gp  | —      |
-| Blanket                        | 5 sp  | 3 lb.  |
-| Block and tackle               | 1 gp  | 5 lb.  |
-| Book                           | 25 gp | 5 lb.  |
-| Bottle, glass                  | 2 gp  | 2 lb.  |
-| Bucket                         | 5 cp  | 2 lb.  |
-| Caltrops (bag of 20)           | 1 gp  | 2 lb.  |
-| Candle                         | 1 cp  | —      |
-| Case, crossbow bolt            | 1 gp  | 1 lb.  |
-| Case, map or scroll            | 1 gp  | 1 lb.  |
-| Chain (10 feet)                | 5 gp  | 10 lb. |
-| Chalk (1 piece)                | 1 cp  | —      |
-| Chest                          | 5 gp  | 25 lb. |
-| Climber’s kit                  | 25 gp | 12 lb. |
-| Clothes, common                | 5 sp  | 3 lb.  |
-| Clothes, costume               | 5 gp  | 4 lb.  |
-| Clothes, fine                  | 15 gp | 6 lb.  |
-| Clothes, traveler’s            | 2 gp  | 4 lb.  |
-| Component pouch                | 25 gp | 2 lb.  |
-| Crowbar                        | 2 gp  | 5 lb.  |
-| Druidic focus                  |       |        |
-| Sprig of mistletoe             | 1 gp  | —      |
-| Totem                          | 1 gp  | —      |
-| Wooden staff                   | 5 gp  | 4 lb.  |
-| Yew wand                       | 10 gp | 1 lb.  |
-| Fishing tackle                 | 1 gp  | 4 lb.  |
-| Flask or tankard               | 2 cp  | 1 lb.  |
-| Grappling hook                 | 2 gp  | 4 lb.  |
-| Hammer                         | 1 gp  | 3 lb.  |
-| Hammer, sledge                 | 2 gp  | 10 lb. |
-| Healer’s kit                   | 5 gp  | 3 lb.  |
-| Holy symbol                    |       |        |
-| Amulet                         | 5 gp  | 1 lb.  |
-| Emblem                         | 5 gp  | —      |
-| Reliquary                      | 5 gp  | 2 lb.  |
-| Holy water (flask)             | 25 gp | 1 lb.  |
-| Hourglass                      | 25 gp | 1 lb.  |
-| Hunting trap                   | 5 gp  | 25 lb. |
-| Ink (1 ounce bottle)           | 10 gp | —      |
-| Ink pen                        | 2 cp  | —      |
-| Jug or pitcher                 | 2 cp  | 4 lb.  |
-| Ladder (10-foot)               | 1 sp  | 25 lb. |
-| Lamp                           | 5 sp  | 1 lb.  |
-| Lantern, bullseye              | 10 gp | 2 lb.  |
-| Lantern, hooded                | 5 gp  | 2 lb.  |
-| Lock                           | 10 gp | 1 lb.  |
-| Magnifying glass               | 100 gp| —      |
-| Manacles                       | 2 gp  | 6 lb.  |
-| Mess kit                       | 2 sp  | 1 lb.  |
-| Mirror, steel                  | 5 gp  | 1/2 lb.|
-| Oil (flask)                    | 1 sp  | 1 lb.  |
-| Paper (one sheet)              | 2 sp  | —      |
-| Parchment (one sheet)          | 1 sp  | —      |
-| Perfume (vial)                 | 5 gp  | —      |
-| Pick, miner’s                  | 2 gp  | 10 lb. |
-| Piton                          | 5 cp  | 1/4 lb.|
-| Poison, basic (vial)           | 100 gp| —      |
-| Pole (10-foot)                 | 5 cp  | 7 lb.  |
-| Pot, iron                      | 2 gp  | 10 lb. |
-| Potion of healing               | 50 gp | 1/2 lb.|
-| Pouch                          | 5 sp  | 1 lb.  |
-| Quiver                         | 1 gp  | 1 lb.  |
-| Ram, portable                  | 4 gp  | 35 lb. |
-| Rations (1 day)                | 5 sp  | 2 lb.  |
-| Robes                          | 1 gp  | 4 lb.  |
-| Rope, hempen (50 feet)         | 1 gp  | 10 lb. |
-| Rope, silk (50 feet)           | 10 gp | 5 lb.  |
-| Sack                           | 1 cp  | 1/2 lb.|
-| Scale, merchant’s              | 5 gp  | 3 lb.  |
-| Sealing wax                    | 5 sp  | —      |
-| Shovel                         | 2 gp  | 5 lb.  |
-| Signal whistle                 | 5 cp  | —      |
-| Signet ring                    | 5 gp  | —      |
-| Soap                           | 2 cp  | —      |
-| Spellbook                      | 50 gp | 3 lb.  |
-| Spikes, iron (10)              | 1 gp  | 5 lb.  |
-| Spyglass                       | 1,000 gp | 1 lb. |
-| Tent, two-person               | 2 gp  | 20 lb. |
-| Tinderbox                      | 5 sp  | 1 lb.  |
-| Torch                          | 1 cp  | 1 lb.  |
-| Vial                           | 1 gp  | —      |
-| Waterskin                      | 2 sp  | 5 lb. (full) |
+| Item                           | Cost  | Weight | Acquire DC |
+| ------------------------------ | ----- | ------ | ---------- |
+| Abacus                         | 2 gp  | 2 lb.  | 12         |
+| Acid Vial                      | 25 gp | 1 lb.  | 15         |
+| Alchemist’s Fire Flask         | 50 gp | 1 lb.  | 18         |
+| Ammunition                     |       |        |            |
+| Arrows (20)                    | 1 gp  | 1 lb.  | 12         |
+| Blowgun Needles (50)           | 1 gp  | 1 lb.  | 12         |
+| Crossbow Bolts (20)            | 1 gp  | 1½ lb. | 15         |
+| Bullets (20)                   | 4 cp  | 1½ lb. | 10         |
+| Antitoxin Vial                 | 50 gp | —      | 18         |
+| Arcane Focus                   |       |        |            |
+| Crystal                        | 10 gp | 1 lb.  | 15         |
+| Orb                            | 20 gp | 3 lb.  | 15         |
+| Rod                            | 10 gp | 2 lb.  | 15         |
+| Staff                          | 5 gp  | 4 lb.  | 12         |
+| Wand                           | 10 gp | 1 lb.  | 12         |
+| Backpack                       | 2 gp  | 5 lb.  | 15         |
+| Ball Bearings (bag of 1,000)   | 1 gp  | 2 lb.  | 12         |
+| Barrel                         | 2 gp  | 70 lb. | 20         |
+| Basket                         | 4 sp  | 2 lb.  | 12         |
+| Bedroll                        | 1 gp  | 7 lb.  | 12         |
+| Bell                           | 1 gp  | —      | 12         |
+| Blanket                        | 5 sp  | 3 lb.  | 12         |
+| Block and Tackle               | 1 gp  | 5 lb.  | 15         |
+| Book                           | 25 gp | 5 lb.  | 18         |
+| Bottle, Glass                  | 2 gp  | 2 lb.  | 12         |
+| Bucket                         | 5 cp  | 2 lb.  | 10         |
+| Caltrops (bag of 20)           | 1 gp  | 2 lb.  | 12         |
+| Candle                         | 1 cp  | —      | 10         |
+| Crossbow Bolt Case             | 1 gp  | 1 lb.  | 12         |
+| Map or Scroll Case             | 1 gp  | 1 lb.  | 12         |
+| Chain (10 feet)                | 5 gp  | 10 lb. | 15         |
+| Chest                          | 5 gp  | 25 lb. | 18         |
+| Climber’s Kit                  | 25 gp | 12 lb. | 18         |
+| Common Clothes                 | 5 sp  | 3 lb.  | 12         |
+| Costume Clothes                | 5 gp  | 4 lb.  | 15         |
+| Fine Clothes                   | 15 gp | 6 lb.  | 18         |
+| Traveler’s Clothes             | 2 gp  | 4 lb.  | 12         |
+| Component Pouch                | 25 gp | 2 lb.  | 15         |
+| Crowbar                        | 2 gp  | 5 lb.  | 15         |
+| Druidic Focus                  |       |        |            |
+| Mistletoe Sprig                | 1 gp  | —      | 12         |
+| Totem                          | 1 gp  | —      | 12         |
+| Wooden Staff                   | 5 gp  | 4 lb.  | 12         |
+| Yew Wand                       | 10 gp | 1 lb.  | 12         |
+| Fishing Tackle                 | 1 gp  | 4 lb.  | 12         |
+| Flask or Tankard               | 2 cp  | 1 lb.  | 10         |
+| Grappling Hook                 | 2 gp  | 4 lb.  | 15         |
+| Hammer                         | 1 gp  | 3 lb.  | 12         |
+| Sledge Hammer                  | 2 gp  | 10 lb. | 18         |
+| Healer’s Kit                   | 5 gp  | 3 lb.  | 12         |
+| Holy Symbol                    |       |        |            |
+| Amulet                         | 5 gp  | 1 lb.  | 12         |
+| Emblem                         | 5 gp  | —      | 12         |
+| Reliquary                      | 5 gp  | 2 lb.  | 12         |
+| Holy Water Flask               | 25 gp | 1 lb.  | 15         |
+| Hourglass                      | 25 gp | 1 lb.  | 15         |
+| Hunting Trap                   | 5 gp  | 25 lb. | 18         |
+| Ink (1 ounce bottle)           | 10 gp | —      | 12         |
+| Ink Pen                        | 2 cp  | —      | 10         |
+| Jug or Pitcher                 | 2 cp  | 4 lb.  | 10         |
+| Ladder (10-foot)               | 1 sp  | 25 lb. | 15         |
+| Lamp                           | 5 sp  | 1 lb.  | 12         |
+| Bullseye Lantern               | 10 gp | 2 lb.  | 15         |
+| Hooded Lantern                 | 5 gp  | 2 lb.  | 12         |
+| Lock                           | 10 gp | 1 lb.  | 15         |
+| Magnifying Glass               | 100 gp| —      | 18         |
+| Manacles                       | 2 gp  | 6 lb.  | 15         |
+| Mess Kit                       | 2 sp  | 1 lb.  | 12         |
+| Steel Mirror                   | 5 gp  | 1/2 lb.| 12         |
+| Oil Flask                      | 1 sp  | 1 lb.  | 12         |
+| Paper (One Sheet)              | 2 sp  | —      | 10         |
+| Parchment (One Sheet)          | 1 sp  | —      | 10         |
+| Perfume Vial                   | 5 gp  | —      | 12         |
+| Miner’s Pick                   | 2 gp  | 10 lb. | 18         |
+| Piton                          | 5 cp  | 1/4 lb.| 10         |
+| Poison (Basic Vial)            | 100 gp| —      | 18         |
+| Pole (10-foot)                 | 5 cp  | 7 lb.  | 12         |
+| Iron Pot                       | 2 gp  | 10 lb. | 15         |
+| Potion of Healing              | 50 gp | 1/2 lb.| 15         |
+| Pouch                          | 5 sp  | 1 lb.  | 12         |
+| Quiver                         | 1 gp  | 1 lb.  | 12         |
+| Portable Ram                   | 4 gp  | 35 lb. | 20         |
+| Rations (1 Day)                | 5 sp  | 2 lb.  | 12         |
+| Robes                          | 1 gp  | 4 lb.  | 12         |
+| Hempen Rope (50 feet)          | 1 gp  | 10 lb. | 15         |
+| Silk Rope (50 feet)            | 10 gp | 5 lb.  | 18         |
+| Sack                           | 1 cp  | 1/2 lb.| 10         |
+| Merchant’s Scale               | 5 gp  | 3 lb.  | 12         |
+| Sealing Wax                    | 5 sp  | —      | 10         |
+| Shovel                         | 2 gp  | 5 lb.  | 12         |
+| Signal Whistle                 | 5 cp  | —      | 10         |
+| Signet Ring                    | 5 gp  | —      | 12         |
+| Soap                           | 2 cp  | —      | 10         |
+| Spellbook                      | 50 gp | 3 lb.  | 18         |
+| Iron Spikes (10)               | 1 gp  | 5 lb.  | 12         |
+| Spyglass                       | 1,000 gp | 1 lb. | 20         |
+| Two-Person Tent                | 2 gp  | 20 lb. | 18         |
+| Tinderbox                      | 5 sp  | 1 lb.  | 12         |
+| Torch                          | 1 cp  | 1 lb.  | 10         |
+| Vial                           | 1 gp  | —      | 12         |
+| Waterskin                      | 2 sp  | 5 lb. (full) | 12         |
+
+| Item             | Cost    | Weight | Properties                              | Acquire DC |
+| ---------------- | ------- | ------ | --------------------------------------- | ---------- |
+| Umbralite Shard  | 50 gp   | 1/2 lb.| Rare magical material, used in crafting magical items and weapons | DC 18      |
+| Umbralite Ingot  | 200 gp  | 1 lb.  | Refined umbralite, used for higher-level enchantments and magical constructions | DC 20      |
+| Umbralite Crystal| 500 gp  | 2 lb.  | Purest form of umbralite, imbued with potent magical energy | DC 25      |
+
+
 
 ### Equipment Packs
 
@@ -405,47 +445,48 @@ The starting equipment you get from your class includes a collection of useful a
 
 A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver’s tools, or a Strength check to make something out of particularly hard wood.
 
-| Item                        | Cost | Weight |
-| --------------------------- | ---- | ------ |
-| Artisan’s tools             |      |        |
-| Alchemist’s supplies        | 50 gp| 8 lb.  |
-| Brewer’s supplies           | 20 gp| 9 lb.  |
-| Calligrapher's supplies     | 10 gp| 5 lb.  |
-| Carpenter’s tools           | 8 gp | 6 lb.  |
-| Cartographer’s tools        | 15 gp| 6 lb.  |
-| Cobbler’s tools             | 5 gp | 5 lb.  |
-| Cook’s utensils             | 1 gp | 8 lb.  |
-| Glassblower’s tools         | 30 gp| 5 lb.  |
-| Jeweler’s tools             | 25 gp| 2 lb.  |
-| Leatherworker’s tools       | 5 gp | 5 lb.  |
-| Mason’s tools               | 10 gp| 8 lb.  |
-| Painter’s supplies          | 10 gp| 5 lb.  |
-| Potter’s tools              | 10 gp| 3 lb.  |
-| Smith’s tools               | 20 gp| 8 lb.  |
-| Tinker’s tools              | 50 gp| 10 lb. |
-| Weaver’s tools              | 1 gp | 5 lb.  |
-| Woodcarver’s tools          | 1 gp | 5 lb.  |
-| Disguise kit                | 25 gp| 3 lb.  |
-| Forgery kit                 | 15 gp| 5 lb.  |
-| Gaming set                  |      |        |
-| Dice set                    | 1 sp | —      |
-| Playing card set            | 5 sp | —      |
-| Herbalism kit               | 5 gp | 3 lb.  |
-| Musical instrument          |      |        |
-| Bagpipes                    | 30 gp| 6 lb.  |
-| Drum                        | 6 gp | 3 lb.  |
-| Dulcimer                    | 25 gp| 10 lb. |
-| Flute                       | 2 gp | 1 lb.  |
-| Lute                        | 35 gp| 2 lb.  |
-| Lyre                        | 30 gp| 2 lb.  |
-| Horn                        | 3 gp | 2 lb.  |
-| Pan flute                   | 12 gp| 2 lb.  |
-| Shawm                       | 2 gp | 1 lb.  |
-| Viol                        | 30 gp| 1 lb.  |
-| Navigator’s tools           | 25 gp| 2 lb.  |
-| Poisoner’s kit              | 50 gp| 2 lb.  |
-| Thieves’ tools              | 25 gp| 1 lb.  |
-| Vehicles (land or water)    | *    | *      |
+| Item                        | Cost | Weight | Acquire DC |
+| --------------------------- | ---- | ------ | ---------- |
+| Artisan’s tools             |      |        |            |
+| Alchemist’s supplies        | 50 gp| 8 lb.  | 18         |
+| Brewer’s supplies           | 20 gp| 9 lb.  | 15         |
+| Calligrapher's supplies     | 10 gp| 5 lb.  | 12         |
+| Carpenter’s tools           | 8 gp | 6 lb.  | 12         |
+| Cartographer’s tools        | 15 gp| 6 lb.  | 15         |
+| Cobbler’s tools             | 5 gp | 5 lb.  | 12         |
+| Cook’s utensils             | 1 gp | 8 lb.  | 10         |
+| Glassblower’s tools         | 30 gp| 5 lb.  | 15         |
+| Jeweler’s tools             | 25 gp| 2 lb.  | 15         |
+| Leatherworker’s tools       | 5 gp | 5 lb.  | 12         |
+| Mason’s tools               | 10 gp| 8 lb.  | 12         |
+| Painter’s supplies          | 10 gp| 5 lb.  | 12         |
+| Potter’s tools              | 10 gp| 3 lb.  | 12         |
+| Smith’s tools               | 20 gp| 8 lb.  | 15         |
+| Tinker’s tools              | 50 gp| 10 lb. | 18         |
+| Weaver’s tools              | 1 gp | 5 lb.  | 10         |
+| Woodcarver’s tools          | 1 gp | 5 lb.  | 10         |
+| Disguise kit                | 25 gp| 3 lb.  | 15         |
+| Forgery kit                 | 15 gp| 5 lb.  | 12         |
+| Gaming set                  |      |        |            |
+| Dice set                    | 1 sp | —      | 10         |
+| Playing card set            | 5 sp | —      | 10         |
+| Herbalism kit               | 5 gp | 3 lb.  | 12         |
+| Musical instrument          |      |        |            |
+| Bagpipes                    | 30 gp| 6 lb.  | 15         |
+| Drum                        | 6 gp | 3 lb.  | 12         |
+| Dulcimer                    | 25 gp| 10 lb. | 18         |
+| Flute                       | 2 gp | 1 lb.  | 10         |
+| Lute                        | 35 gp| 2 lb.  | 15         |
+| Lyre                        | 30 gp| 2 lb.  | 15         |
+| Horn                        | 3 gp | 2 lb.  | 10         |
+| Pan flute                   | 12 gp| 2 lb.  | 12         |
+| Shawm                       | 2 gp | 1 lb.  | 10         |
+| Viol                        | 30 gp| 1 lb.  | 12         |
+| Navigator’s tools           | 25 gp| 2 lb.  | 15         |
+| Poisoner’s kit              | 50 gp| 2 lb.  | 18         |
+| Thieves’ tools              | 25 gp| 1 lb.  | 15         |
+| Vehicles (land or water)    | *    | *      | *          |
+
 
 *See the “Mounts and Vehicles” section.*
 
@@ -481,47 +522,50 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 
 #### Mounts and Other Animals
 
-| Item               | Cost | Speed | Capacity  |
-| ------------------ | ---- | ----- | --------- |
-| Camel              | 50 gp| 50 ft.| 480 lb.   |
-| Donkey or mule     | 8 gp | 40 ft.| 420 lb.   |
-| Elephant           | 200 gp| 40 ft.| 1,320 lb. |
-| Horse, draft       | 50 gp| 40 ft.| 540 lb.   |
-| Horse, riding      | 75 gp| 60 ft.| 480 lb.   |
-| Mastiff            | 25 gp| 40 ft.| 195 lb.   |
-| Pony               | 30 gp| 40 ft.| 225 lb.   |
-| Warhorse           | 400 gp| 60 ft.| 540 lb.  |
+| Item               | Cost  | Speed | Capacity  | Acquire DC |
+| ------------------ | ----- | ----- | --------- | ---------- |
+| Camel              | 50 gp | 50 ft.| 480 lb.   | 15         |
+| Donkey or mule     | 8 gp  | 40 ft.| 420 lb.   | 10         |
+| Elephant           | 200 gp| 40 ft.| 1,320 lb. | 18         |
+| Horse, draft       | 50 gp | 40 ft.| 540 lb.   | 15         |
+| Horse, riding      | 75 gp | 60 ft.| 480 lb.   | 15         |
+| Mastiff            | 25 gp | 40 ft.| 195 lb.   | 12         |
+| Pony               | 30 gp | 40 ft.| 225 lb.   | 12         |
+| Warhorse           | 400 gp| 60 ft.| 540 lb.   | 18         |
+
 
 #### Tack, Harness, and Drawn Vehicles
 
-| Item               | Cost | Weight  |
-| ------------------ | ---- | ------- |
-| Barding            | ×4   | ×2      |
-| Bit and bridle     | 2 gp | 1 lb.   |
-| Carriage           | 100 gp| 600 lb. |
-| Cart               | 15 gp | 200 lb. |
-| Chariot            | 250 gp| 100 lb. |
-| Feed (per day)     | 5 cp | 10 lb.  |
-| Saddle             |      |         |
-| Exotic             | 60 gp | 40 lb.  |
-| Military           | 20 gp | 30 lb.  |
-| Pack               | 5 gp  | 15 lb.  |
-| Riding             | 10 gp | 25 lb.  |
-| Saddlebags         | 4 gp  | 8 lb.   |
-| Sled               | 20 gp | 300 lb. |
-| Stabling (per day) | 5 sp  | —       |
-| Wagon              | 35 gp | 400 lb. |
+| Item               | Cost   | Weight | Acquire DC |
+| ------------------ | ------ | ------ | ---------- |
+| Barding            | ×4     | ×2     | 18         |
+| Bit and bridle     | 2 gp   | 1 lb.  | 10         |
+| Carriage           | 100 gp | 600 lb.| 18         |
+| Cart               | 15 gp  | 200 lb.| 12         |
+| Chariot            | 250 gp | 100 lb.| 18         |
+| Feed (per day)     | 5 cp   | 10 lb. | 8          |
+| Saddle             |        |        |            |
+| Exotic             | 60 gp  | 40 lb. | 15         |
+| Military           | 20 gp  | 30 lb. | 12         |
+| Pack               | 5 gp   | 15 lb. | 10         |
+| Riding             | 10 gp  | 25 lb. | 10         |
+| Saddlebags         | 4 gp   | 8 lb.  | 8          |
+| Sled               | 20 gp  | 300 lb.| 15         |
+| Stabling (per day) | 5 sp   | —      | 8          |
+| Wagon              | 35 gp  | 400 lb.| 12         |
+
 
 #### Waterborne Vehicles
 
-| Item            | Cost    | Speed  |
-| --------------- | ------- | ------ |
-| Galley          | 30,000 gp | 4 mph  |
-| Keelboat        | 3,000 gp  | 1 mph  |
-| Longship        | 10,000 gp | 3 mph  |
-| Rowboat         | 50 gp     | 1½ mph |
-| Sailing ship    | 10,000 gp | 2 mph  |
-| Warship         | 25,000 gp | 2½ mph |
+| Item            | Cost      | Speed  | Acquire DC |
+| --------------- | --------- | ------ | ---------- |
+| Galley          | 30,000 gp | 4 mph  | 20         |
+| Keelboat        | 3,000 gp  | 1 mph  | 12         |
+| Longship        | 10,000 gp | 3 mph  | 15         |
+| Rowboat         | 50 gp     | 1½ mph | 8          |
+| Sailing ship    | 10,000 gp | 2 mph  | 12         |
+| Warship         | 25,000 gp | 2½ mph | 15         |
+
 
 ### Trade Goods
 
@@ -551,15 +595,16 @@ When not descending into the depths of the earth, exploring ruins for lost treas
 
 **Lifestyle Expenses**
 
-| Lifestyle    | Cost per Day |
-| ------------ | ------------ |
-| Wretched     | —            |
-| Squalid      | 1 sp         |
-| Poor         | 2 sp         |
-| Modest       | 1 gp         |
-| Comfortable  | 2 gp         |
-| Wealthy      | 4 gp         |
-| Aristocratic | 10 gp        |
+| Lifestyle    | Cost per Day | Acquire DC |
+| ------------ | ------------ | ---------- |
+| Wretched     | —            | —          |
+| Squalid      | 1 sp         | 8          |
+| Poor         | 2 sp         | 10         |
+| Modest       | 1 gp         | 12         |
+| Comfortable  | 2 gp         | 15         |
+| Wealthy      | 4 gp         | 18         |
+| Aristocratic | 10 gp        | 20         |
+
 
 At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-day period, multiply the listed price by 30. Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character’s career.
 
