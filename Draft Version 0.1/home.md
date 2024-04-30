@@ -1326,30 +1326,32 @@ As explorers delve deeper into the Murk, a sense of unease settles in their hear
 
 In the ever-shifting expanse of the Murk, where reality intertwines with the unknown, brave souls forge their path, driven by an unyielding determination to discover the truth. They are the Divers, fearless explorers who risk life and sanity in their pursuit of knowledge and revelation. Their tales are whispered in hushed tones, passed down through generations, weaving a tapestry of awe and dread. For within the Murk lies not only darkness and danger, but also the potential for untold discoveries and profound revelations
 
-# Brute
+# Classes
 
-## Class Features
+## Brute
+
+### Class Features
 
 As a Brute, you gain the following class features.
 
-### Damage Tracks
+#### Damage Tracks
 
-#### Shock Check
+##### Shock Check
 - __HP:__ 12+Constitution Score+Proficency
 - __SP:__ 8+Wisdom Score+Proficency
 
-#### Hit Points
+##### Hit Points
 - Hit Dice: 1d12 per brute level
 - Hit Points at 1st Level:12+CON
 - Hit Points at Higher Levels:1d12+CON Modifier per brute level after 1st
 
-#### Strain Points
+##### Strain Points
 - Strain Dice: 1d8 per brute level
 - Strain Points at first level: 8+WIS
 - Strain Points at Higher Levels: 1d8+WIS Modifier per brute level after first
 
 
-### Proficiencies
+##### Proficiencies
 
 __Armor:__ Light armor, medium armor, shields
 
@@ -1368,7 +1370,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - An explorer’s pack 
 
 
-### The Brute
+##### The Brute
 
   | Level | Proficiency Bonus | Features              | Wraths | Damage |
 |-------|-------------------|-----------------------|-------|--------|
@@ -1395,7 +1397,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 
 
-#### Wrath
+##### Wrath
 
 In battle, you fight with primal ferocity. On your turn, you can enter a state of wrath as a bonus action.
 
@@ -1411,64 +1413,64 @@ Your wrath lasts for 1 minute. It ends early if you are knocked unconscious or i
 
 Once you have been in wrath the number of times shown for your brute level in the Wrath column of the Brute table, you must finish a long rest before you can wrath again.
 
-#### Unarmored Defense
+##### Unarmored Defense
 
 While you are not wearing any armor, your Armor Class equals 8 + Proficiency + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
 
  
-#### Reckless Attack
+##### Reckless Attack
 
 Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls or ranged attack rolls within 30ft during this turn, but attack rolls against you have advantage until your next turn.
 
-#### Danger Sense
+##### Danger Sense
 
 At 2nd level, you gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away fromdanger.
 
 You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be blinded, deafened, or incapacitated.
 
-#### Wrathful Path
+##### Wrathful Path
 
 At 3rd level, you choose a path that shapes the nature of your wrath. Choose the Path of the Reaver or the Path of Living Steel, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
 
-#### Ability Score Improvement
+##### Ability Score Improvement
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-#### Extra Attack
+##### Extra Attack
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-#### Fast Movement
+##### Fast Movement
 
 Starting at 5th level, your speed increases by 10 feet while you aren’t wearing heavy armor.
 
-#### Feral Instinct
+##### Feral Instinct
 
 By 7th level, your instincts are so honed that you have advantage on initiative rolls.
 
 Additionally, if you are surprised at the beginning of combat and aren’t incapacitated, you can act normally on your first turn, but only if you enter your wrath before doing anything else on that turn.
  
-#### Brutal Critical
+##### Brutal Critical
 
 Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
 
 This increases to two additional dice at 13th level and three additional dice at 17th level.
 
-#### Relentless Wrath
+##### Relentless Wrath
 
 Starting at 11th level, your wrath can keep you fighting despite grievous wounds. If you drop to 0 hit points while you’re in wrath and don’t die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
 
 Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
 
-#### Persistent Wrath
+##### Persistent Wrath
 
 Beginning at 15th level, your wrath is so fierce that it ends early only if you fall unconscious or if you choose to end it.
 
-#### Indomitable Might
+##### Indomitable Might
 
 Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total.
 
-#### Ruinous Champion
+##### Ruinous Champion
 
 At 20th level, you embody the power of the ruins.
 
@@ -1476,75 +1478,75 @@ Your Strength and Constitution scores increase by 4.
 
 Your maximum for those scores is now 24.
 
-### Path of the Reaver
+#### Path of the Reaver
 
 For some brutes, wrath is a means to an end— that end being violence. The Path of the Reaver is a path of untrammeled fury, slick with blood. As you enter the reaver’s wrath, you thrill in the chaos of battle, heedless of your own health or well-­‐‑being.
 
-#### Frenzy
+##### Frenzy
 
 Starting when you choose this path at 3rd level, you can go into a frenzy when you enter wrath. If you do so, for the duration of your wrath you can make a single melee weapon attack as a bonus action on each of your turns after this one. At the end of the round you must make a DC 15 wisdom save or suffer 1d6 strain damage.
  
-#### Mindless Wrath
+##### Mindless Wrath
 
 Beginning at 6th level, you can’t be charmed or frightened while in wrath. If you are charmed or frightened when you enter your wrath, the effect is suspended for the duration of the wrath.
 
-#### Intimidating Presence
+##### Intimidating Presence
 
 Beginning at 10th level, you can use your bonus action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your bonus action to extend the duration of this effect on the frightened creature until the end of your nextturn. This effect ends if the creature ends its turn out of line of sight or more than60 feet away from you.
 
 If the creature succeeds on its saving throw, you can’t use this feature on that creature again for 24 hours.
 
-#### Retaliation
+##### Retaliation
 
 Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
 
-### Path of Living Steel
+#### Path of Living Steel
 
 Your brutal existence culimated in the inclusion of mechanical and alchemical technology into your body.  The once dormant systems that gave you your potent anger now reactivate and begin to take hold.  What will you become?  A killing machine?  Or a will you retain what makes you human?
 
-#### Machine Soul
+##### Machine Soul
 
 Starting when you choose this path at 3rd level, your wrathful nature becomes mechanical.  While Wrathful, you gain resistance to necrotic damage, immunity to sleep, and no longer need to breathe.  Whenever you are dealt lightning damage, you must make a DC 15 Consitution save or add an additional 1d8 to the damage taken.
 
-#### One with Metal
+##### One with Metal
 
 Starting at 6th level, the Brute can wear heavy armor and is no longer restricted in using wrath while in heavy armor.  In addition, when they don armor, they can choose to make this armor part of their body. Doing so provides them the associated armor mastery feet and allows them to rest while in armor.
 
-#### Living Weapon
+##### Living Weapon
 
 Starting at 10th level, the Brute can fuse weapons to their body when entering wrath.  The weapons cannot be disarmed in any way, and ranged weapons lose their loading property for the duration of wrath.
 
-#### New Skin
+##### New Skin
 
 Starting at 10th level the Brute ignores maximum dexterity bonuses when applied to fused armor.
 
-#### Cybernetic Organism
+##### Cybernetic Organism
 
 Starting at 14th level, your body loses all organic traces while in wrath.  When you reach 0 hp during wrath, you may roll a DC 8+Damage Done Constitution Check.  If successful you regain 1d12 HP and may continue the scene.
 
-# Knave
+## Knave
 
-## Class Features
+### Class Features
 
 As a knave, you have thefollowing class features.
 
-### Damage Tracks
+#### Damage Tracks
 
-#### Shock Check
+##### Shock Check
 - __HP:__ 8+Constitution Score+Proficency
 - __SP:__ 10+Wisdom Score+Proficency
 
-#### Hit Points
+##### Hit Points
 - Hit Dice: 1d8 per knave level
 - Hit Points at 1st Level:8+CON
 - Hit Points at Higher Levels:1d8+CON Modifier per knave level after 1st
 
-#### Strain Points
+##### Strain Points
 - Strain Dice: 1d8 per knave level
 - Strain Points at first level: 10+WIS
 - Strain Points at Higher Levels: 1d10+WIS Modifier per knave level after first
 
-### Proficencies
+#### Proficencies
 
 - __Armor:__ Light armor
 
@@ -1554,7 +1556,7 @@ As a knave, you have thefollowing class features.
 
 - __Skills:__ Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -1563,7 +1565,7 @@ You start with the following equipment, in addition to the equipment granted by 
 •	(a) a burglar’s pack, (b) a dungeoneer’s pack, or (c) an explorer’s pack
 •	(a) Leather armor, two daggers, and thieves’ tools
 
-### The Knave
+#### The Knave
 
     		
 | Level | Proficiency Bonus | Sneak Attack | Features                                   |
@@ -1591,13 +1593,13 @@ You start with the following equipment, in addition to the equipment granted by 
 
 
 
-### Expertise
+#### Expertise
 
 At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves’ tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
 At 6th level, you can choose two more of your proficiencies (in skills or with thieves’ tools) to gain this benefit.
 
-### Sneak Attack
+#### Sneak Attack
 
 Beginning at 1st level, you know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra 1d10 damage to one creature you hit with an attack if you have advantage on the attack roll. 
 
@@ -1605,49 +1607,49 @@ You don’t need advantage on the attack roll if another enemy of the target is 
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Knave table.
 
-### Thieves’ Cant
+#### Thieves’ Cant
 
 During your knave training you learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
-### Cunning Action
+#### Cunning Action
 
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You cantake a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
 
-### Roguish Archetype
+#### Roguish Archetype
 
 At 3rd level, you choose an archetype that you emulate in the exercise of your knave abilities, such as Thief. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
-### Ability Score Improvement
+#### Ability Score Improvement
 
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-### Uncanny Dodge
+#### Uncanny Dodge
 
 Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
 
-### Evasion
+#### Evasion
 
 Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an ice storm spell. When you are subjected to an effect that allows you tomake a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
-### Reliable Talent
+#### Reliable Talent
 
 By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
-### Blindsense
+#### Blindsense
 
 Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
 
-### Slippery Mind
+#### Slippery Mind
 
 By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.
 
-### Elusive
+#### Elusive
 
 Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren’t incapacitated.
 
-### Stroke of Luck
+#### Stroke of Luck
 
 At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
 
@@ -1656,80 +1658,80 @@ Roguish Archetypes
 
 Knaves have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different knaves steer those talents in varying directions, embodied by the knave archetypes. Your choice of archetype is a reflection of your focus—not necessarily an indication of your chosen profession, but a description of your preferred techniques.
 
-### Thief
+#### Thief
 
 You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do knaves who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn’t employ.
 
-#### Fast Hands
+##### Fast Hands
 
 Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity(Sleight of Hand) check, use your thieves’ tools to disarm a trap or open a lock, or take the Use an Object action.
 
-#### Second-Story Work
+##### Second-Story Work
 
 When you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement.
 
 In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.
 
-#### Supreme Sneak
+##### Supreme Sneak
 
 Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
 
-#### Use Magic Device
+##### Use Magic Device
 
 By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items.
 
-#### Thief’s Reflexes
+##### Thief’s Reflexes
 
 When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature when you are surprised.
 
-### Charlatan
+#### Charlatan
 
-#### Deceptive Charm
+##### Deceptive Charm
 Starting at 3rd level, you gain expertise in Deception and Persuasion skills if you don't already have them. Additionally, you can use your Sneak Attack feature against a creature that you have successfully deceived or persuaded during the current encounter, provided that creature is within 5 feet of you and you don't have disadvantage on the attack roll.
 
-#### Misdirection
+##### Misdirection
 Also at 3rd level, you can use your cunning to create distractions and mislead others. As a bonus action, you can choose a creature you can see within 30 feet of you. That creature must make a Wisdom saving throw against your Knave spell save DC. On a failed save, the target is distracted, granting advantage to your allies' attack rolls against it until the start of your next turn.
 
-#### Silver Tongue
+##### Silver Tongue
 Starting at 9th level, you have advantage on Charisma (Persuasion) and Charisma (Deception) checks made during social interactions. Additionally, when you make a Charisma check you can add half your proficiency bonus (rounded down) to the check if you are not already proficient.
 
-#### Social Ambusher
+##### Social Ambusher
 At 13th level, you excel at ambushing foes during social engagements. When you roll initiative and are not surprised, you can choose to take a bonus action to Hide if you are in a situation where stealth is possible (such as a crowded room, dim light, or similar conditions). If you succeed on the Hide check, you gain advantage on your first attack roll against a creature that hasn't acted yet in the combat, as long as the attack is made within the next minute, if this attack hits, it is an automatic critical hit.
 
-#### Master of Deception
+##### Master of Deception
 Starting at 17th level, your mastery of deception knows no bounds. You can use your action to adopt a new persona for 1 hour, during which time you gain advantage on all Charisma checks made to deceive, persuade, or intimidate creatures that you interact with while in this persona. Additionally, once during this duration, you can automatically succeed on a Charisma (Deception) or Charisma (Persuasion) check against a creature that isn't hostile toward you.
 
 This archetype focuses on using social skills to gain advantages in combat and deception, making the Charlatan Knave a master manipulator in both social and combat situations. 
 
-# Magister
+## Magister
 
-## Class Features
+### Class Features
 
 As a magister, you gain the following class features.
 
-### Damage Tracks
+#### Damage Tracks
 
-#### Shock Rating
+##### Shock Rating
 - **HP:** 6+Constitution Score+Proficiency
 - **SP:** 12+Wisdom Score+Proficiency
 
-#### Hit Points
+##### Hit Points
 - **Hit Dice:** 1d6 per priest level
 - **Hit Points at 1st Level:** 6+CON
 - **Hit Points at Higher Levels:** 1d6+CON Modifier per priest level after 1st
 
-#### Strain Points
+##### Strain Points
 - **Strain Dice:** 1d12 per priest level
 - **Strain Points at first level:** 12+WIS
 - **Strain Points at Higher Levels:** 1d12+WIS Modifier per brute level after first
 
-### Proficiencies
+#### Proficiencies
 - **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 - **Tools:** None
 - **Saving Throws:** Intelligence, Wisdom
 - **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 - 1 Simple Weapon
@@ -1738,7 +1740,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - A Codex
 - Armor: None
 
-### The Magister
+#### The Magister
 
 | Level | Proficiency Bonus | Features                         | Cantrips Known |
 |-------|-------------------|----------------------------------|----------------|
@@ -1763,7 +1765,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | 19th  | +6                | Ability Score Improvement        | 5              |
 | 20th  | +6                | Signature Spell                  | 5              |
 
-### Esoteria
+#### Esoteria
 
 Trained for years in Magister's Tower of a great city, you've learned the secrets of the black circle and thus may cast spells using Esoteria.  
   - **Capabilities:**
@@ -1781,7 +1783,7 @@ Trained for years in Magister's Tower of a great city, you've learned the secret
 Esoteria grants Magisters extraordinary flexibility in spellcasting, allowing them to exceed conventional limits but at the risk of personal harm.
 
 
-#### Esoteria Point Cost
+##### Esoteria Point Cost
 | Spell Level | Point Cost |
 |-------------|------------|
 | 1st         | 2          |
@@ -1794,7 +1796,7 @@ Esoteria grants Magisters extraordinary flexibility in spellcasting, allowing th
 | 8th         | 11         |
 | 9th         | 13         |
 
-#### Esoteria Points by Level
+##### Esoteria Points by Level
 | Class Level | Spell Points | Max Spell Level |
 |-------------|--------------|-----------------|
 | 1st         | 4            | 1st             |
@@ -1820,15 +1822,15 @@ Esoteria grants Magisters extraordinary flexibility in spellcasting, allowing th
 
 As a student of arcane magic, you have a codex containing spells that show the first glimmerings of your true power.
 
-#### Cantrips
+##### Cantrips
 
 At 1st level, you know three cantrips of your choice from the magister spell list. You learn additional magister cantrips of your choice at higher levels.
 
-#### Codex
+##### Codex
 
 At 1st level, you have a codex containing six 1st-level magister spells of your choice. Your codex is the repository of the magister spells you know, except your cantrips, which are fixed in your mind.
 
-#### Preparing and Casting Spells
+##### Preparing and Casting Spells
 
 The Magister table shows how many spell points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend points of the spell’s level or higher. You regain all expended spell points when you finish a long rest.
 
@@ -1838,73 +1840,73 @@ For example, if you’re a 3rd-level magister, you have 14 spell points. With an
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of magister spells requires time spent studying your codex and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 
-#### Spellcasting Ability
+##### Spellcasting Ability
 
 Intelligence is your spellcasting ability for your magister spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a magister spell you cast and when making an attack roll with one.
 
 - **Spell save DC:** 8 + your proficiency bonus + your Intelligence modifier
 - **Spell attack modifier:** your proficiency bonus + your Intelligence modifier
 
-#### Ritual Casting
+##### Ritual Casting
 
 You can cast a magister spell as a ritual if that spell has the ritual tag and you have the spell in your codex. You don’t need to have the spell prepared.
 
-#### Spellcasting Focus
+##### Spellcasting Focus
 
 You can use an arcane focus as a spellcasting focus for your magister spells.
 
-#### Learning Spells of 1st Level and Higher
+##### Learning Spells of 1st Level and Higher
 
 Each time you gain a magister level, you can add two magister spells of your choice to your codex for free. Each of these spells must be of a level for which you have spell points, as shown on the Magister table.
 
-#### Esoteric Recovery
+##### Esoteric Recovery
 
 You have learned to regain some of your magical energy by studying your codex. Once per day when you finish a short rest, you can choose expended spell points to recover. The spell points are equal to your Magister Level plus your Intelligence Modifier.
 
 
-#### Esoteric Tradition
+##### Esoteric Tradition
 
 When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools, such as Evocation.
 
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
-#### Esoteric Knowledge
+##### Esoteric Knowledge
 
 When you reach 3rd level, and every odd level to 17th, you may select 1 additional spell from any spell list that is 1 level lower than your maximum spell level.  These spells count as Magister spells for the purpose of your casting them.
 
-#### Ability Score Improvement
+##### Ability Score Improvement
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-#### Spell Mastery
+##### Spell Mastery
 
 At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level magister spell and a 2nd-level magister spell that are in your codex. You can cast those spells at their lowest level without expending a spell points when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell points as normal.
 
 By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
 
-#### Signature Spells
+##### Signature Spells
 
 When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level magister spells in your codex as your signature spells. You always have these spells prepared, they don’t count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending spell points. When you do so, you can’t do so again until you finish a short or long rest.
 
 If you want to cast either spell at a higher level, you must expend spell points as normal.
 
 
-## Esoteric Traditions
+### Esoteric Traditions
 
 The study of magistery is ancient, stretching back to the earliest mortal discoveries of magic. It is firmly established in fantasy gaming worlds, with various traditions dedicated to its complex study.
 The most common arcane traditions in the multiverse revolve around the schools of magic. Magisters through the ages have cataloged thousands of spells, grouping them into eight categories called schools. In some places, these traditions are literally schools. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even magisters who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques.
 
-## Wizard Subclass: Daemonologist
+#### Magister Subclass: Daemonologist
 
 As a Daemonologist, you specialize in conjuring daemons, creatures of pure thought that you manifest into physical forms to serve your bidding. By delving into the depths of forbidden knowledge, you have gained mastery over these otherworldly entities, bending them to your will.
 
-### Daemon Conjure
+#### Daemon Conjure
 
 Starting at 2nd level, you gain the ability to summon daemons to aid you in your endeavors. As an action, you can expend a spell points to summon a daemon of your choice from the Daemon Summoning list below. The summoned daemon appears in an unoccupied space within 30 feet of you and obeys your verbal commands. The daemon remains for 1 hour, until it drops to 0 hit points, or until you dismiss it as a bonus action.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
 
-### Daemon Summoning List
+#### Daemon Summoning List
 
 Choose one daemon from the list below when you summon a daemon using your Daemon Conjure feature:
 
@@ -1915,19 +1917,19 @@ Choose one daemon from the list below when you summon a daemon using your Daemon
 5. **Venomous Viper:** A serpent-like daemon with poisonous fangs that can paralyze foes with its toxic bite.
 6. **Thunder Titan:** A towering daemon wreathed in crackling electricity, capable of unleashing devastating lightning strikes.
 
-### Enhanced Daemon
+#### Enhanced Daemon
 
 Starting at 6th level, the daemons you summon through your Daemon Conjure feature gain additional abilities. Choose one of the following enhancements for your summoned daemon:
 
 1. **Empowered Attacks:** The daemon's attacks deal additional damage equal to your Intelligence modifier.
-2. **Resilient Form:** The daemon gains temporary hit points equal to your wizard level at the start of each of its turns.
+2. **Resilient Form:** The daemon gains temporary hit points equal to your magister level at the start of each of its turns.
 3. **Unseen Passage:** The daemon gains the ability to turn invisible at will, remaining unseen until it attacks or takes damage.
 
-### Master of Daemons
+#### Master of Daemons
 
 At 10th level, your mastery over daemons reaches new heights. You can now summon two daemons simultaneously when you use your Daemon Conjure feature. Additionally, the duration of your summoned daemons is extended to 8 hours, and they can understand any language you speak.
 
-### Daemon Overlord
+#### Daemon Overlord
 
 Upon reaching 14th level, you ascend to the pinnacle of daemonology, becoming a true Daemon Overlord. Your summoned daemons gain the following benefits:
 
@@ -1935,79 +1937,79 @@ Upon reaching 14th level, you ascend to the pinnacle of daemonology, becoming a 
 - Their attacks are considered magical for the purpose of overcoming resistance and immunity to non-magical attacks.
 - Once per turn, when a daemon deals damage to a creature, it can cause that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature is frightened of the daemon until the end of its next turn.
 
-## Wizard Subclass: Ritualist
+### Magister Subclass: Ritualist
 
 As a Ritualist, you specialize in the art of performing intricate rituals to enhance your magical abilities and unlock the full potential of your spells. Through diligent study and disciplined practice, you have gained insight into the arcane rituals that shape the fabric of reality.
 
-### Ritual Mastery
+#### Ritual Mastery
 
-Starting at 2nd level, you gain proficiency in the Arcana skill if you don't already have it. Additionally, you learn two 1st-level wizard spells of your choice that have the ritual tag, which don't count against the number of spells you can prepare each day.
+Starting at 2nd level, you gain proficiency in the Arcana skill if you don't already have it. Additionally, you learn two 1st-level magister spells of your choice that have the ritual tag, which don't count against the number of spells you can prepare each day.
 
-### Ritual Casting
+#### Ritual Casting
 
-At 2nd level, you gain the ability to cast spells as rituals. You can cast any wizard spell you have prepared as a ritual if that spell has the ritual tag. You don't need to have the spell prepared.
+At 2nd level, you gain the ability to cast spells as rituals. You can cast any magister spell you have prepared as a ritual if that spell has the ritual tag. You don't need to have the spell prepared.
 
-### Enhanced Spells
+#### Enhanced Spells
 
-Starting at 6th level, you learn to perform rituals that enhance the power of your existing spells. When you cast a wizard spell of 1st level or higher as a ritual, you can choose one of the following enhancements:
+Starting at 6th level, you learn to perform rituals that enhance the power of your existing spells. When you cast a magister spell of 1st level or higher as a ritual, you can choose one of the following enhancements:
 
 1. **Empowered Casting:** The spell's damage is increased by your Intelligence modifier.
 2. **Extended Duration:** The spell's duration is doubled.
 3. **Area of Effect:** The spell's area of effect is increased by 50%.
 
-### Master Ritualist
+#### Master Ritualist
 
-At 10th level, your mastery of rituals allows you to perform them with greater efficiency. You can now cast any wizard spell you have prepared as a ritual without expending spell points. Additionally, you can cast rituals in half the usual time, and you can perform rituals even if you are unable to speak or gesture.
+At 10th level, your mastery of rituals allows you to perform them with greater efficiency. You can now cast any magister spell you have prepared as a ritual without expending spell points. Additionally, you can cast rituals in half the usual time, and you can perform rituals even if you are unable to speak or gesture.
 
-### Arcane Augmentation
+#### Arcane Augmentation
 
-Upon reaching 14th level, you unlock the ability to infuse your spells with potent arcane energy. When you cast a wizard spell of 1st level or higher as a ritual, you can expend additional spell points to further augment its effects. For each spell point you expend in this way, the spell gains one of the enhancements listed in the Enhanced Spells feature.
+Upon reaching 14th level, you unlock the ability to infuse your spells with potent arcane energy. When you cast a magister spell of 1st level or higher as a ritual, you can expend additional spell points to further augment its effects. For each spell point you expend in this way, the spell gains one of the enhancements listed in the Enhanced Spells feature.
 
-### Master of Arcane Rites
+#### Master of Arcane Rites
 
 At 18th level, you become a true master of arcane rites. You gain the following benefits:
 
-- You can cast any wizard spell you have prepared as a ritual without expending a spell points, regardless of whether it has the ritual tag.
+- You can cast any magister spell you have prepared as a ritual without expending a spell points, regardless of whether it has the ritual tag.
 - When you cast a spell as a ritual, you can choose two enhancements from the Enhanced Spells feature instead of one.
 - The duration of spells cast as rituals is further doubled, and their area of effect is increased by an additional 50%.
 
-## Wizard Subclass: Battlemage
+### Magister Subclass: Battlemage
 
 As a Battlemage, you blend martial prowess with arcane mastery, specializing in the art of battle magic to defend allies and unleash devastating spells upon your enemies. Whether on the front lines or commanding from the rear, you are a force to be reckoned with on the battlefield.
 
-### Arcane Combatant
+#### Arcane Combatant
 
-Starting at 2nd level, you gain proficiency with light armor, simple weapons, and one martial weapon of your choice. Additionally, when you cast a wizard cantrip that deals damage, you can use your Intelligence modifier instead of your Strength or Dexterity modifier for the attack and damage rolls.
+Starting at 2nd level, you gain proficiency with light armor, simple weapons, and one martial weapon of your choice. Additionally, when you cast a magister cantrip that deals damage, you can use your Intelligence modifier instead of your Strength or Dexterity modifier for the attack and damage rolls.
 
-### Arcane Ward
+#### Arcane Ward
 
 At 2nd level, you learn to create a protective shield of magical energy that absorbs damage. As a reaction when you take damage, you can expend spell points to create a magical ward that reduces the damage taken. The ward absorbs a number of hit points equal to twice the level of the expended spell points plus your Intelligence modifier.
 
-### Arcane Strike
+#### Arcane Strike
 
 Starting at 6th level, you can infuse your weapon attacks with arcane energy, allowing you to deal additional damage. Whenever you hit a creature with a weapon attack, you can expend spell points to deal extra force damage equal to the level of the expended spell points plus your Intelligence modifier.
 
-### Arcane Bulwark
+#### Arcane Bulwark
 
 At 10th level, your mastery of defensive magic reaches new heights. You gain resistance to force damage, and you can use your Arcane Ward feature as a bonus action on your turn. Additionally, when you create your Arcane Ward, you can choose to have it absorb all damage from a single attack instead of reducing the damage taken.
 
-### Master of Destruction
+#### Master of Destruction
 
-Upon reaching 14th level, you become a master of unleashing destructive magic upon your foes. Whenever you cast a wizard spell that deals damage, you can choose to maximize the damage dealt, instead of rolling for damage. Once you use this feature, you can't use it again until you finish a long rest.
+Upon reaching 14th level, you become a master of unleashing destructive magic upon your foes. Whenever you cast a magister spell that deals damage, you can choose to maximize the damage dealt, instead of rolling for damage. Once you use this feature, you can't use it again until you finish a long rest.
 
-### Avatar of Arcana
+#### Avatar of Arcana
 
 At 18th level, you transcend the boundaries between magic and martial prowess, becoming an embodiment of arcane power on the battlefield. You gain the following benefits:
 
 - You have advantage on saving throws against spells and other magical effects.
 - You can use your Arcane Ward feature a number of times equal to your Intelligence modifier (minimum of 1) without expending spell points.
-- Whenever you deal damage with a wizard spell, you can add your Intelligence modifier to the damage dealt.
+- Whenever you deal damage with a magister spell, you can add your Intelligence modifier to the damage dealt.
 - When you roll initiative and have no remaining uses of your Arcane Ward, you regain one use.
 
 
  
-## Magister Spells
-### Cantrips (0 Level)
+### Magister Spells
+#### Cantrips (0 Level)
 - Acid Splash
 - Chill Touch
 - Dancing Lights
@@ -2023,7 +2025,7 @@ At 18th level, you transcend the boundaries between magic and martial prowess, b
 - Shocking Grasp
 - True Strike
 
-### 1st Level
+#### 1st Level
 - Alarm
 - Burning Hands
 - Charm Person
@@ -2052,7 +2054,7 @@ At 18th level, you transcend the boundaries between magic and martial prowess, b
 - Thunderwave
 - Unseen Servant
 
-### 2nd Level
+#### 2nd Level
 - Acid Arrow
 - Alter Self
 - Arcane Lock
@@ -2085,7 +2087,7 @@ At 18th level, you transcend the boundaries between magic and martial prowess, b
 - Suggestion
 - Web
 
-### 3rd Level
+#### 3rd Level
 - Animate Dead
 - Bestow Curse
 - Blink
@@ -2115,7 +2117,7 @@ At 18th level, you transcend the boundaries between magic and martial prowess, b
 - Vampiric Touch
 - Water Breathing
 
-### 4th Level
+#### 4th Level
 - Arcane Eye
 - Banishment
 - Black Tentacles
@@ -2140,7 +2142,7 @@ At 18th level, you transcend the boundaries between magic and martial prowess, b
 - Stoneskin
 - Wall of Fire
 
-### 5th Level
+#### 5th Level
 - Animate Objects
 - Arcane Hand
 - Cloudkill
@@ -2165,7 +2167,7 @@ At 18th level, you transcend the boundaries between magic and martial prowess, b
 - Wall of Force
 - Wall of Stone
 
-### 6th Level
+#### 6th Level
 - Chain Lightning
 - Circle of Death
 - Contingency
@@ -2186,7 +2188,7 @@ At 18th level, you transcend the boundaries between magic and martial prowess, b
 - True Seeing
 - Wall of Ice
 
-### 7th Level
+#### 7th Level
 - Arcane Sword
 - Delayed Blast Fireball
 - Etherealness
@@ -2203,7 +2205,7 @@ At 18th level, you transcend the boundaries between magic and martial prowess, b
 - Symbol
 - Teleport
 
-### 8th Level
+#### 8th Level
 - Antimagic Field
 - Antipathy/Sympathy
 - Clone
@@ -2217,7 +2219,7 @@ At 18th level, you transcend the boundaries between magic and martial prowess, b
 - Power Word Stun
 - Sunburst
 
-### 9th Level
+#### 9th Level
 - Astral Projection
 - Foresight
 - Gate
@@ -2231,29 +2233,29 @@ At 18th level, you transcend the boundaries between magic and martial prowess, b
 - Weird
 - Wish
 
-# Oathbound
+## Oathbound
 
-## Class Features
+### Class Features
 
 As a oathbound, you gain the following class features.
 
-### Damage Tracks
+#### Damage Tracks
 
-#### Shock Check
+##### Shock Check
 - __HP:__ Constitution Score+Proficency
 - __SP:__ Wisdom Score+Proficency
 
-#### Hit Points
+##### Hit Points
 - Hit Dice: 1d10 per oathbound level
 - Hit Points at 1st Level:10+CON
 - Hit Points at Higher Levels:1d10+CON Modifier per oathbound level after 1st
 
-#### Strain Points
+##### Strain Points
 - Strain Dice: 1d8 per oathbound level
 - Strain Points at first level: 8+WIS
 - Strain Points at Higher Levels: 1d8+WIS Modifier per oathbound level after first
 
-### Proficiencies
+#### Proficiencies
 
 - __Armor:__ All armor, shields
  
@@ -2265,7 +2267,7 @@ As a oathbound, you gain the following class features.
 
 - __Skills:__ Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -2275,7 +2277,7 @@ You start with the following equipment, in addition to the equipment granted by 
 •	Chain mail and a holy symbol
  
 
-### The Oathbound
+#### The Oathbound
 | Level | Proficency Bonus | Features                                | Major Auras | Minor Auras | Oathbound Weapon |
 |-------|------------------|-----------------------------------------|-------------|-------------|------------------|
 | 1     | 2                | Divine Sense, Lay on Hands               | 1           | 1           | 1d8              |
@@ -2301,7 +2303,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 
  
-### Divine Sense
+#### Divine Sense
 The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears.
 
 As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or other within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or other) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.
@@ -2309,7 +2311,7 @@ As an action, you can open your awareness to detect such forces. Until the end o
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
 
-### Lay on Hands
+#### Lay on Hands
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your oathbound level × 5.
 
 As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.
@@ -2318,15 +2320,15 @@ Alternatively, you can expend 5 hit points from your pool of healing to cure the
 
 This feature has no effect on other and constructs.
 
-### Oathbound Weapon
+#### Oathbound Weapon
 Your devotion is so powerful that your weapon is bathed in energy. Each  attack you perform adds the listed dice as damage. The damage type is the same as the base attack, but Oaths adjust them at level 3. 
 
-### Auras
+#### Auras
 At 1st level, your mere presence is enough to inspire allies and protect them with your holy power. There are two kinds of auras a oathbound can know, major and minor. You begin play knowing 1 of each. When you gain certain oathbound levels, you gain additional auras of your choice, as shown in the major aura and minor aura columns of the oathbound table.
 
 You may only have 1 aura, of either type, active. You may use your bonus action to activate or switch your aura. The aura affects you and all allies within 10 feet of you, at 11th level this distance increases to 30ft. and at 17th level it increases to 60ft. Your aura bonus is equal to you Charisma modifier.
 
-### Fighting Style
+#### Fighting Style
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.  You gain an additional fighting style at level 9.
 
 Defense
@@ -2341,15 +2343,15 @@ When a creature you can see attacks a target other than you that is within 5 fee
 Great Weapon Fighting
 When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll. The weapon must have the two-handed or versatile property for you to gain this benefit.
 
-### Divine Health
+#### Divine Health
 By 2nd level, the divine magic flowing through you makes you immune to disease.
 
-### Sacred Oath
+#### Sacred Oath
 When you reach 3rd level, you swear the oath that binds you as a oathbound forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. The Oaths are detailed at the end of the class description or one from another source.
 
 Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include the Channel Divinity feature and other features.
 
-### Channel Divinity
+#### Channel Divinity
 Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.
 
 When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.
@@ -2358,25 +2360,25 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 
 Beginning at 13th level, you can use your Channel Divinity twice between rests.
 
-#### Channel Divinity: Turn the Other
+##### Channel Divinity: Turn the Other
 As an action, you present your holy symbol and speak a prayer censuring fiends and other, using your Channel Divinity. Each fiend or other that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
 
-### Sacred Oaths
+#### Sacred Oaths
 Choose from Oath of Compassion, Oath of Zealous Action, Oath of Radiance
 
-### Ability Score Improvement
+#### Ability Score Improvement
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Extra Attack
+#### Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-### Bastion of Faith
+#### Bastion of Faith
 Starting at 6th level, you may now have both a major aura and a minor aura active at the same time.
 
-### Cleansing Touch
+#### Cleansing Touch
 Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch. You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
 
-### Divine Intervention
+#### Divine Intervention
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
@@ -2384,8 +2386,8 @@ Imploring your deity’s aid requires you to use your action. Describe the assis
 If your deity intervenes, you can’t use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 
 
-### Auras
-#### Major Auras
+#### Auras
+##### Major Auras
 Listed Below:
 
 Holy Strength. Increase your Strength by your Aura Bonus. (Can Exceed the max of 20)
@@ -2402,7 +2404,7 @@ Healing. Heals on your turn for 1d4+Aura Bonus
 
 Salvation. Resistance to Acid, Fire, Cold, Lightning, Necrotic, Radiant Damage
 
-#### Minor Auras
+##### Minor Auras
 Listed Below:
 
 Cleansing. Immunity to Poison
@@ -2426,55 +2428,55 @@ Acumen. Bonus on Perception, Investigation and Insight checks
 Resistance. Resistance to 2 types of damage. Can be taken again. Each time select 2 different types of damage.
 
 
-## Oaths
+### Oaths
 
-### The Charred One: The Oath of Ash
+#### The Charred One: The Oath of Ash
 
 - Oathbound Weapon Damage: Fire
 This deity represents death, fire, hatred, fear, and pain. Their followers seek the destruction and unmaking of all creation, employing manipulation, intrigue, and acts of destruction to fulfill their goals. They find solace in the burned-out cities and ruins, spreading their mad god's will.
 
-#### Creeds of Ash
+##### Creeds of Ash
 - All shall be consumed by fire, but the last shall be the arsonists.
 
 - Death is not to be feared but embraced; it is a gift granted to the weak, an escape from the dying world.
 
 - Destruction holds an inherent beauty, an exquisite form of expression.
 
-#### Channel Divinity: Touch of Destruction
+##### Channel Divinity: Touch of Destruction
 Starting at 3rd level, you can use Channel Divinity to destroy another creature or object with flame. When you hit a creature with a melee attack, you can use Channel Divinity to deal extra fire damage to the target. The damage equals 10 + twice your oathbound level.
 
-#### Inescapable Destruction
+##### Inescapable Destruction
 Starting at 7th level, your ability to channel destructive energy becomes more potent. Fire damage dealt by your weapons, spells, and Channel Divinity options ignores resistance to fire damage.
 
-#### Destructive Form
+##### Destructive Form
 
 Starting at 15th level, you may use Channel Divinity to deal your Touch of Destruction to everyone within 30 feet.  The save for this is equal to your spell save for oathbound.
 
 
-### The High Nine: Oath of The Mountain
+#### The High Nine: Oath of The Mountain
 - Oathbound Weapon Damage: Cold
  Focused on fate, power, cold, life, and death, the High Nine emphasize embracing the currents of life and the wisdom offered by their gods. Listeners, their followers, reach beyond the present moment to connect with ancient chants and words, becoming vessels of fate.
 
-#### Creeds of the Mountain
+##### Creeds of the Mountain
 - The world is indifferent, neither cruel nor wonderful. It simply exists, as do we.
 
 - As humans, we are beings designed to experience. We are rewarded with pleasure and punished with pain.
 
 - The wind carries no bias; it is driven by the currents of the world.
 
-#### Channel Divinity: Strands of Fate
+##### Channel Divinity: Strands of Fate
 At 2nd level, you can use your Channel Divinity to see and manipulate the strands of fate that weave around other individuals. As a bonus action, you can enter this state for up to 1 minute or until you lose your concentration (as if you were concentrating on a spell). For the duration, whenever another creature you can see makes an attack roll or an ability check, you can use a reaction to give the roll advantage or disadvantage (your choice).
 
-#### Frozen Embrace
+##### Frozen Embrace
 At 7th level, when you deal cold damage to a Large or smaller creature, you can also push it up to 10 feet away from you and reduce it's movement speed by 10 for 1 minute.
 
-#### Visions of the Future
+##### Visions of the Future
 At 15th level, your knowledge of the future allows you to guide an individual to achieve their greatest possible success. You can cast the Foresight spell once without expending a spell slot; when you cast the spell in this way, the spell’s duration is 1 minute for that casting. Once you cast the spell in this way, you can’t do so again until you finish a long rest.
 
-### Makru: Oath of the Banner
+#### Makru: Oath of the Banner
  Revered as the patron deity in many cities, Makru embodies power, life, law, creation, and unity. The followers of Makru are diligent, community-focused individuals who value justice and unification. They are staunch opponents of the Charred One, seeking to protect and preserve Makru's great works.
 
-#### Creeds of the Banner
+##### Creeds of the Banner
 - We are the architects of our own reality. The force of will propels us towards our destinies.
 
 - We cannot allow defiance of fate or the disruption of the natural order.
@@ -2482,28 +2484,28 @@ At 15th level, your knowledge of the future allows you to guide an individual to
 - As craftsmen, we must continually seek new tools to shape and manifest our will.
 
 
-#### Channel Divinity: Commanding Aura
+##### Channel Divinity: Commanding Aura
 Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.
 
 As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be charmed by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they fail the saving throw.
 
-#### Forge Soul
+##### Forge Soul
 Starting at 7th level, your mastery of the forge grants you special abilities:
 - You gain resistance to fire damage.
 - While wearing heavy armor, you gain a +1 bonus to AC.
 
 
-#### Flame Saint
+##### Flame Saint
 At 15th level, your blessed affinity with fire and metal becomes more powerful:
 
 - You gain immunity to fire damage.
 - While wearing heavy armor, you have resistance to bludgeoning, piercing and slashing damage from nonmagical attacks.
 
-### Xelas: Oath of the Tower
+#### Xelas: Oath of the Tower
 Oathbound Weapon Type: Force
  Representing knowledge, power, creation, light, and unity, Xelas is the younger sibling of Makru. Xelas's followers are characterized by their pursuit of knowledge and inspiration, welcomed in most cities as wise men and advisors. They hold sacred rituals and engage in the accumulation of knowledge, guided by their god.
 
-  #### Creeds of the Tower
+  ##### Creeds of the Tower
 
 - Our life's journey is to acquire knowledge to shape the next world.
 
@@ -2511,20 +2513,20 @@ Oathbound Weapon Type: Force
 
 - We serve as guides to those in power, using reason to steer them towards the heart of Xelas.
 
-#### Channel Divinity: Whispers of the EverScribe
+##### Channel Divinity: Whispers of the EverScribe
 Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you have expertise with the chosen skill or tool.
 
-#### Spell Breaker
+##### Spell Breaker
 Starting at 7th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell.
 
-#### The EverScribe's Chosen
+##### The EverScribe's Chosen
 At 15th You may use your Channel Divinity to cast any 1 spell of the 7th level or lower.   
 
-### Larantas: Oath of the Tree
+#### Larantas: Oath of the Tree
 Oathbound Weapon Damage: Lightning,Cold,Fire(Choice)
  Known as the Great Tree, Larantas is associated with life, creation, light, earth, and death. The Annirad tribe considers it their living god, and the protectors of the Elder Forest safeguard it. Followers of Larantas undertake pilgrimages to be baptized in its nectar, and their faith is tied to the changing seasons.
 
-  #### Creeds of the Tree
+  ##### Creeds of the Tree
 
 - Embrace the ever-changing cycles of life, for they bring forth new beginnings.
 
@@ -2532,15 +2534,15 @@ Oathbound Weapon Damage: Lightning,Cold,Fire(Choice)
 
 - Nurture the world around you, tending to its needs with love and care.
 
-#### Channel Divinity: Charm Animals and Plants
+##### Channel Divinity: Charm Animals and Plants
 Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.
 
 As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.
 
-#### Dampen Elements
+##### Dampen Elements
 Starting at 7th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage.
 
-#### Nature's Resurgence
+##### Nature's Resurgence
 At 15th level, you have become a vessel of nature's enduring power. As an action, you can call upon the ancient forces of the natural world to empower yourself and your allies. For 1 minute, you and friendly creatures within 30 feet of you gain the following benefits:
 
 - Natural Vigor: You and your allies gain temporary hit points equal to your Charisma modifier + your Paladin level at the start of each of their turns.
@@ -2551,10 +2553,10 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 This ability reflects the Paladin's deep connection to the natural world, grant
 
-### The Penitent Choir: Oath of Mourning
+#### The Penitent Choir: Oath of Mourning
  Formed from the remnants of the Church of Le Vides after the The Black Day, the Penitent Choir focuses on life, unity, peace, law, and fate. They believe in atoning for mankind's sins through acts of love and suffering, championing the cause of the neglected and vulnerable.
 
-  #### Creeds of Mourning
+  ##### Creeds of Mourning
   - Through acknowledgment of our past sins, we seek redemption and strive for a brighter future.
 
 - In unity, we find strength and healing, for together we can mend the broken world.
@@ -2562,22 +2564,22 @@ This ability reflects the Paladin's deep connection to the natural world, grant
 - Compassion and justice are the guiding principles on our path to salvation.
 
 
-#### Channel Divinity: Song of Peace
+##### Channel Divinity: Song of Peace
 Starting at 3nd level, you can use your Channel Divinity to make your very presence a soothing balm. As an action, you can move up to your speed, without provoking opportunity attacks, and when you move within 5 feet of any other creature during this action, you can restore a number of hit points to that creature equal to 2d6 + your Charisma modifier (minimum of 1 hit point). A creature can receive this healing only once whenever you take this action.
 
-#### Sentinel at Death's Door
+##### Sentinel at Death's Door
 At 7th level, you gain the ability to impede death’s progress. As a reaction when you or an ally that you can see within 30 feet of you suffers a critical hit, you can turn that attack into a normal hit. Any effects triggered by a critical hit are canceled.
 
 You can use this feature a number of times equal to your Charisma modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
 
-#### Chanter of Souls
+##### Chanter of Souls
 At 15th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 30 feet of you, you or one ally of your choice that is within 30 feet of you regains hit points equal to the enemy’s number of Hit Dice. You can use this feature only if you aren't incapacitated. Once you use it, you can't do so again until the start of your next turn.
 
-### Apatur: Oath of Strife
+#### Apatur: Oath of Strife
 Embracing power, death, knowledge, hate, and law, Apatur's followers perceive war as essential for progress and growth. They revere conflict as a means of domination and advancement, dedicating themselves to fueling and perpetuating wars.
 
-#### Creeds of Strife
+##### Creeds of Strife
 
 - Within the nature of mankind lies the essence of war. Through conflict, we forge progress and propel the world forward.
 
@@ -2585,43 +2587,43 @@ Embracing power, death, knowledge, hate, and law, Apatur's followers perceive wa
 
 - A world shaped in darkness will not easily return to the light.
 
-#### Channel Divinity: Swallowed in Shadow
+##### Channel Divinity: Swallowed in Shadow
 Starting at 2nd level, you can use your Channel Divinity to harness sunlight, banishing darkness and dealing necrotic damage to your foes.
 
 As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes necrotic damage equal to 5d6 + your oathbound level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.
 
-#### Channel Divinity: Cloak of Shadows
+##### Channel Divinity: Cloak of Shadows
 Starting at 7th level, you can use your Channel Divinity to vanish.
 
 As an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.
 
 
-#### Avatar of Battle
+##### Avatar of Battle
 At 15th level, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
 
-# Pathfinder
+## Pathfinder
 
-## Class Features
+### Class Features
 
 As a pathfinder, you gain the following class features.
 
-### Damage Tracks
+#### Damage Tracks
 
-#### Shock Check
+##### Shock Check
 - __HP:__ 10+Constitution Score+Proficency
 - __SP:__ 8+Wisdom Score+Proficency
 
-#### Hit Points
+##### Hit Points
 - Hit Dice: 1d12 per pathfinder level
 - Hit Points at 1st Level:10+CON
 - Hit Points at Higher Levels:1d10+CON Modifier per pathfinder level after 1st
 
-#### Strain Points
+##### Strain Points
 - Strain Dice: 1d8 per pathfinder level
 - Strain Points at first level: 8+WIS
 - Strain Points at Higher Levels: 1d8+WIS Modifier per pathfinder level after first
 
-### Proficiencies
+#### Proficiencies
 
 __Armor:__ Light armor, medium armor, shields
 
@@ -2634,7 +2636,7 @@ __Saving Throws:__ Strength, Dexterity
 
 __Skills:__ Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -2644,7 +2646,7 @@ You start with the following equipment, in addition to the equipment granted by 
 •	A longbow and a quiver of 20 arrows
  
 
-### The Pathfinder
+#### The Pathfinder
 
 | Level | Proficiency Bonus | Features                               |
 |-------|-------------------|----------------------------------------|
@@ -2671,7 +2673,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
  
 
-### Favored Enemy
+#### Favored Enemy
 
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
 
@@ -2686,7 +2688,7 @@ You deal 1d6 bonus in damage when dealing damage to them with weapons.  This dam
 When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
 You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
 
-### Natural Explorer
+#### Natural Explorer
 
 You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or murk. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
 
@@ -2701,7 +2703,7 @@ While traveling for an hour or more in your favored terrain, you gain the follow
 
 You choose additional favored terrain types at 6th and 10th level.
 
-### Fighting Style
+#### Fighting Style
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
@@ -2721,39 +2723,39 @@ Two-Weapon Fighting
 
 When you engage in two-­‐‑weapon fighting, you can add your ability modifier to the damage of the second attack.
 
-### Second Wind
+#### Second Wind
 At 2nd level You have a limited well of stamina you can draw upon to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your ranger level. Once you use this feature, you must complete a short or long rest before you can use it again.
  
-### Primeval Awareness
+#### Primeval Awareness
 Beginning at 3rd level, your mastery of ranger lore allows you to establish a powerful link to beasts and to the land around you. You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast as an action and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it to not attack. You cannot use this ability against a creature that you have attacked within the past 10 minutes.
 
 
-### Pathfinder Archetype
+#### Pathfinder Archetype
 
 At 3rd level, you choose an archetype that you strive to emulate, such as the Hunter. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 
 
-### Ability Score Improvement
+#### Ability Score Improvement
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-### Extra Attack
+#### Extra Attack
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-### Wilderness Medicine
+#### Wilderness Medicine
 In their favored terrain, the ranger is adept at utilizing local flora and fauna with healing properties. Dungeon Stalkers are similarly familiar with various subterranean mosses, lichens, spider silk, etc. Medicine checks in favored terrain are made using the ranger’s proficiency bonus. Once per day, given an hour of preparation time, you can craft potions or poultices (1d4 uses) that will heal hit points equal to 1d8+ the ranger’s level. In addition, these items will halt (cure) the progression of any non-magical disease contracted the same day. In a similar fashion, the ranger can craft an antitoxin to counter the effects of poison (1 use per hour spent). All items crafted by the ranger in this manner are perishable and need to be used within one day of being created, or they will spoil and be useless. Use of this feature requires an herbalism kit.
 
-### Fleet of Foot
+#### Fleet of Foot
 Beginning at 7th level, you can use the Dash action as a bonus action on your turn.
 
-### Land’s Stride
+#### Land’s Stride
 
 Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
 In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell.
 
-### Environmental Resilience
+#### Environmental Resilience
 At 9th level in their favored terrain, the ranger makes all Constitution checks with advantage. The ranger gains the following damage resistance based on their favored terrain, but it applies at all times:
 
 Arctic Cold
@@ -2767,53 +2769,53 @@ Underdark Poison
 
 The damage resistance granted by this feature can only be taken once, using the ranger’s original choice of favored terrain. Additional favored terrains do not grant additional damage resistances.
 
-### Hide in Plain Sight
+#### Hide in Plain Sight
 
 Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
 
  
 Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
 
-### Stalker’s Flurry
+#### Stalker’s Flurry
 Starting at 13th level, once on each of your turns when you miss with an attack, you can make another attack.
 
-### Vanish
+#### Vanish
 
 Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can’t be tracked by nonmagical means, unless you choose to leave a trail.
 
 Improved Wilderness Medicine
 You gain proficiency in Medicine. When using the Wilderness Medicine feature, the ranger’s potions or poultices restore hits points equal to 2d8 + the ranger’s level. In addition to being a preventative against disease, the potions or poultices will also halt the advancement of lycanthropy provided the bite is less than a day old. You can craft two doses of antitoxin per hour spent. Items crafted with this feature will maintain their potency without spoiling for 1d4 days. Use of this feature requires an herbalism kit.
 
-### Stalker’s Dodge
+#### Stalker’s Dodge
 At 17th level, whenever a creature attacks you and does not have advantage, you can use your reaction to impose disadvantage on the creature’s attack roll against you. You must use this feature before you know the outcome of the attack roll.
 
-### Feral Senses
+#### Feral Senses
 
 At 18th level, you gain preternatural senses that help you fight creatures you can’t see. When you attack a creature you can’t see, your inability to see it doesn’t impose disadvantage on your attack rolls against it.
 
 You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn’t hidden from you and you aren’t blinded or deafened.
 
-### Foe Slayer
+#### Foe Slayer
 
 At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
 
-## Pathfinder Archetypes
+### Pathfinder Archetypes
 
-### Bounty Hunter
+#### Bounty Hunter
 
-#### Tracker’s Expertise
+##### Tracker’s Expertise
 Starting at 3rd level, you gain proficiency in Investigation and Insight if you don’t already have it. Additionally, you can use your Wisdom modifier instead of your Dexterity modifier for any checks involving stealth or sleight of hand when tracking or capturing a target.
 
-#### Marked Prey
+##### Marked Prey
 At 3rd level, you learn to mark your prey for swift and precise pursuit. When you hit a creature with a weapon attack, you can choose to mark them as your prey. You gain advantage on Wisdom (Survival) checks made to track that creature, and you deal extra damage equal to your Wisdom modifier against that creature.
 
-#### Capture Expertise
+##### Capture Expertise
 Starting at 7th level, you have advantage on ability checks and saving throws made to grapple or restrain a creature. Additionally, you can attempt to grapple or restrain a creature up to one size larger than you.
 
-#### Hunter’s Arsenal
+##### Hunter’s Arsenal
 At 11th level, you have honed your skills and equipment for capturing bounties. You gain proficiency with a new set of tools related to your bounty hunting methods, such as traps, manacles, or interrogation tools. You also gain advantage on attack rolls against creatures you have marked as your prey.
 
-#### Master Tracker
+##### Master Tracker
 Starting at 15th level, you have become an unparalleled tracker and hunter of your prey. You can use your action to focus your senses, gaining the following benefits for 1 hour:
 You have advantage on all Wisdom (Survival) checks to track your marked prey.
 You can’t be surprised by your marked prey, and they can’t escape your notice unless they successfully hide from you.
@@ -2821,47 +2823,47 @@ Your marked prey can’t benefit from invisibility or being heavily obscured to 
 You have advantage on all attack rolls against your marked prey.
 Once you use this feature, you can't use it again until you finish a long rest.
 
-### Shadow
+#### Shadow
 
-#### Sharpshooter's Focus
+##### Sharpshooter's Focus
 You may spend your bonus action to aim your ranged weapon, gaining advantage on your next ranged attack roll.  This ability can be used a number of times equal to your proficiency bonus.  This ability recharges on a short rest.
 
-#### Ambush Hunter
+##### Ambush Hunter
 At 3rd level, you gain the ability to strike with deadly precision from the shadows. When you hit a creature with a weapon attack from hiding or while unseen by your target, you deal 2d6 extra damage. This extra damage increases to 3d8 at 11th level and 4d10 at 17th level.
 
-#### Camouflage Expertise
+##### Camouflage Expertise
 Starting at 7th level, you can use your action to camouflage yourself in natural surroundings. While camouflaged, you have advantage on Dexterity (Stealth) checks made to hide and Wisdom (Perception) checks made to spot creatures. You can remain camouflaged in this way for up to 1 hour, or until you move or take an action other than maintaining your camouflage.
 
-#### Sniper's Precision
+##### Sniper's Precision
 At 11th level, you gain the ability to target weak spots with incredible accuracy. When you make a weapon attack with a longbow or sniper rifle against a creature, you can choose to make a called shot. If the attack hits, you deal extra damage equal to your Proficiency Bonus plus Wisdom modifier, and the target must make a Constitution saving throw against your Ranger spell save DC or suffer disadvantage on attack rolls until the end of its next turn.
 
-#### Vanishing Act
+##### Vanishing Act
 Starting at 15th level, you can disappear from sight in the blink of an eye. As a bonus action, you can magically become invisible for 1 minute. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 
-# Priest
+## Priest
 
-## Class Features
+### Class Features
 
 As a priest, you gain the following class features.
 
-### Damage Tracks
+#### Damage Tracks
 
-#### Shock Rating
+##### Shock Rating
 - __HP:__ 8+Constitution Score+Proficency
 - __SP:__ 10+Wisdom Score+Proficency
 
-#### Hit Points
+##### Hit Points
 - Hit Dice: 1d8 per priest level
 - Hit Points at 1st Level:8+CON
 - Hit Points at Higher Levels:1d8+CON Modifier per priest level after 1st
 
-#### Strain Points
+##### Strain Points
 - Strain Dice: 1d10 per priest level
 - Strain Points at first level: 10+WIS
 - Strain Points at Higher Levels: 1d10+WIS Modifier per brute level after first
 
-### Proficiencies
+#### Proficiencies
 
 __Armor:__ Light armor, medium armor, shields
 
@@ -2873,7 +2875,7 @@ __Saving Throws:__ Wisdom, Charisma
 
 __Skills:__ Choose two from History, Insight, Medicine, Persuasion, and Religion
 
-### Equipment
+#### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -2884,7 +2886,7 @@ You start with the following equipment, in addition to the equipment granted by 
 •	holy symbol
  
 
-### The Priest
+#### The Priest
 
   		
 | Level | Proficiency Bonus | Features                                       | Cantrips |
@@ -2913,11 +2915,11 @@ You start with the following equipment, in addition to the equipment granted by 
 
  
 
-### Spellcasting
+#### Spellcasting
 
 As a conduit for divine power, you cancast priest spells.
 
-#### Spell Point Cost
+##### Spell Point Cost
 | Spell Level | Point Cost |
 |-------------|------------|
 | 1st         | 2          |
@@ -2930,7 +2932,7 @@ As a conduit for divine power, you cancast priest spells.
 | 8th         | 11         |
 | 9th         | 13         |
 
-#### Spell Points by Level
+##### Spell Points by Level
 | Class Level | Spell Points | Max Spell Level |
 |-------------|--------------|-----------------|
 | 1st         | 4            | 1st             |
@@ -2955,11 +2957,11 @@ As a conduit for divine power, you cancast priest spells.
 | 20th        | 133          | 9th             |
  
 
-#### Cantrips
+##### Cantrips
 
 At 1st level, you know three cantrips of your choice from the priest spell list. You learn additional priest cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Priest table.
  
-#### Preparing and Casting Spells
+##### Preparing and Casting Spells
 
 The Priest table shows how many spell points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend points of the spell’s level or higher. You regain all expended spell points when you finish a long rest.
 
@@ -2969,31 +2971,31 @@ For example, if you are a 3rd-­‐‑level priest, 14 spell points. With a Wisd
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of priest spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
-#### Spellcasting Ability
+##### Spellcasting Ability
 
 Wisdom is your spellcasting ability for your priest spells. The power of your spells comes fromyour devotion to your deity. You use your Wisdom whenever a priest spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a priest spell you cast and when making an attack roll with one.
 
 - Spell save DC = 8 + your proficiency bonus + your Wisdom modifier
 - Spell attack modifier = your proficiency bonus + your Wisdom modifier
 
-#### Ritual Casting
+##### Ritual Casting
 
 You can cast a priest spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
-#### Spellcasting Focus
+##### Spellcasting Focus
 
 You can use a holy symbol (see “Equipment”) as a spellcasting focus for your priest spells.
 
-### Faith and Religion
+#### Faith and Religion
 
 Choose one diety, such as The Penitent Choir. Each faith is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you religion spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Faith when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
-#### Religious Spells
+##### Religious Spells
 
 Each religion has a list of spells—its religion spells— that you gain at the priest levels noted in the religion description. Once you gain a religion spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day.
 If you have a religion spell that doesn’t appear on the priest spell list, the spell is nonetheless a priest spell for you.
 
-#### Channel Faith
+##### Channel Faith
 
 At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Other and an effect determined by your religion. Some religions grant you additional effects as you advance in levels, as noted in the religion description.
 
@@ -3003,18 +3005,18 @@ Some Channel Faith effects require saving throws. When you use such an effect fr
 
 Beginning at 6th level, you can use your Channel Faith twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
 
-##### Channel Faith: Turn Other
+###### Channel Faith: Turn Other
 
 As an action, you present your holy symbol and speak a prayer censuring the outsiders. Each outsider that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
  
  
-### Ability Score Improvement
+#### Ability Score Improvement
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-### Destroy Other
+#### Destroy Other
 
 Starting at 5th level, when an undead fails its saving throw against your Turn Other feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Other table.
 
@@ -3029,7 +3031,7 @@ Starting at 5th level, when an undead fails its saving throw against your Turn O
 
 
 
-### Divine Intervention
+#### Divine Intervention
 
 Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
 
@@ -3037,12 +3039,12 @@ Imploring your deity’s aid requires you to use your action. Describe the assis
 If your deity intervenes, you can’t use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
-## Religions of Tellus
+### Religions of Tellus
 
-### The Charred One:
+#### The Charred One:
 This deity represents death, fire, hatred, fear, and pain. Their followers seek the destruction and unmaking of all creation, employing manipulation, intrigue, and acts of destruction to fulfill their goals. They find solace in the burned-out cities and ruins, spreading their mad god's will.
 
-#### Charred one Spell List
+##### Charred one Spell List
 | Priest Level | Spells                      |
 |--------------|-----------------------------|
 | 1st          | Burning Hands, Hellish Rebuke        |
@@ -3051,27 +3053,27 @@ This deity represents death, fire, hatred, fear, and pain. Their followers seek 
 | 7th          | Wall of Fire, Summon Greater Demon|
 | 9th          | Flame Strike, Immolation |
 
-#### Bonus Cantrip
+##### Bonus Cantrip
 When you choose this religion at 1st level, you gain the Firebolt cantrip if you don't already know it. This cantrip doesn’t count against the number of cleric cantrips you know.
 
-#### Channel Divinity: Touch of Destruction
+##### Channel Divinity: Touch of Destruction
 Starting at 2nd level, you can use Channel Divinity to destroy another creature or object with flame. When you hit a creature with a melee attack, you can use Channel Divinity to deal extra fire damage to the target. The damage equals 10 + twice your cleric level.
 
-#### Inescapable Destruction
+##### Inescapable Destruction
 Starting at 6th level, your ability to channel destructive energy becomes more potent. Fire damage dealt by your cleric spells and Channel Divinity options ignores resistance to fire damage.
 
-#### Divine Strike
+##### Divine Strike
 At 8th level, you gain the ability to infuse your weapon strikes with fire energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an a 1d12 necrotic damage to the target. When you reach 14th level, the extra damage increases to 2d12.
 
-#### Destructive Form
+##### Destructive Form
 
 Starting at 17th level, you may use Channel Divinity to deal your Touch of Destruction to everyone within 30 feet.  The save for this is equal to your spell save for priest.
 
 
-### The High Nine:
+#### The High Nine:
  Focused on fate, power, cold, life, and death, the High Nine emphasize embracing the currents of life and the wisdom offered by their gods. Listeners, their followers, reach beyond the present moment to connect with ancient chants and words, becoming vessels of fate.
 
- #### The High Nine Spell List
+ ##### The High Nine Spell List
 | Priest Level | Spells                      |
 |--------------|-----------------------------|
 | 1st          | 	Dissonant Whispers, Heroism        |
@@ -3080,30 +3082,30 @@ Starting at 17th level, you may use Channel Divinity to deal your Touch of Destr
 | 7th          | Ice Storm, Divination |
 | 9th          | 	Destructive Wave, Geas |
 
-#### Bonus Proficiencies
+##### Bonus Proficiencies
 At 1st level, you gain proficiency with martial weapons and heavy armor.
 
-#### Wrath of the Giants
+##### Wrath of the Giants
 Also at 1st level, you can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Constitution saving throw. The creature takes 1d12 cold and 1d12 bludgeoning on a failed saving throw, and half as much damage on a successful one.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
-#### Channel Divinity: Strands of Fate
+##### Channel Divinity: Strands of Fate
 At 2nd level, you can use your Channel Divinity to see and manipulate the strands of fate that weave around other individuals. As a bonus action, you can enter this state for up to 1 minute or until you lose your concentration (as if you were concentrating on a spell). For the duration, whenever another creature you can see makes an attack roll or an ability check, you can use a reaction to give the roll advantage or disadvantage (your choice).
 
-#### Frozen Embrace
+##### Frozen Embrace
 At 6th level, when you deal cold damage to a Large or smaller creature, you can also push it up to 10 feet away from you and reduce it's movement speed by 10 for 1 minute.
 
-#### Potent Spellcasting
+##### Potent Spellcasting
 Starting at 8th level, you add your Proficiency Bonus and Wisdom modifier to the damage you deal with any cleric cantrip.
 
-#### Visions of the Future
+##### Visions of the Future
 At 17th level, your knowledge of the future allows you to guide an individual to achieve their greatest possible success. You can cast the Foresight spell once without expending a spell slot; when you cast the spell in this way, the spell’s duration is 1 minute for that casting. Once you cast the spell in this way, you can’t do so again until you finish a long rest.
 
-### Makru:
+#### Makru:
  Revered as the patron deity in many cities, Makru embodies power, life, law, creation, and unity. The followers of Makru are diligent, community-focused individuals who value justice and unification. They are staunch opponents of the Charred One, seeking to protect and preserve Makru's great works.
 
-#### Makru Spell List
+##### Makru Spell List
 | Priest Level | Spells                      |
 |--------------|-----------------------------|
 | 1st          | Command, Searing Smite        |
@@ -3112,64 +3114,64 @@ At 17th level, your knowledge of the future allows you to guide an individual to
 | 7th          | Compulsion, Wall of Fire |
 | 9th          | Dominate Person, Creation |
 
-#### Bonus Proficiencies
+##### Bonus Proficiencies
 When you choose this religion at 1st level, you gain proficiency with heavy armor and smith's tools.
 
-#### Voice of Command
+##### Voice of Command
 Starting at 1st level, you can invoke the power of law to embolden an ally to attack. If you cast a spell with a spell slot of 1st level or higher and target an ally with the spell, that ally can use their reaction immediately after the spell to make one weapon attack against a creature of your choice that you can see.
 
 If the spell targets more than one ally, you choose the ally who can make the attack.
 
-#### Channel Divinity: Commanding Aura
+##### Channel Divinity: Commanding Aura
 Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.
 
 As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be charmed by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they fail the saving throw.
 
-#### Forge Soul
+##### Forge Soul
 Starting at 6th level, your mastery of the forge grants you special abilities:
 - You gain resistance to fire damage.
 - While wearing heavy armor, you gain a +1 bonus to AC.
 
-#### Divine Strike
+##### Divine Strike
 At 8th level, you gain the ability to infuse your weapon strikes with the fiery power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d12 fire damage to the target. When you reach 14th level, the extra damage increases to 2d12.
 
-#### Flame Saint
+##### Flame Saint
 At 17th level, your blessed affinity with fire and metal becomes more powerful:
 
 - You gain immunity to fire damage.
 - While wearing heavy armor, you have resistance to bludgeoning, piercing and slashing damage from nonmagical attacks.
 
-### Xelas:
+#### Xelas:
  Representing knowledge, power, creation, light, and unity, Xelas is the younger sibling of Makru. Xelas's followers are characterized by their pursuit of knowledge and inspiration, welcomed in most cities as wise men and advisors. They hold sacred rituals and engage in the accumulation of knowledge, guided by their god.
 
-  #### Xelas Spell List
+  ##### Xelas Spell List
 | Priest Level | Spells                      |
 |--------------|-----------------------------|
-| 1st          | Identify, Detect Magic, (Any 1st level Wizard spell)        |
-| 3rd          | Magic Weapon, Augury, (Any 2nd level Wizard spell) |
-| 5th          | Speak with Dead, Dispel Magic, (Any 3rd level Wizard spell)   |
-| 7th          | Arcane Eye, Confusion, (Any 4th level Wizard spell) |
-| 9th          | Scrying, Teleportation Circle, (Any 5th level Wizard spell) |
+| 1st          | Identify, Detect Magic, (Any 1st level Magister spell)        |
+| 3rd          | Magic Weapon, Augury, (Any 2nd level Magister spell) |
+| 5th          | Speak with Dead, Dispel Magic, (Any 3rd level Magister spell)   |
+| 7th          | Arcane Eye, Confusion, (Any 4th level Magister spell) |
+| 9th          | Scrying, Teleportation Circle, (Any 5th level Magister spell) |
 
-#### Gifts of the Arcanum
-At 1st level, and at every odd level through level 9, priests of Xelas may choose any Wizard spell as an additional Religion spell.  This is already included in the table above, and is treated as a Priest Spell when selected.
+##### Gifts of the Arcanum
+At 1st level, and at every odd level through level 9, priests of Xelas may choose any Magister spell as an additional Religion spell.  This is already included in the table above, and is treated as a Priest Spell when selected.
 
-#### Channel Divinity: Whispers of the EverScribe
+##### Channel Divinity: Whispers of the EverScribe
 Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you have expertise with the chosen skill or tool.
 
-#### Spell Breaker
+##### Spell Breaker
 Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell.
 
-#### Potent Spellcasting
+##### Potent Spellcasting
 Starting at 8th level, you add your Proficiency Bonus and Wisdom modifier to the damage you deal with any cleric cantrip.
 
-#### The EverScribe's Chosen
-At 17th level, you choose four spells from the wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of religion spells. Like your other religion spells, they are always prepared and count as cleric spells for you.  You may exchange 1 spell for one of equal level during a long rest.
+##### The EverScribe's Chosen
+At 17th level, you choose four spells from the magister spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of religion spells. Like your other religion spells, they are always prepared and count as cleric spells for you.  You may exchange 1 spell for one of equal level during a long rest.
 
-### Larantas:
+#### Larantas:
  Known as the Great Tree, Larantas is associated with life, creation, light, earth, and death. The Annirad tribe considers it their living god, and the protectors of the Elder Forest safeguard it. Followers of Larantas undertake pilgrimages to be baptized in its nectar, and their faith is tied to the changing seasons.
 
-  #### Larantas Spell List
+  ##### Larantas Spell List
 | Priest Level | Spells                      |
 |--------------|-----------------------------|
 | 1st          | Speak with Animals, Bless        |
@@ -3178,30 +3180,30 @@ At 17th level, you choose four spells from the wizard spell list, one from each 
 | 7th          | 	Dominate Beast, Grasping Vine |
 | 9th          | Insect Plague, Tree Stride |
 
-#### Bonus Proficiency
+##### Bonus Proficiency
 When you choose this religion at 1st level, you gain proficiency with heavy armor.
 
-#### Disciple of Life
+##### Disciple of Life
 Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
 
-#### Channel Divinity: Charm Animals and Plants
+##### Channel Divinity: Charm Animals and Plants
 Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.
 
 As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.
 
-#### Dampen Elements
+##### Dampen Elements
 Starting at 6th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage.
 
-#### Divine Strike
+##### Divine Strike
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d12 cold, fire, or lightning damage (your choice) to the target. When you reach 14th level, the extra damage increases to 2d12.
 
-#### Supreme Healing
+##### Supreme Healing
 Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
 
-### The Penitent Choir:
+#### The Penitent Choir:
  Formed from the remnants of the Church of Le Vides after the The Black Day, the Penitent Choir focuses on life, unity, peace, law, and fate. They believe in atoning for mankind's sins through acts of love and suffering, championing the cause of the neglected and vulnerable.
 
-  #### The Penitent Choir Spell List
+  ##### The Penitent Choir Spell List
 | Priest Level | Spells                      |
 |--------------|-----------------------------|
 | 1st          | False Life, Heroism        |
@@ -3210,34 +3212,34 @@ Starting at 17th level, when you would normally roll one or more dice to restore
 | 7th          | Otiluke's Resilient Sphere, Death Ward |
 | 9th          | Greater Restoration, Raise Dead |
 
-#### Circle of Mortality
+##### Circle of Mortality
 At 1st level, you gain the ability to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.
 
 In addition, you learn the Spare the Dying cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
 
-#### Emboldening Song
+##### Emboldening Song
 Starting at 1st level, you can forge an empowering bond between allies. As an action, you can choose two willing creatures you can see within 30 feet of you (this can include yourself) and create a magical bond between them. While either bonded creature is within 30 feet of the other, the creature can roll a d4 and add the number rolled to an attack roll, an ability check, or a saving throw it makes. Each creature can add the d4 no more than once per turn. The bond lasts for 1 hour or until you use this feature again.
 
 You can use this feature once, and you regain the ability to do so when you finish a long rest. You can also expend a spell slot to use the feature again.
 
-#### Channel Divinity: Song of Peace
+##### Channel Divinity: Song of Peace
 Starting at 2nd level, you can use your Channel Divinity to make your very presence a soothing balm. As an action, you can move up to your speed, without provoking opportunity attacks, and when you move within 5 feet of any other creature during this action, you can restore a number of hit points to that creature equal to 2d6 + your Wisdom modifier (minimum of 1 hit point). A creature can receive this healing only once whenever you take this action.
 
-#### Sentinel at Death's Door
+##### Sentinel at Death's Door
 At 6th level, you gain the ability to impede death’s progress. As a reaction when you or an ally that you can see within 30 feet of you suffers a critical hit, you can turn that attack into a normal hit. Any effects triggered by a critical hit are canceled.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
-#### Potent Spellcasting
+##### Potent Spellcasting
 Starting at 8th level, you add your Proficiency Bonus and Wisdom modifier to the damage you deal with any cleric cantrip.
 
-#### Chanter of Souls
+##### Chanter of Souls
 At 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 30 feet of you, you or one ally of your choice that is within 30 feet of you regains hit points equal to the enemy’s number of Hit Dice. You can use this feature only if you aren't incapacitated. Once you use it, you can't do so again until the start of your next turn.
 
-### Apatur:
+#### Apatur:
  Embracing power, death, knowledge, hate, and law, Apatur's followers perceive war as essential for progress and growth. They revere conflict as a means of domination and advancement, dedicating themselves to fueling and perpetuating wars.
 
-  #### Apatur Spell List
+  ##### Apatur Spell List
 | Priest Level | Spells                      |
 |--------------|-----------------------------|
 | 1st          | Disguise Self, Divine Favor         |
@@ -3246,32 +3248,32 @@ At 17th level, you can seize a trace of vitality from a parting soul and use it 
 | 7th          | Stoneskin, 	Dimension Door |
 | 9th          | Modify Memory, Destructive Wave |
 
-#### Bonus Proficiency
+##### Bonus Proficiency
 At 1st level, you gain proficiency with martial weapons and heavy armor.
 
-#### War Priest
+##### War Priest
 From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the Attack action, you can make one weapon attack as a bonus action.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
-#### Channel Divinity: Swallowed in Shadow
+##### Channel Divinity: Swallowed in Shadow
 Starting at 2nd level, you can use your Channel Divinity to harness sunlight, banishing darkness and dealing radiant damage to your foes.
 
 As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes necrotic damage equal to 5d6 + your priest level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.
 
-#### Channel Divinity: Cloak of Shadows
+##### Channel Divinity: Cloak of Shadows
 Starting at 6th level, you can use your Channel Divinity to vanish.
 
 As an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.
 
-#### Divine Strike
+##### Divine Strike
 At 8th level, you gain the ability to infuse your weapon strikes with poison – a gift from your deity. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 poison damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
-#### Avatar of Battle
+##### Avatar of Battle
 At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
 
-## Priest Spells
-### Cantrips (0 Level)
+### Priest Spells
+#### Cantrips (0 Level)
 - Guidance
 - Light
 - Mending
@@ -3280,7 +3282,7 @@ At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage
 - Spare the Dying
 - Thaumaturgy
 
-### 1st Level
+#### 1st Level
 - Bane
 - Bless
 - Command
@@ -3297,7 +3299,7 @@ At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage
 - Sanctuary
 - Shield of Faith
 
-### 2nd Level
+#### 2nd Level
 - Aid
 - Augury
 - Blindness/Deafness
@@ -3316,7 +3318,7 @@ At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage
 - Warding Bond
 - Zone of Truth
 
-### 3rd Level
+#### 3rd Level
 - Animate Dead
 - Beacon of Hope
 - Bestow Curse
@@ -3337,7 +3339,7 @@ At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage
 - Tongues
 - Water Walk
 
-### 4th Level
+#### 4th Level
 - Banishment
 - Control Water
 - Death Ward
@@ -3347,7 +3349,7 @@ At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage
 - Locate Creature
 - Stone Shape
 
-### 5th Level
+#### 5th Level
 - Commune
 - Contagion
 - Dispel Evil and Good
@@ -3362,7 +3364,7 @@ At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage
 - Raise Dead
 - Scrying
 
-### 6th Level
+#### 6th Level
 - Blade Barrier
 - Create Undead
 - Find the Path
@@ -3374,7 +3376,7 @@ At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage
 - True Seeing
 - Word of Recall
 
-### 7th Level
+#### 7th Level
 - Conjure Celestial
 - Divine Word
 - Etherealness
@@ -3384,41 +3386,41 @@ At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage
 - Resurrection
 - Symbol
 
-### 8th Level
+#### 8th Level
 - Antimagic Field
 - Control Weather
 - Earthquake
 - Holy Aura
 
-### 9th Level
+#### 9th Level
 - Astral Projection
 - Gate
 - Mass Heal
 - True Resurrection
 
-# Soldier
+## Soldier
 
-## Class Features
+### Class Features
 
 As a soldier, you gain the following class features.
 
-### Damage Tracks
+#### Damage Tracks
 
-#### Shock Check
+##### Shock Check
 - __HP:__ 10+Constitution Score+Proficency
 - __SP:__ 8+Wisdom Score+Proficency
 
-#### Hit Points
+##### Hit Points
 - Hit Dice: 1d10 per soldier level
 - Hit Points at 1st Level:10+CON
 - Hit Points at Higher Levels:1d10+CON Modifier per soldier level after 1st
 
-#### Strain Points
+##### Strain Points
 - Strain Dice: 1d8 per soldier level
 - Strain Points at first level: 8+WIS
 - Strain Points at Higher Levels: 1d8+WIS Modifier per soldier level after first
 
-### Proficiencies
+#### Proficiencies
 
 - __Armor:__ All armor, shields
 
@@ -3438,7 +3440,7 @@ You start with the following equipment, in addition to the equipment granted by 
 •	(a) a light crossbow and 20 bolts or (b) two handaxes
 •	(a) a dungeoneer’s pack or (b) an explorer’s pack
 
-### The Soldier
+#### The Soldier
 | Level | Proficiency Bonus | Features                        | Exploits Known | Exploit Die | Exploit Dice |
 |-------|-------------------|---------------------------------|----------------|-------------|--------------|
 | 1     | 2                 | Fighting Style, Second Wind     | -              |             |              |
@@ -3463,7 +3465,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | 20    | 6                 | Action Surge(2), Relentless     | 10             | 2d10        | 6            |
 
 
-### Fighting Style
+#### Fighting Style
 
 At 1st level, choose the Fighting Style from the options below that reflects your martial training and skill with weapons. You cannot gain a Fighting Style more than once, even if another feature allows you to select an additional Fighting Style.
 
@@ -3500,30 +3502,30 @@ Whenever you gain a level in this class, you can switch your Fighting Style for 
 - **Versatile Fighting**
   - While wielding a single versatile weapon and no shield, you gain a +1 bonus to your attack rolls with that weapon. While doing so, you can also use your bonus action to make a single grapple or shove attack, or to take the Use an Object action.
 
-### Second Wind
+#### Second Wind
 You can fight on where lesser warriors would fail. Also at 1st level, you can use your bonus action to regain hit points equal to 1d10 + your Soldier level. Once you do so, you must finish a short or long rest before you can do so again.
 
 Upon reaching 14th level, you can use your Second Wind bonus action twice between each short or long rest.
 
-### Martial Exploits
+#### Martial Exploits
 At 2nd level, you begin to learn techniques that enhance your martial skill in and out of battle. You gain the features below:
 
-#### Exploit Dice
+##### Exploit Dice
 The Soldier table shows the number of Exploit Dice you have to perform any Exploits you know. Most Exploits require you to expend these Dice in order to use them. You can only use one Exploit per attack, ability check, or saving throw, and you regain all Exploit Dice when you finish a short or long rest.
 
 Your Exploit Dice begin as d10s and increase in size as you gain levels in this class, as indicated in the Soldier table.
 
-#### Exploits Known
+##### Exploits Known
 You know two Exploits of your choice from the list at the end of this class. The Exploits Known column of the Soldier table shows when you learn more Exploits of your choice. To learn an Exploit you must meet any prerequisites it may have, like a minimum Ability Score or a minimum Soldier level.
 
 Whenever you gain a Soldier level, you can replace one of the Exploits you know with another Exploit of your choice.
 
-#### Saving Throws
+##### Saving Throws
 If one of your Exploits requires a creature to make a saving throw, your Exploit saving throw DC is calculated as follows:
 
 Exploit save DC = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
 
-### Know Your Enemy
+#### Know Your Enemy
 Beginning at 3rd level, you can evaluate the potential of others with a glance. As an action, choose one creature you can see within 60 feet. You learn if it is your equal, superior, or inferior in one of the following attributes:
 
 | Armor Class          | Strength Score     |
@@ -3535,56 +3537,56 @@ Once you use this feature to learn something about a creature, you can't use it 
 
 When you reach 14th level, you can use this feature to learn of your foe's strengths through battle. Once per turn, you can use this feature when you hit with a weapon attack, and you can use this feature to learn three things about a creature between each short or long rest.
 
-### Battle Archetype
+#### Battle Archetype
 At 3rd level, choose the Battle Archetype from the options below that best represents your skills and training: Arcane Knight, Champion, Commander, Marksman, or Master at Arms.
 
 Also included at the end of this class are Archetypes inspired by official Soldier options: Knight Errant, Mystic, Ronin, Runecarver, Shadowdancer, and Sylvan Archer.
 
 Your Battle Archetype grants you features at 3rd level and again at 7th, 10th, 15th, and 18th levels.
 
-### Archetype Exploits
+#### Archetype Exploits
 Some Archetypes have a list of Archetype Exploits that you learn at the Soldier levels noted in the Archetype description. They don't count against your number of Exploits Known and can't be switched out for other Exploits. If you do not meet an Archetype Exploit's prerequisites, you learn it regardless.
 
-### Ability Score Improvement
+#### Ability Score Improvement
 At 4th level, and again at 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or two different ability scores of your choice by 1. As normal, you cannot increase an ability score above 20 using this feature.
 
-### Extra Attack
+#### Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 When you reach certain levels in this class, the number of attacks you can make as part of your Attack action increases; at 11th level (3 attacks) and at 17th level (4 attacks).
 
-### Action Surge
+#### Action Surge
 Starting at 6th level, you can push yourself past your limits, if only for a moment. On your turn, you can take one additional action on that current turn. Once you do so, you must finish a short or long rest before you can use this feature again.
 
 When you reach 20th level, you can use this feature twice between each short or long rest, but only once per turn.
 
-### Indomitable
+#### Indomitable
 Your fighting spirit allows you to grasp success from the jaws of defeat. Beginning at 9th level, when you fail a saving throw, you can choose to succeed instead. Once you use this feature, you must finish a long rest before you can use it again.
 
 At certain Soldier levels, you can use this feature additional times between each long rest. You can use this feature twice starting at 13th level, and three times starting at 17th level.
 
-### Martial Superiority
+#### Martial Superiority
 Your martial skill eclipses even that of professional warriors. Starting at 11th level, whenever you use your Second Wind feature you regain one of your expended Exploit Dice.
 
 Also, you regain all expended Exploit dice if you spend 10 minutes doing only activity that would be part of a short rest.
 
-### Relentless
+#### Relentless
 At 20th level, your skills in combat are those of legend. When you roll initiative, you regain all expended Exploit Dice.
 
 Also, if you start your turn with no Exploit Dice remaining, you immediately regain one of your expended Exploit Dice.
 
 
-## Additional Battle Archetypes
+### Additional Battle Archetypes
 
-### Battle Archetypes
+#### Battle Archetypes
 
 Choose the Battle Archetype that best represents the skill and training your Soldier has received: the Arcane Knight, Champion, Commander, Marksman, or Master at Arms.
 
-### Champion
+#### Champion
 
 Champions forgo all other forms of improvement to focus on enhancing their raw physical might. These immense figures strive to maintain peak physical condition through relentless training. In battle, Champions perform supernatural feats of athleticism and overwhelm their foes with their raw power.
 
-#### Champion Exploits
+##### Champion Exploits
 
 3rd-level Champion Archetype feature
 
@@ -3596,7 +3598,7 @@ You learn certain Exploits at the Soldier levels noted in the table below. They 
 | 5th           | concussive blow, heroic will |
 | 9th           | mythic athleticism   |
 
-#### Mighty Battle
+##### Mighty Battle
 
 3rd-level Champion Archetype feature
 
@@ -3604,19 +3606,19 @@ Your raw physical might enhances your attacks. Your weapon attacks score a criti
 
 At 15th level, your critical hit range increases again, and you score a critical hit on a roll of 18-20 on the d20.
 
-#### Remarkable Strength
+##### Remarkable Strength
 
 3rd-level Champion Archetype feature
 
 You easily perform feats of raw strength and endurance that would seem impossible. Whenever you make a Strength or Constitution ability check or saving throw you gain a bonus to your roll equal to one roll of your Exploit Die.
 
-#### Peak Athlete
+##### Peak Athlete
 
 7th-level Champion Archetype feature
 
 Your physical abilities are peerless. You gain a climbing and swimming speed equal to your walking speed, and when you use Second Wind you gain the benefits of the Dash action.
 
-#### Devastating Critical
+##### Devastating Critical
 
 10th-level Champion Archetype feature
 
@@ -3624,17 +3626,17 @@ Whenever you score a critical hit with a weapon attack you can deal additional d
 
 At 15th level, when you score a critical hit with a weapon attack, you can maximize the damage instead of rolling. Once you do, you must finish a long rest before you can do so again.
 
-#### Legendary Champion
+##### Legendary Champion
 
 18th-level Champion Archetype feature
 
 You are a nearly perfect physical specimen and have become exceedingly hard to kill. If you begin your turn with less than half of your hit points remaining, but at least 1 hit point, you regain hit points equal to 5 + your Constitution modifier.
 
-### Commander
+#### Commander
 
 Not all Soldiers rely solely on themselves in battle; some lead others with their knowledge of tactics. Commanders lead at the front, issuing orders and inspiring greatness in others by their own brave deeds. By their presence, a Commander can transform an unorganized militia into a deadly fighting force.
 
-#### Commander Exploits
+##### Commander Exploits
 
 3rd-level Commander Archetype feature
 
@@ -3650,19 +3652,19 @@ Leadership Modifier. Some Tactical Exploits require a Leadership modifier. Choos
 | 5th           | enlivening order, surprise attack |
 | 9th           | tactical reposition       |
 
-#### Student of War
+##### Student of War
 
 3rd-level Commander Archetype feature
 
 You have studied the strategy of both politics and war. You gain proficiency in either History, Insight, or Persuasion, and whenever you make an ability check with that skill you gain a bonus to your roll equal to one roll of your Exploit Die.
 
-#### Strategic Command
+##### Strategic Command
 
 7th-level Commander Archetype feature
 
 You can organize your allies even as you fight. When you use Second Wind, you can choose up to three creatures within 30 feet that can see or hear you to regain hit points equal to one roll of your Exploit Die + your Leadership modifier.
 
-#### Heroic Surge
+##### Heroic Surge
 
 10th-level Commander Archetype feature
 
@@ -3670,18 +3672,18 @@ When you use Action Surge, you can choose another creature within 30 feet that c
 
 At 18th level, you can target two creatures with this feature.
 
-#### Inspiring Commands
+##### Inspiring Commands
 
 15th-level Commander Archetype feature
 
 Once per turn when you use a Tactical Exploit that targets at least one friendly creature, one target of your choice gains temporary hit points equal to your Leadership modifier.
 
 
-### Marksman
+#### Marksman
 
 While all Soldiers learn to draw a bow or hurl a javelin, those known as Marksmen are masters of ranged combat. The deadly skills of a Marksman are often backed up by their signature swagger and unshakable confidence. When combined, there are few challenges that a true Marksman cannot overcome.
 
-#### Marksman Exploits
+##### Marksman Exploits
 
 3rd-level Marksman Archetype feature
 
@@ -3693,13 +3695,13 @@ You learn certain Exploits at the Soldier levels noted in the table below. They 
 | 5th           | crippling strike, volley  |
 | 9th           | thunderous shot           |
 
-#### Elite Training
+##### Elite Training
 
 3rd-level Marksman Archetype feature
 
 Your training has enhanced your reaction times. When you make a Dexterity check or saving throw, you can expend an Exploit Die and add it to your roll. You can do so after you roll, but before you know the result.
 
-#### Marksman's Focus
+##### Marksman's Focus
 
 3rd-level Marksman Archetype feature
 
@@ -3709,7 +3711,7 @@ You can quiet your body to fire with deadly accuracy. When you begin your turn a
 - Until you hit a creature with a ranged weapon attack, you have advantage on all ranged weapon attack rolls.
 - When you roll a 1 or 2 on a damage die for an attack you make with a ranged weapon, you can re-roll the die. You must use this new roll, even if the new roll is a 1 or a 2.
 
-#### Cunning Shot
+##### Cunning Shot
 
 7th-level Marksman Archetype feature
 
@@ -3717,13 +3719,13 @@ Your reflexes are almost supernaturally fast. You add your proficiency bonus to 
 
 You have also learned to identify and exploit even the smallest weak points in your enemy's defenses. Your attacks with ranged weapons ignore resistance to piercing damage.
 
-#### Reposition
+##### Reposition
 
 10th-level Marksman Archetype feature
 
 When you use Second Wind, your walking speed increases by 10 feet, and any opportunity attacks against you are made at disadvantage until the end of your current turn.
 
-#### Reliable Shot
+##### Reliable Shot
 
 15th-level Marksman Archetype feature
 
@@ -3731,18 +3733,18 @@ You make even impossible shots with ease. Your normal and long range for ranged 
 
 Also, once per turn, when you have advantage on a ranged weapon attack, you can forgo advantage and make one additional ranged weapon attack.
 
-#### Legendary Marksman
+##### Legendary Marksman
 
 18th-level Marksman Archetype feature
 
 Your marksmanship is supernaturally accurate. When you Focus, the benefits last for 1 minute, and you have advantage on all ranged weapon attacks for the duration. Finally, your speed is only reduced to 10 feet. At the start of your turn, you can end your Focus (no action required).
 
 
-### Master at Arms
+#### Master at Arms
 
 While most Soldiers master one specific martial discipline, a Master at Arms is the rare warrior who is able to truly master multiple styles of combat. Whether through grit, dedication, or extraordinary skill, these elite Soldiers learn all they can about the theory of combat. A Master at Arms is always on the lookout for a new weapon or style of fighting to master.
 
-#### Advanced Technique
+##### Advanced Technique
 
 3rd-level Master at Arms Archetype feature
 
@@ -3762,7 +3764,7 @@ Your ability to learn and execute martial techniques exceeds that of most other 
 
   You learn an additional Fighting Style of your choice at 7th level, and again when you reach 15th level in this class.
 
-#### Master of Forms
+##### Master of Forms
 
 7th-level Master at Arms Archetype feature
 
@@ -3772,7 +3774,7 @@ Any Exploit that you learn through this feature does not count against your tota
 
 You learn one additional Exploit of your choice from any class at 15th level, and one final Exploit at 18th level.
 
-#### Masterful Surge
+##### Masterful Surge
 
 10th-level Master at Arms Archetype feature
 
@@ -3780,7 +3782,7 @@ When you Action Surge, you gain a single Exploit Die that must be used as part o
 
 Also, you can benefit from two of the Fighting Styles you know, but you can only switch one as a bonus action.
 
-#### Battle of Legend
+##### Battle of Legend
 
 18th-level Master at Arms Archetype feature
 
@@ -3793,7 +3795,7 @@ Also, over the course of 1 hour, which can be during a short or long rest, you c
 
 Below are the Exploits available to the Soldier. If an Exploit has a prerequisite, like a minimum Ability Score or level, you can learn it at the same time you meet the prerequisites.
 
-### 1st-Degree Exploits
+#### 1st-Degree Exploits
 
 Exploits of the 1st-degree are minor techniques slightly more complicated than swinging a weapon. They can be learned by Soldiers with modest training and have no level prerequisite.
 
@@ -3893,7 +3895,7 @@ Exploits of the 1st-degree are minor techniques slightly more complicated than s
 - **Warding Strike**
   - When a creature moves within the reach of a melee weapon you are wielding, you can use a reaction to expend an Exploit Die and make a single attack against it with that weapon.
 
-### 2nd-Degree Exploits
+#### 2nd-Degree Exploits
 
 Exploits of the 2nd-degree represent the peak of martial skill achievable by warriors without dedicated training. These can be learned by any Soldier of 5th level or higher.
 
@@ -3953,7 +3955,7 @@ Exploits of the 2nd-degree represent the peak of martial skill achievable by war
   - Prerequisites: 5th level, Strength or Dexterity of 13
   - In place of an attack, you can expend an Exploit Die to force each target within reach of a melee weapon you are wielding to make a Dexterity saving throw.
 
-### 3rd-Degree Exploits
+#### 3rd-Degree Exploits
 
 Exploits of the 3rd-degree are only mastered by elite warriors who dedicate their lives to training. They can only be learned by Soldiers of 9th level and higher. Each 3rd-degree Exploit you know can only be used once per short or long rest.
 
@@ -3981,7 +3983,7 @@ Exploits of the 3rd-degree are only mastered by elite warriors who dedicate thei
   - Prerequisites: 9th level
   - As an action, you can expend one Exploit Die and issue a mighty cry.
 
-### 4th-Degree Exploits
+#### 4th-Degree Exploits
 
 Exploits of the 4th-degree are only able to be mastered by the most elite warriors in a kingdom. These can only be learned by Soldiers of 13th level and higher. Each 4th-degree Exploit you know can only be used once per short or long rest.
 
@@ -4005,7 +4007,7 @@ Exploits of the 4th-degree are only able to be mastered by the most elite warrio
   - Prerequisites: 13th level, Constitution of 17
   - When you take damage that would reduce you to 0 hit points, you can expend Exploit Dice and fall to 1 hit point.
 
-### 5th-Degree Exploits
+#### 5th-Degree Exploits
 
 Exploits of the 5th-degree are techniques and skills that rival demigods and heroes of legend. These can only be learned by Soldiers of 17th level and higher, and each 5th-degree Exploit you know can only be used once per long rest.
 
@@ -4056,17 +4058,17 @@ The Character Advancement table summarizes the XP you need to advance in levels 
 
 ---
 
-# Multiclassing
+## Multiclassing
 
 Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options. With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in magister and two in soldier, you’re a 5th-level character.
 
 As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely, never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-class character of the same level, you’ll sacrifice some focus in exchange for versatility.
 
-## Prerequisites
+### Prerequisites
 
 To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a brute who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-than-average ability scores.
 
-### Multiclassing Prerequisites
+#### Multiclassing Prerequisites
 
 | Class     | Ability Score Minimum |
 |-----------|-----------------------|
@@ -4081,25 +4083,25 @@ To qualify for a new class, you must meet the ability score prerequisites for bo
 | Sorcerer  | Charisma 13           |
 | Magister    | Intelligence 13       |
 
-# Experience Points
+## Experience Points
 
 The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class. So, if you are a priest 6/soldier 1, you must gain enough XP to reach 8th level before you can take your second level as a soldier or your seventh level as a priest.
 
-## Hit Points and Hit Dice
+### Hit Points and Hit Dice
 
 You gain the hit points from your new class as described for levels after 1st. You gain the 1st-level hit points for a class only when you are a 1st-level character.
 
 You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If the Hit Dice are the same die type, you can simply pool them together. For example, both the soldier and the oathbound have a d10, so if you are a oathbound 5/soldier 5, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a oathbound 5/priest 5, for example, you have five d10 Hit Dice and five d8 Hit Dice.
 
-## Proficiency Bonus
+### Proficiency Bonus
 
 Your proficiency bonus is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class. For example, if you are a soldier 3/knave 2, you have the proficiency bonus of a 5th-level character, which is +3.
 
-## Proficiencies
+### Proficiencies
 
 When you gain your first level in a class other than your initial class, you gain only some of new class’s starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
-### Multiclassing Proficiencies
+#### Multiclassing Proficiencies
 
 | Class      | Proficiencies Gained                                            |
 |------------|-----------------------------------------------------------------|
@@ -4114,33 +4116,33 @@ When you gain your first level in a class other than your initial class, you gai
 | Sorcerer   | —                                                               |
 | Magister     | —                                                               |
 
-## Class Features
+### Class Features
 
 When you gain a new level in a class, you get its features for that level. You don’t, however, receive the class’s starting equipment, and a few features have additional rules when you’re multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Spellcasting.
 
-### Channel Divinity
+#### Channel Divinity
 
 If you already have the Channel Divinity feature and gain a level in a class that also grants the feature, you gain the Channel Divinity effects granted by that class, but getting the feature again doesn’t give you an additional use of it. You gain additional uses only when you reach a class level that explicitly grants them to you. For example, if you are a priest 6/oathbound 4, you can use Channel Divinity twice between rests because you are high enough level in the priest class to have more uses. Whenever you use the feature, you can choose any of the Channel Divinity effects available to you from your two classes.
 
-### Extra Attack
+#### Extra Attack
 
 If you gain the Extra Attack class feature from more than one class, the features don’t add together. You can’t make more than two attacks with this feature unless it says you do (as the soldier’s version of Extra Attack does). 
 
-### Unarmored Defense
+#### Unarmored Defense
 
 If you already have the Unarmored Defense feature, you can’t gain it again from another class.
 
-## Spellcasting
+### Spellcasting
 
 Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, you follow the rules as described in that class.
 
-### Spells Known and Prepared
+#### Spells Known and Prepared
 
 You determine what spells you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a pathfiner 4/magister 3, for example, you know three 1st-level pathfiner spells based on your levels in the pathfiner class. As a 3rd-level magister, you know three magister cantrips, and your spellbook contains ten magister spells, two of which (the two you gained when you reached 3rd level as a magister) can be 2nd-level spells. If your Intelligence is 16, you can prepare six magister spells from your spellbook.
 
 Each spell you know and prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell. Similarly, a spellcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.
 
-### SpellPoints
+#### SpellPoints
 Instead of gaining a number of spell slots to cast your spells from the Spellcasting feature, you gain a pool of spell points instead. You expend a number of spell points to create a spell slot of a given level, and then use that slot to cast a spell. You can't reduce your spell points total to less than 0, and you regain all spent spell points when you finish a long rest.
 
 The number of spell points you have to spend is based on your level as a spellcaster, as shown in the Spell Points by Level table. Your level also determines the maximum-level spell slot you can create. Even though you might have enough points to create a slot above this maximum, you can't do so.
@@ -4184,7 +4186,7 @@ Spell Points by Level
 | 19th        | 123          | 9th             |
 | 20th        | 133          | 9th             |
 
-# Alignment
+## Alignment
 
 A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
 
@@ -4208,7 +4210,7 @@ These brief summaries of the nine alignments describe the typical behavior of a 
 
 - **Chaotic Evil (CE):** Creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust. Demons, red dragons, and orcs are chaotic evil.
 
-## Alignment in the Multiverse
+### Alignment in the Multiverse
 
 For many thinking creatures, alignment is a moral choice. Humans, dwarves, elves, and other humanoid races can choose whether to follow the paths of good or evil, law or chaos. According to myth, the good-aligned gods who created these races gave them free will to choose their moral paths, knowing that good without free will is slavery.
 
@@ -4218,7 +4220,7 @@ Alignment is an essential part of the nature of celestials and fiends. A devil d
 
 Most creatures that lack the capacity for rational thought do not have alignments—they are unaligned. Such a creature is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, for example, but they are not evil; they have no alignment.
 
-# Languages
+## Languages
 
 Your race indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
 
@@ -4226,7 +4228,7 @@ Choose your languages from the Standard Languages table, or choose one that is c
 
 Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
-## Standard Languages
+### Standard Languages
 
 | Language   | Typical Speakers    | Script   |
 |------------|----------------------|----------|
@@ -4239,7 +4241,7 @@ Some of these languages are actually families of languages with many dialects. F
 | Halfling   | Halflings            | Common   |
 | Orc        | Orcs                 | Dwarvish |
 
-## Exotic Languages
+### Exotic Languages
 
 | Language    | Typical Speakers      | Script   |
 |-------------|------------------------|----------|
@@ -4252,39 +4254,23 @@ Some of these languages are actually families of languages with many dialects. F
 | Sylvan      | Fey creatures          | Elvish   |
 | Undercommon | Underworld traders     | Elvish   |
 
-# Inspiration
+## Inspiration
 
 Inspiration is a rule the game master can use to reward you for playing your character in a way that’s true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a spell that has been laid on you.
 
-## Gaining Inspiration
+### Gaining Inspiration
 
 Your GM can choose to give you inspiration for a variety of reasons. Typically, GMs award it when you play out your personality traits, give in to the drawbacks presented by a flaw or bond, and otherwise portray your character in a compelling way. Your GM will tell you how you can earn inspiration in the game.
 
 You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
 
-## Using Inspiration
+### Using Inspiration
 
 If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll.
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
 
-# Inspiration
-
-Inspiration is a rule the game master can use to reward you for playing your character in a way that’s true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a spell that has been laid on you.
-
-## Gaining Inspiration
-
-Your GM can choose to give you inspiration for a variety of reasons. Typically, GMs award it when you play out your personality traits, give in to the drawbacks presented by a flaw or bond, and otherwise portray your character in a compelling way. Your GM will tell you how you can earn inspiration in the game.
-
-You either have inspiration or you don’t—you can’t stockpile multiple “inspirations” for later use.
-
-## Using Inspiration
-
-If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll.
-
-Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
-
-# Backgrounds
+## Backgrounds
 
 Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world. Your soldier might have been a courageous knight or a grizzled soldier. Your magister could have been a sage or an artisan. Your knave might have gotten by as a guild thief or commanded audiences as a jester.
 
@@ -4292,23 +4278,23 @@ Choosing a background provides you with important story cues about your characte
 
 The sample background presented here provides both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
-## Proficiencies
+### Proficiencies
 
 Each background gives a character proficiency in two skills (described in “Using Ability Scores”). In addition, most backgrounds give a character proficiency with one or more tools (detailed in “Equipment”). If a character would gain the same proficiency from two different sources, he or she can choose a different proficiency of the same kind (skill or tool) instead.
 
-## Languages
+### Languages
 
 Some backgrounds also allow characters to learn additional languages beyond those given by race. See “Languages.”
 
-## Equipment
+### Equipment
 
 Each background provides a package of starting equipment. If you use the optional rule to spend coin on gear, you do not receive the starting equipment from your background.
 
-## Suggested Characteristics
+### Suggested Characteristics
 
 A background contains suggested personal characteristics based on your background. You can pick characteristics, roll dice to determine them randomly, or use the suggestions as inspiration for characteristics of your own creation.
 
-## Customizing a Background
+### Customizing a Background
 
 You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in the equipment section. (If you spend coin, you can’t also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can’t find a feature that matches your desired background, work with your GM to create one.
 
@@ -4331,7 +4317,7 @@ You no longer automatically miss or fail when you roll a natural 1 on a D20.
 
 Requirement: Magister
 
-Pick one list of religion spells from among the religions available to your deity and add them to your spell book. These spells are considered to always be prepared for you, but you must have spell points available to cast them. This feat is intended to allow wizards, and warlocks with pact of the tome to prepare some cleric spells. Other casters without spell books cannot benefit from this feat.
+Pick one list of religion spells from among the religions available to your deity and add them to your spell book. These spells are considered to always be prepared for you, but you must have spell points available to cast them. This feat is intended to allow magisters, and warlocks with pact of the tome to prepare some cleric spells. Other casters without spell books cannot benefit from this feat.
 
 ### Aspect of Owlbears
 
@@ -4785,7 +4771,7 @@ Prerequisites: Intelligence 13 or higher
 Through intense study, you have gained access to magics not previously available to you. You gain the following benefits:
 
 - Your Intelligence score increases by 1, to a maximum of 20.
-- You have a cantrip book for recording different cantrips. As long as you have the book, you can prepare two cantrips from the book daily. The book starts with two wizard cantrips of your choice already recorded. Intelligence is your spellcasting ability for cantrips prepared in the book.
+- You have a cantrip book for recording different cantrips. As long as you have the book, you can prepare two cantrips from the book daily. The book starts with two magister cantrips of your choice already recorded. Intelligence is your spellcasting ability for cantrips prepared in the book.
 - You can record new cantr
 
 #### Tracker
@@ -5171,7 +5157,7 @@ Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, b
 - **Splint Armor:** This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.
 - **Umbralite Plate:** Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
-# Armor
+## Armor
 
 | Armor               | Cost     | Armor Class (AC)       | Strength | Stealth      | Weight | Acquire DC |
 | ------------------- | -------- | ---------------------- | -------- | ------------ | ------ | ---------- |
@@ -5258,7 +5244,7 @@ Weapons with special rules are described here.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
-# Weapons
+## Weapons
 
 | Name                | Cost    | Damage          | Weight | Properties                                | Acquire DC |
 | ------------------- | ------- | --------------- | ------ | ----------------------------------------- | ---------- |
@@ -5314,7 +5300,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 
 
 
-# Adventuring Gear
+## Adventuring Gear
 
 This section describes items that have special rules or require further explanation.
 
@@ -5323,7 +5309,7 @@ This section describes items that have special rules or require further explanat
 | **Acid**            | As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage. |
 | **Alchemist’s Fire** | This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d8 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames. |
 | **Antitoxin**       | A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs. |
-| **Arcane Focus**    | An arcane focus is a special item— an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item— designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus. |
+| **Arcane Focus**    | An arcane focus is a special item— an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item— designed to channel the power of arcane spells. A sorcerer, warlock, or magister can use such an item as a spellcasting focus. |
 | **Ball Bearings**   | As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn’t need to make the save. |
 | **Block and Tackle** | A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift. |
 | **Book**            | A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section). |
@@ -5357,7 +5343,7 @@ This section describes items that have special rules or require further explanat
 | **Rations**           | Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts. |
 | **Rope**              | Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check. |
 | **Scale, Merchant’s** | A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth. |
-| **Spellbook**         | Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells. |
+| **Spellbook**         | Essential for magisters, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells. |
 | **Spyglass**          | Objects viewed through a spyglass are magnified to twice their size. |
 | **Tent**              | A simple and portable canvas shelter, a tent sleeps two. |
 | **Tinderbox**         | This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute. |
@@ -5681,7 +5667,7 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 
 **Poor**: A poor lifestyle means going without the comforts available in a stable community. Simple food and lodgings, threadbare clothing, and unpredictable conditions result in a sufficient, though probably unpleasant, experience. Your accommodations might be a room in a flophouse or in the common room above a tavern. You benefit from some legal protections, but you still have to contend with violence, crime, and disease. People at this lifestyle level tend to be unskilled laborers, costermongers, peddlers, thieves, mercenaries, and other disreputable types.
 
-**Modest**: A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don’t go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge wizards, and the like.
+**Modest**: A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don’t go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, priests, hedge magisters, and the like.
 
 **Comfortable**: Choosing a comfortable lifestyle means that you can afford nicer clothing and can easily maintain your equipment. You live in a small cottage in a middle-class neighborhood or in a private room at a fine inn. You associate with merchants, skilled tradespeople, and military officers.
 
@@ -5730,7 +5716,7 @@ Maintaining this kind of lifestyle doesn’t require you to spend any coin, but 
 
 Adventurers can pay nonplayer characters to assist them or act on their behalf in a variety of circumstances. Most such hirelings have fairly ordinary skills, while others are masters of a craft or art, and a few are experts with specialized adventuring skills.
 
-Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the secret chest spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
+Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a magister might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the secret chest spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
 
 Other hirelings provide more expert or dangerous services. Mercenary soldiers paid to help the adventurers take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. If a high-level adventurer establishes a stronghold of some kind, he or she might hire a whole staff of servants and agents to run the place, from a castellan or steward to menial laborers to keep the stables clean. These hirelings often enjoy a long-term contract that includes a place to live within the stronghold as part of the offered compensation.
 
@@ -5756,6 +5742,34 @@ People who are able to cast spells don’t fall into the category of ordinary hi
 
 Hiring someone to cast a relatively common spell of 1st or 2nd level, such as cure wounds or identify, is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-infested wilderness to deliver something important to a distant settlement.
 
+
+# Spellcasting
+
+Magic permeates fantasy gaming worlds and often appears in the form of a spell.
+
+This section provides the rules for casting spells. Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.
+
+### What Is a Spell?
+
+A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect—in most cases, all in the span of seconds.
+
+Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions (see appendix PH-A), drain life energy away, and restore life to the dead.
+
+Uncounted thousands of spells have been created over the course of the multiverse’s history, and many of them are long forgotten. Some might yet lie recorded in crumbling spellbooks hidden in ancient ruins or trapped in the minds of dead gods. Or they might someday be reinvented by a character who has amassed enough power and wisdom to do so.
+
+### Spell Level
+
+Every spell has a level from 0 to 9. A spell’s level is a general indicator of how powerful it is, with the lowly (but still impressive) magic missile at 1st level and the earth-shaking wish at 9th. Cantrips—simple but powerful spells that characters can cast almost by rote—are level 0. The higher a spell’s level, the higher level a spellcaster must be to use that spell.
+
+Spell level and character level don’t correspond directly. Typically, a character has to be at least 17th level, not 9th level, to cast a 9th-level spell.
+
+### Known and Prepared Spells
+
+Before a spellcaster can use a spell, he or she must have the spell firmly fixed in mind, or must have access to the spell in a magic item. Members of a few classes, including bards and sorcerers, have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-using monsters. Other spellcasters, such as clerics and magisters, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
+
+In every case, the number of spells a caster can have fixed in mind at any given time depends on the character’s level.
+
+### Spell Points
 Instead of gaining a number of spell slots to cast your spells from the Spellcasting feature, you gain a pool of spell points instead. You expend a number of spell points to create a spell slot of a given level, and then use that slot to cast a spell. You can't reduce your spell points total to less than 0, and you regain all spent spell points when you finish a long rest.
 
 The number of spell points you have to spend is based on your level as a spellcaster, as shown in the Spell Points by Level table. Your level also determines the maximum-level spell slot you can create. Even though you might have enough points to create a slot above this maximum, you can't do so.
@@ -5799,48 +5813,6 @@ Spell Points by Level
 | 19th        | 123          | 9th             |
 | 20th        | 133          | 9th             |
 
-## Spellcasting
-
-Magic permeates fantasy gaming worlds and often appears in the form of a spell.
-
-This section provides the rules for casting spells. Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.
-
-### What Is a Spell?
-
-A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect—in most cases, all in the span of seconds.
-
-Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions (see appendix PH-A), drain life energy away, and restore life to the dead.
-
-Uncounted thousands of spells have been created over the course of the multiverse’s history, and many of them are long forgotten. Some might yet lie recorded in crumbling spellbooks hidden in ancient ruins or trapped in the minds of dead gods. Or they might someday be reinvented by a character who has amassed enough power and wisdom to do so.
-
-### Spell Level
-
-Every spell has a level from 0 to 9. A spell’s level is a general indicator of how powerful it is, with the lowly (but still impressive) magic missile at 1st level and the earth-shaking wish at 9th. Cantrips—simple but powerful spells that characters can cast almost by rote—are level 0. The higher a spell’s level, the higher level a spellcaster must be to use that spell.
-
-Spell level and character level don’t correspond directly. Typically, a character has to be at least 17th level, not 9th level, to cast a 9th-level spell.
-
-### Known and Prepared Spells
-
-Before a spellcaster can use a spell, he or she must have the spell firmly fixed in mind, or must have access to the spell in a magic item. Members of a few classes, including bards and sorcerers, have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
-
-In every case, the number of spells a caster can have fixed in mind at any given time depends on the character’s level.
-
-### Spell Slots
-
-Regardless of how many spells a caster knows or prepares, he or she can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher-level spells are even more so. Thus, each spellcasting class’s description (except that of the warlock) includes a table showing how many spell slots of each spell level a character can use at each character level. For example, the 3rd-level wizard Umara has four 1st-level spell slots and two 2nd-level slots.
-
-When a character casts a spell, he or she expends a slot of that spell’s level or higher, effectively “filling” a slot with the spell. You can think of a spell slot as a groove of a certain size—small for a 1st-level slot, larger for a spell of higher level. A 1st-level spell fits into a slot of any size, but a 9th-level spell fits only in a 9th-level slot. So when Umara casts magic missile, a 1st-level spell, she spends one of her four 1st-level slots and has three remaining.
-
-Finishing a long rest restores any expended spell slots.
-
-Some characters and monsters have special abilities that let them cast spells without using spell slots. For example, a monk who follows the Way of the Four Elements, a warlock who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast spells in such a way.
-
-### Casting a Spell at a Higher Level
-
-When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if Umara casts magic missile using one of her 2nd-level slots, that magic missile is 2nd level. Effectively, the spell expands to fill the slot it is put into.
-
-Some spells, such as magic missile and cure wounds, have more powerful effects when cast at a higher level, as detailed in a spell’s description.
-
 ### Casting in Armor
 
 Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
@@ -5853,7 +5825,7 @@ A cantrip is a spell that can be cast at will, without using a spell slot and wi
 
 Certain spells have a special tag: ritual. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. The ritual version of a spell takes 10 minutes longer to cast than normal. It also doesn’t expend a spell slot, which means the ritual version of a spell can’t be cast at a higher level.
 
-To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known, unless the character’s ritual feature specifies otherwise, as the wizard’s does.
+To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known, unless the character’s ritual feature specifies otherwise, as the magister’s does.
 
 ### Casting a Spell
 
@@ -5993,7 +5965,7 @@ Most spells that require attack rolls involve ranged attacks. Remember that you 
 
 ### The Schools of Magic
 
-Academies of magic group spells into eight categories called schools of magic. Scholars, particularly wizards, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
+Academies of magic group spells into eight categories called schools of magic. Scholars, particularly magisters, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
 
 The schools of magic help describe spells; they have no rules of their own, although some rules refer to the schools.
 
@@ -6015,7 +5987,7 @@ The schools of magic help describe spells; they have no rules of their own, alth
 
 
 
-##  Spell Descriptions
+#  Spell Descriptions
 
 ###  Acid Arrow
 
@@ -10611,7 +10583,7 @@ The destination you choose must be known to you, and it must be on the same plan
 | **Description** | 01–43 | 44–53 | 54–73 |
 | **False destination** | 01–50 | 51–100 | — |
 
-**Familiarity:** "Permanent circle" means a permanent teleportation circle whose sigil sequence you know. "Associated object" means that you possess an object taken from the desired destination within the last six months, such as a book from a wizard’s library, bed linen from a royal suite, or a chunk of marble from a lich’s secret tomb.
+**Familiarity:** "Permanent circle" means a permanent teleportation circle whose sigil sequence you know. "Associated object" means that you possess an object taken from the desired destination within the last six months, such as a book from a magister’s library, bed linen from a royal suite, or a chunk of marble from a lich’s secret tomb.
 
 "Very familiar" is a place you have been very often, a place you have carefully studied, or a place you can see when you cast the spell. "Seen casually" is someplace you have seen more than once but with which you aren’t very familiar. "Viewed once" is a place you have seen once, possibly using magic. "Description" is a place whose location and appearance you know through someone else’s description, perhaps from a map.
 
